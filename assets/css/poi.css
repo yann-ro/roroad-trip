@@ -1,0 +1,35 @@
+.poi-custom-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.poi-popup hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 8px 0;
+}
+
+/* Style du conteneur de la popup */
+.poi-popup {
+    margin: -1px;
+    /* Réduit les marges par défaut de Leaflet */
+}
+
+/* Style de l'image dans la popup */
+.poi-popup-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px 4px 0 0;
+    /* Arrondi seulement le haut */
+    margin-bottom: 8px;
+}
+
+.poi-content {
+    padding: 5px;
+}

@@ -1,0 +1,147 @@
+#map {
+    flex-grow: 1;
+    width: 100%;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.transport-icons .material-icons {
+    opacity: 0.8;
+
+    text-shadow:
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        2px 2px 0 #fff,
+        0px 2px 4px rgba(0, 0, 0, 0.2);
+    font-size: 15px;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.transport-icons .material-icons:hover {
+    transform: rotate(10deg) scale(2);
+}
+
+.material-icons:hover {
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.material-icons:hover {
+    transform: rotate(10deg) scale(1.3);
+}
+
+.last-stop-blink::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #ff0000;
+    animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+    }
+
+    70% {
+        transform: scale(1.5);
+        box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+    }
+
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+    }
+}
+
+.marker-done {
+    background-color: #10ded7;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+    overflow: visible !important;
+    z-index: 99999 !important;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.marker-done.has-subpages {
+    background-color: #ff9800;
+    box-shadow: 0 0 8px rgba(255, 152, 0, 0.6);
+}
+
+.marker-done:hover {
+    background-color: #de10ab;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.marker-next {
+    background-color: white;
+    border: 1px solid #343333;
+    border-radius: 50%;
+}
+
+
+.marker-label {
+    position: absolute;
+    left: 14px;
+    white-space: nowrap;
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.marker-done:hover .marker-label {
+    opacity: 1;
+    visibility: visible;
+}
+
+.leaflet-popup-content-wrapper {
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+.leaflet-popup-tip {
+    background: white !important;
+    box-shadow: none !important;
+}
+
+.leaflet-popup-content {
+    margin: 0 !important;
+    width: auto !important;
+}
+
+.leaflet-popup-close-button {
+    color: #333 !important;
+    padding: 10px 10px 0 0 !important;
+    z-index: 10;
+}
+
+.gif {
+    mix-blend-mode: screen;
+    filter: multiply(0.5) brightness(1.2);
+}
+
+#music {
+    display: none;
+}

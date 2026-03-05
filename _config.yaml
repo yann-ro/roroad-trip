@@ -1,0 +1,7 @@
+title: Yann Ro
+description: A simple landing page
+theme: minima
+markdown: kramdown
+
+baseurl: "/roroad-trip"
+url: "http://localhost:4000"
