@@ -5,7 +5,7 @@ banner: assets/images/ikarus-baner.jpeg
 banner_offset: 60%
 ---
 
-<div style="position: absolute; top: 200px; width: 100%; text-align: center;">
+<div style="position: absolute; top: 10px; right: 0;">
   <img src="/roroad-trip/assets/images/ikarus-board.png" alt="Description of image" width="400">
 </div>
 
@@ -20,25 +20,24 @@ banner_offset: 60%
 
 <br>
 
-<iframe 
-  style="display: block; margin: 0 auto;"
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/WoZBPk4WSkg?si=c4twwhStN2PSHekE&amp;controls=0&autoplay=1&mute=1" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
-
-<br>
+<div class="video-circle-container">
+  <iframe 
+    width="685" 
+    height="315" 
+    src="https://www.youtube.com/embed/WoZBPk4WSkg?si=c4twwhStN2PSHekE&amp;controls=0&autoplay=1&mute=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 Volontariat au sein de l'école de kite Ikarus. Le cadre est incroyable pour apprendre à faire du kite sur une lagune qui rentre, offrant une super lagune avec de l'eau peu profonde avec peu de clapot sur 2km.
 
 C'est un spot où la fréquentation va énornément varier en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et restauration) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On peut y compter les grains de riz ou faire ce site par exemple.
 
-# Volontariat
+# 🤠 Volontariat
 
 Un mois de travail en tant qu'homme à tout faire, bartender, à la plonge, ..
 Format: 5h de travail de 13 à 18h tous les jours avec 2 jours de repos par semaine. En contre-partie je suis nourri et logé et ils me prêtent le matériel de kite !!
@@ -56,7 +55,7 @@ Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journé
     allowfullscreen>
 </iframe>
 
-## L'équipe
+## 🤗 L'équipe
 
 Pas mal de personnes qui travaillent au sein de ce lieu:
 
@@ -77,7 +76,7 @@ Pas mal de personnes qui travaillent au sein de ce lieu:
 
 et à la réception des clients c'est <span class="profile-trigger">Gloria<span class="profile-card"><img src="/roroad-trip/assets/images/people/gloria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> qui s'occupe de tout.
 
-## Le bar
+## 🍹 Le bar
 
 <div style="text-align: center;">
   <img src="/roroad-trip/assets/images/bar-de-frutas.jpeg" alt="Description of image" width="600">
@@ -129,11 +128,11 @@ Mocktails et autres:
   </tr>
 </table>
 
-## La cuisine
+## 🧑‍🍳 La cuisine
 
 Essentiellement, j'ai lavé des couverts quand c'était le rush 😁.
 
-## Le kite
+## 🪁 Le kite
 
 La saison des vents s'étend de novembre à mai principalement mais on peut y naviguer toute l'année.
 
@@ -169,10 +168,16 @@ Forecast:
   </script>
 
 
-## Les environs
+## 🏕️ Les environs
 
-* Cancun: la ville
+### Cancún
 
-* Puerto Morellos: 
+Accessible depuis la presqu'île via le collectivo.
 
-* Holbox: Petite
+### Puerto Morelos
+
+Ancienne ville de pêcheur transformé en port d'embarcation pour de nombreux trip snorkeling.
+
+### Holbox
+
+Petite île au nord-est du spot

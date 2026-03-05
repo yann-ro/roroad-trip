@@ -101,7 +101,8 @@
 .header-grenouille,
 .header-itza,
 .header-rdv,
-.hover-title span {
+.hover-title,
+.to-click span {
     display: inline-block;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: default;
@@ -112,7 +113,8 @@
 .header-loutre:hover,
 .header-grenouille:hover,
 .header-itza:hover,
-.header-rdv:hover {
+.header-rdv:hover,
+.to-click:hover {
     transform: rotate(10deg) scale(1.1);
 }
 
