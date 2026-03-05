@@ -1,0 +1,349 @@
+[
+    {
+        "name": "Hendaye 🇫🇷",
+        "coords": [
+            43.3594,
+            -1.7661
+        ],
+        "description": "C'est le grand départ ! On dit au revoir à la famille et on est parti pour un peu de train.",
+        "transport": "train",
+        "transport_description": "Topo, Euskotren, 40min",
+        "status": "done"
+    },
+    {
+        "name": "San Sebastián 🇪🇸",
+        "coords": [
+            43.3183,
+            -1.9812
+        ],
+        "description": "Nuit au <a href=\"https://www.colocolo.com\">Colo Colo Hostel</a>, le concept de micro chambre superposée est original et confortable ! A deux pas de la gare c'est parfait pour le départ le lendemain à 4h55!",
+        "transport": "train",
+        "transport_description": "Renfe, 5h",
+        "status": "done"
+    },
+    {
+        "name": "Madrid 🇪🇸",
+        "coords": [
+            40.4165,
+            -3.7026
+        ],
+        "description": "",
+        "transport": "train",
+        "transport_description": "Renfe, 2h50",
+        "status": "done"
+    },
+    {
+        "name": "Sevilla 🇪🇸",
+        "coords": [
+            37.3891,
+            -5.9845
+        ],
+        "description": "",
+        "transport": "train",
+        "transport_description": "Renfe, 1h50",
+        "status": "done"
+    },
+    {
+        "name": "Cadiz 🇪🇸",
+        "coords": [
+            36.5271,
+            -6.2886
+        ],
+        "description": "",
+        "transport": "ferry",
+        "transport_image": "assets/images/armas.jpeg",
+        "transport_description": "Armas, Ciudad de Valencia: 26h",
+        "status": "done"
+    },
+    {
+        "name": "Arrecife 🇮🇨",
+        "coords": [
+            28.9635,
+            -13.5477
+        ],
+        "description": "Capital of Lanzarote",
+        "transport": "ferry",
+        "transport_image": "assets/images/armas.jpeg",
+        "transport_description": "Armas, Ciudad de Valencia: 2h",
+        "status": "done"
+    },
+    {
+        "name": "Puerto del Rosario 🇮🇨",
+        "coords": [
+            28.5008,
+            -13.8627
+        ],
+        "description": "Capital of Fuerteventura",
+        "transport": "ferry",
+        "transport_image": "assets/images/armas.jpeg",
+        "transport_description": "Armas, Ciudad de Valencia: 5h",
+        "status": "done"
+    },
+    {
+        "name": "Las Palmas (Gran Canaria) 🇮🇨",
+        "coords": [
+            28.1248,
+            -15.43
+        ],
+        "description": "",
+        "image": "assets/images/palmas.jpeg",
+        "transport": "sailing",
+        "transport_image": "assets/images/boat_canaries.jpeg",
+        "transport_description": "Oceanis 37, 5j de navigation comme prévu ! Premiers quarts !!",
+        "transport_subpage_path": "assets/subpages/transat-1",
+        "status": "done"
+    },
+    {
+        "name": "Cap-Vert 🇨🇻",
+        "coords": [
+            16.8802,
+            -24.98
+        ],
+        "description": "Trois jours d'escales le temps de fixer de l'électronique, faire les courses, louer une aile de kite et c'est reparti!",
+        "transport": "sailing",
+        "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable mais content d'arriver!<br><br>note: Le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent..",
+        "transport_image": "assets/images/transat.jpeg",
+        "transport_subpage_path": "assets/subpages/transat-2",
+        "status": "done"
+    },
+    {
+        "name": "Guadeloupe 🇬🇵",
+        "coords": [
+            16.265,
+            -61.551
+        ],
+        "description": "4j pour visiter l'île! Premier Ti' punch d'arrivée",
+        "transport": "plane",
+        "image": "assets/images/guadeloupe.jpeg",
+        "transport_description": "Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le sud du Mexique !! (Escale en République Dominicaine)",
+        "status": "done"
+    },
+    {
+        "name": "Isla blanca 🇲🇽",
+        "coords": [
+            21.330384,
+            -86.797627
+        ],
+        "description": "Premier volontariat au sein d'Ikarus kitesurf school eco-hotel 🏄‍♂️🪁",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/4d/65/74/view-from-the-helicopter.jpeg?w=1200&h=900&s=1",
+        "transport": "train",
+        "status": "done",
+        "transport_description": "Tren Maya, 2h<br><br>Début d'un roadtrip de 15j pour longer la côte pacifique de l'amérique centrale pour rejoindre le nord du Costa Rica pour le prochain volontariat.",
+        "subpage_path": "assets/subpages/ikarus-isla-blanca"
+    },
+    {
+        "name": "Chetumal 🇲🇽",
+        "coords": [
+            18.521033,
+            -88.291273
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Belize City 🇧🇿",
+        "coords": [
+            17.495758,
+            -88.212411
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Flores 🇬🇹",
+        "coords": [
+            16.921120,
+            -89.895616
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Guatemala 🇬🇹",
+        "coords": [
+            14.628531,
+            -90.509044
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "El Tunco 🇸🇻",
+        "coords": [
+            13.494493,
+            -89.383539
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "El Tránsito 🇳🇮",
+        "coords": [
+            12.056558,
+            -86.707637
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Popoyo 🇳🇮",
+        "coords": [
+            11.470024,
+            -86.124486
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Playa Gigante 🇳🇮",
+        "coords": [
+            11.388533,
+            -86.032577
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "San Juan del Sur 🇳🇮",
+        "coords": [
+            11.253657,
+            -85.873099
+        ],
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Playa Copal 🇨🇷",
+        "coords": [
+            11.0125,
+            -85.7333
+        ],
+        "description": "Second volontariat au sein de Tico kite school !",
+        "transport": "bus",
+        "status": "done",
+        "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YNqJNR6kOWh0eNzO/imagen-de-whatsapp-2025-02-19-a-las-09.09.13_a307b619-A3QOzzXlkEhNEq2Y.jpeg",
+        "subpage_path": "assets/subpages/tico-playa-copal"
+    },
+    {
+        "name": "Panama City 🇵🇦",
+        "coords": [
+            8.9833,
+            -79.5167
+        ],
+        "description": "",
+        "transport": "sailing",
+        "status": "done"
+    },
+    {
+        "name": "Polynésie Française 🇵🇫",
+        "coords": [
+            -17.6509,
+            -149.426
+        ],
+        "description": "",
+        "transport": "sailing",
+        "status": "next"
+    },
+    {
+        "name": "Australie 🇦🇺",
+        "coords": [
+            -33.8688,
+            151.2093
+        ],
+        "description": "",
+        "transport": "sailing",
+        "status": "next"
+    },
+    {
+        "name": "Indonésie 🇮🇩",
+        "coords": [
+            -8.4095,
+            115.1889
+        ],
+        "description": "",
+        "transport": "sailing",
+        "status": "next"
+    },
+    {
+        "name": "Malaisie 🇲🇾",
+        "coords": [
+            4.2105,
+            101.9758
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Thaïlande 🇹🇭",
+        "coords": [
+            15.8700,
+            100.9925
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Birmanie 🇲🇲",
+        "coords": [
+            21.9162,
+            95.9560
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Népal 🇳🇵",
+        "coords": [
+            28.3949,
+            84.1240
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Kirghizistan 🇰🇬",
+        "coords": [
+            41.2044,
+            74.7661
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Kazakhstan 🇰🇿",
+        "coords": [
+            48.0196,
+            66.9237
+        ],
+        "description": "Aktau-Baku en ferry",
+        "status": "next"
+    },
+    {
+        "name": "Azerbaïdjan 🇦🇿",
+        "coords": [
+            40.1431,
+            47.5769
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Géorgie 🇬🇪",
+        "coords": [
+            42.3154,
+            43.3569
+        ],
+        "status": "next"
+    },
+    {
+        "name": "Istanbul 🇹🇷",
+        "coords": [
+            41.0082,
+            28.9784
+        ],
+        "status": "next"
+    }
+]

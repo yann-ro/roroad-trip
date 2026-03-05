@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Encornet",
+        "coords": [
+            20,
+            -21.8
+        ],
+        "description": "Petit passager clandestin à bord du bateau",
+        "icon": "pets",
+        "image": "assets/images/poi/encornet.jpeg"
+    },
+    {
+        "name": "Iguana",
+        "coords": [
+            21.333,
+            -86.797
+        ],
+        "description": "Petite rencontre avec l'iguane local du spot d'Ikarus. En l'absence de vent il prend un petit bail de soleil sur les roches brûlantes.",
+        "icon": "pets",
+        "image": "assets/images/poi/iguana.jpeg"
+    },
+    {
+        "name": "Pelican",
+        "coords": [
+            21.35,
+            -86.791
+        ],
+        "description": "Pelicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau.",
+        "icon": "pets",
+        "image": "assets/images/poi/pelican.jpeg"
+    },
+    {
+        "name": "Coati",
+        "coords": [
+            21.143247,
+            -86.838161
+        ],
+        "description": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement. C'est une espèce endémique d'Amérique latinequi ressemble à un mélange entre un suricat et un raton laveur.",
+        "icon": "pets",
+        "image": "assets/images/poi/coati.jpeg"
+    },
+    {
+        "name": "Canard Musque",
+        "coords": [
+            21.333,
+            -86.795
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/canard-musque.jpeg"
+    },
+    {
+        "name": "Mue de Limule",
+        "coords": [
+            21.35,
+            -86.789
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/limule.jpeg"
+    },
+    {
+        "name": "Mangrove",
+        "coords": [
+            21.35,
+            -86.793
+        ],
+        "description": "",
+        "icon": "eco",
+        "image": "assets/images/poi/mangrove.jpeg"
+    },
+    {
+        "name": "Tortue",
+        "coords": [
+            20.850263,
+            -86.871296
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/tortue_mx.jpeg"
+    },
+    {
+        "name": "Raie",
+        "coords": [
+            20.845571,
+            -86.869258
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/raie_mx.jpeg"
+    },
+    {
+        "name": "Singe Araignée",
+        "coords": [
+            20.845055,
+            -86.896551
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/singe_araignee.jpeg"
+    },
+    {
+        "name": "Agouti",
+        "coords": [
+            20.844618,
+            -86.903002
+        ],
+        "description": "Petit rongeur assez discret. Difficile à se faire prendre en photo car très discret.",
+        "icon": "pets",
+        "image": "assets/images/poi/agouti.jpeg"
+    },
+    {
+        "name": "Renard Gris",
+        "coords": [
+            21.306262,
+            -86.813521
+        ],
+        "description": "Très difficile à prendre en photo car très discret. Apperçu le long de la route en attendant le colectivo.",
+        "icon": "pets",
+        "image": "assets/images/poi/renard_gris.jpeg"
+    },
+    {
+        "name": "Exocet",
+        "coords": [
+            14.162691,
+            -45.104638
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/exocet.jpeg"
+    },
+    {
+        "name": "Crocodile",
+        "coords": [
+            20.852450,
+            -86.887696
+        ],
+        "description": "Pas encore apperçu mais le long de la route de 2km on chercher à appercevoir ce mythique prédateur. Seuls les paneaux attestent de sa présence.",
+        "icon": "pets",
+        "image": "assets/images/poi/croco_mx.jpeg"
+    }
+]

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    <style>
+        .back-link-sidebar {
+            position: fixed;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 1000;
+        }
+
+        .back-link-sidebar a {
+            text-decoration: none;
+            background-color: #f4f4f4;
+            padding: 10px 15px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            color: #333;
+            font-size: 14px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        @media (max-width: 1000px) {
+            .back-link-sidebar {
+                position: static;
+                transform: none;
+                margin-top: 20px;
+                display: block;
+            }
+        }
+
+        .banner-overlay {
+            position: absolute;
+            top: 10vh;
+            left: 0;
+            right: 0;
+            text-align: center;
+            padding: 0 20px;
+            z-index: 10;
+        }
+
+        .banner-title {
+            display: inline;
+            background-color: white;
+            color: black;
+            padding: 5px 15px;
+            font-size: 2.5em;
+            line-height: 1.6;
+            box-decoration-break: clone;
+            -webkit-box-decoration-break: clone;
+            border-radius: 4px;
+        }
+
+        .page-banner img {
+            width: 100%;
+            height: 35vh;
+            object-fit: cover;
+            object-position: center var(--offset);
+            display: block;
+        }
+
+        .bug-report-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #ffffff;
+            color: #333333;
+            border: 1px solid #cccccc;
+            padding: 10px 15px;
+            border-radius: 30px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            z-index: 9999;
+            transition: all 0.2s ease;
+        }
+
+        .bug-report-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #ffffff;
+            color: #5f6368;
+            border: 1px solid #dadce0;
+            padding: 8px 16px 8px 12px;
+            border-radius: 24px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-family: 'Google Sans', Roboto, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3.1px rgba(60, 64, 67, .15);
+            z-index: 10000;
+            transition: background-color 0.2s, box-shadow 0.2s;
+        }
+
+        .bug-report-button:hover {
+            background-color: #f8f9fa;
+            box-shadow: 0 1px 3px 0 rgba(60, 64, 67, .3), 0 4px 8px 3px rgba(60, 64, 67, .15);
+            color: #202124;
+        }
+
+        .bug-report-button svg {
+            fill: #5f6368;
+        }
+
+        .bug-report-button:hover svg {
+            fill: #ea4335;
+        }
+
+        @media (max-width: 600px) {
+            .bug-report-button span {
+                display: none;
+            }
+
+            .bug-report-button {
+                padding: 10px;
+                border-radius: 50%;
+            }
+        }
+
+        .profile-trigger {
+            position: relative;
+            cursor: help;
+            display: inline-block;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .profile-card {
+            position: absolute;
+            bottom: 120%;
+            left: 50%;
+            transform: translateX(-50%) translateY(10px);
+            width: 100px;
+            height: 100px;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease-out;
+            z-index: 100;
+            background-color: rgba(97, 96, 96, 0.5);
+            border-radius: 8px;
+        }
+
+        .profile-pic {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .flag-overlay {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            font-size: 24px;
+            z-index: 101;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 2px;
+            border-radius: 50%;
+        }
+
+        .profile-trigger:hover .profile-card {
+            opacity: 1;
+            visibility: visible;
+            transform: translateX(-50%) translateY(0);
+        }
+    </style>
+</head>
+
+<body>
+    {% if page.banner %}
+    <div class="page-banner" style="--offset: {{ page.banner_offset | default: '50%' }};">
+        <img src="{{ page.banner | relative_url }}">
+        <div class="banner-overlay">
+            <h1 class="banner-title">{{ page.title }}</h1>
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="back-link-sidebar">
+        <a href="javascript:history.back()">← Retour à la carte</a>
+    </div>
+
+    <article class="post" style="padding: 20px; max-width: 800px; margin: 0 auto;">
+        {% unless page.banner %}
+        <header class="post-header">
+            <h1 class="post-title" style="text-align: center;">{{ page.title }}</h1>
+        </header>
+        {% endunless %}
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+    </article>
+
+    <a href="https://forms.gle/EgaQ7tgcw7v7PLp9A" target="_blank" class="bug-report-button" title="Signaler un bug">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor">
+            <path
+                d="M480-80q-106 0-186-68.5T197-322l-77 77-57-56 87-87q-13-26-21.5-54.5T120-423h-80v-80h80q0-25 5-51.5t16-52.5l-95-94 57-57 101 101q41-55 101-89t128-40v-95h80v95q68 6 128 40t101 89l101-101 57 57-95 94q11 26 16 52.5t5 51.5h80v80h-80q0 28-8.5 56.5T836-332l87 87-57 56-77-77q-17 104-97 172.5T480-80Zm0-120q75 0 127.5-52.5T660-380v-100H300v100q0 75 52.5 127.5T480-200Zm-100-260h200v-120q0-42-29-71t-71-29q-42 0-71 29t-29 71v120Z" />
+        </svg>
+    </a>
+</body>
+
+</html>
