@@ -1,0 +1,401 @@
+#map {
+    flex-grow: 1;
+    width: 100%;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.transport-icons {
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+
+.transport-icons .material-icons {
+    opacity: 0.8;
+
+    text-shadow:
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        2px 2px 0 #fff,
+        0px 2px 4px rgba(0, 0, 0, 0.2);
+    font-size: 24px;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@media (min-aspect-ratio: 1) {
+    .transport-icons {
+        width: 18px;
+        height: 18px;
+        margin-left: -9px;
+        margin-top: -9px;
+    }
+
+    .transport-icons .material-icons {
+        font-size: 18px;
+    }
+}
+
+.transport-icons .material-icons:hover {
+    transform: rotate(10deg) scale(2);
+}
+
+.material-icons:hover {
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.material-icons:hover {
+    transform: rotate(10deg) scale(1.3);
+}
+
+.last-stop-blink {
+    width: 20px;
+    height: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+@media (min-aspect-ratio: 1) {
+    .last-stop-blink {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
+    }
+}
+
+.last-stop-blink::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #ff0000;
+    animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+    }
+
+    70% {
+        transform: scale(1.5);
+        box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+    }
+
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+    }
+}
+
+.marker-done {
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+    overflow: visible !important;
+    z-index: 99999 !important;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    width: 12px;
+    height: 12px;
+    margin-left: -6px;
+    margin-top: -6px;
+}
+
+.marker-done.has-image {
+    background-color: #10ded7;
+    border: 2px solid white;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+
+
+.marker-done.has-subpages {
+    background-color: #ff9800;
+    border: 2px solid white;
+    box-shadow: 0 0 8px rgba(255, 152, 0, 0.6);
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+
+.marker-done:hover {
+    background-color: #de10ab;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+@media (min-aspect-ratio: 1) {
+    .marker-done {
+        width: 8px;
+        height: 8px;
+        margin-left: -4px;
+        margin-top: -4px;
+    }
+
+    .marker-done.has-image {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
+    }
+
+
+    .marker-done.has-subpages {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
+    }
+}
+
+.leaflet-popup-content-wrapper {
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+.leaflet-popup-tip {
+    background: white !important;
+    box-shadow: none !important;
+}
+
+.leaflet-popup-content {
+    margin: 0 !important;
+    width: auto !important;
+}
+
+.leaflet-popup-close-button {
+    color: #333 !important;
+    padding: 10px 10px 0 0 !important;
+    z-index: 10;
+}
+
+.gif {
+    mix-blend-mode: screen;
+    filter: multiply(0.5) brightness(1.2);
+}
+
+#music {
+    display: none;
+}
+
+.polaroid-card {
+    background: white;
+    width: 500px;
+    padding: 10px 10px 20px 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.polaroid-image-wrapper {
+    width: 100%;
+    height: 470px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background: #f0f0f0;
+    margin-bottom: 15px;
+}
+
+.polaroid-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.polaroid-content {
+    text-align: center;
+    color: #444;
+    width: 100%;
+}
+
+.polaroid-title {
+    display: block;
+    font-size: 2rem;
+    line-height: 1.1;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.polaroid-description {
+    font-size: 2rem;
+    margin: 8px 0;
+    line-height: 1.2;
+    color: #555;
+    font-family: 'Life Savers', serif;
+    font-weight: 400;
+}
+
+.polaroid-link-container {
+    margin-top: 10px;
+}
+
+.polaroid-link {
+    font-size: 2rem;
+    font-family: 'Life Savers', serif;
+    font-weight: 400;
+    color: #3e30d6;
+    text-decoration: none;
+}
+
+@media (min-aspect-ratio: 1) {
+    .polaroid-card {
+        width: 300px;
+        padding: 10px 10px 20px 10px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .polaroid-image-wrapper {
+        width: 100%;
+        height: 270px;
+        margin-bottom: 15px;
+    }
+
+    .polaroid-image-wrapper img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .polaroid-content {
+        text-align: center;
+        color: #444;
+        width: 100%;
+    }
+
+    .polaroid-title {
+        font-size: 1rem;
+        line-height: 1.1;
+    }
+
+    .polaroid-description {
+        font-size: 1rem;
+        margin: 8px 0;
+        line-height: 1.2;
+        font-weight: 400;
+    }
+
+    .polaroid-link-container {
+        margin-top: 10px;
+    }
+
+    .polaroid-link {
+        font-size: 1rem;
+    }
+}
+
+
+/* Custom Leaflet Control Container */
+.journey-stats-card {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(4px);
+    border-radius: 8px;
+    padding: 12px 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    min-width: 170px;
+    color: #333;
+}
+
+.stats-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #666;
+    font-weight: 600;
+}
+
+.stats-total {
+    font-size: 20px;
+    font-weight: 700;
+    color: #111;
+    margin: 2px 0 8px 0;
+}
+
+.stats-divider {
+    border: 0;
+    border-top: 1px solid #e2e2e2;
+    margin: 6px 0 8px 0;
+}
+
+.stats-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.stats-row {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+
+.stats-icon {
+    font-size: 16px !important;
+    margin-right: 6px;
+    color: #555;
+}
+
+.stats-mode {
+    text-transform: capitalize;
+    flex-grow: 1;
+    color: #444;
+}
+
+.stats-dist {
+    font-weight: 600;
+    color: #222;
+}
+
+/* 1. Target Leaflet's top-right container to fill the vertical height */
+.leaflet-top.leaflet-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 95%;
+    pointer-events: none;
+}
+
+.journey-stats-card {
+    pointer-events: auto;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(4px);
+    border-radius: 8px;
+    padding: 12px 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    width: 220px;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.stats-flags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 18px;
+    line-height: 1.3;
+    margin-top: 6px;
+}

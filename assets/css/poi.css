@@ -1,0 +1,52 @@
+.poi-custom-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+
+.poi-custom-icon .material-icons {
+    font-size: 18px !important;
+}
+
+@media (min-aspect-ratio: 1) {
+    .poi-custom-icon {
+        width: 18px;
+        height: 18px;
+        margin-left: -9px;
+        margin-top: -9px;
+    }
+
+    .poi-custom-icon .material-icons {
+        font-size: 12px !important;
+    }
+}
+
+.poi-popup hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 8px 0;
+}
+
+.poi-popup {
+    margin: -1px;
+}
+
+.poi-popup-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px 4px 0 0;
+    margin-bottom: 8px;
+}
+
+.poi-content {
+    padding: 5px;
+}
