@@ -22,12 +22,7 @@ export class BackgroundMap {
             pane: 'shadowPane',
         }).addTo(this.map);
 
-        L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lines/{z}/{x}/{y}{r}.png', {
-            attribution: '© Stadia Maps',
-            pane: 'overlayPane',
-            maxZoom: 12,
-            opacity: 0.15
-        }).addTo(this.map);
+
     }
 
 }
