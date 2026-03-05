@@ -141,3 +141,7 @@ body {
     mix-blend-mode: screen;
     filter: multiply(0.5) brightness(1.2);
 }
+
+#music {
+    display: none;
+}
