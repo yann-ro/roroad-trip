@@ -21,8 +21,6 @@ export class BackgroundMap {
             attribution: '© CartoDB',
             pane: 'shadowPane',
         }).addTo(this.map);
-
-
     }
 
 }

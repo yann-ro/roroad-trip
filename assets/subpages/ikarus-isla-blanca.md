@@ -5,8 +5,8 @@ banner: assets/images/ikarus-baner.jpeg
 banner_offset: 60%
 ---
 
-<div style="position: absolute; top: 10px; right: 0;">
-  <img src="/roroad-trip/assets/images/ikarus-board.png" alt="Description of image" width="400">
+<div style="position: absolute; top: 20%; right: 0; width: 30vw;">
+  <img src="/roroad-trip/assets/images/ikarus-board.png" alt="Description of image">
 </div>
 
 <div style="text-align: center;">
