@@ -172,7 +172,7 @@
     font-family: sans-serif;
 }
 
-@media (max-width: 768px) {
+@media (max-aspect-ratio: 3/4) {
     .mobile-warning {
         display: block;
     }
