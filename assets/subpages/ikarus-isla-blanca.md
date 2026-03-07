@@ -24,7 +24,7 @@ banner_offset: 60%
   <iframe 
     width="685" 
     height="315" 
-    src="https://www.youtube.com/embed/WoZBPk4WSkg?si=c4twwhStN2PSHekE&amp;controls=0&autoplay=1&mute=1" 
+    src="https://www.youtube.com/embed/bBvZTfVQX1I?si=NGI0EbnBZvaCOMVg&amp;controls=0&autoplay=1&mute=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -48,7 +48,7 @@ Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journé
     style="display: block; margin: 0 auto;"
     width="315" 
     height="560" 
-    src="https://www.youtube.com/embed/dc8SAsGuE9o?autoplay=1&mute=1&loop=1&playlist=dc8SAsGuE9o" 
+    src="https://www.youtube.com/embed/dc8SAsGuE9o?autoplay=1&mute=1&loop=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
