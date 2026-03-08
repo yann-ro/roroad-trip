@@ -4,6 +4,7 @@ layout: none
 ---
 
 <!-- Import packages CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
 <link
   rel="stylesheet"
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -59,12 +60,17 @@ layout: none
 </a>
 
 <a href="assets/subpages/dans-ma-valise.html" target="_blank" style="position: fixed; left: min(15vh, 15vw); bottom: 10%; z-index: 10000">
-  <img src="assets/images/stitch.gif" class="to-click" style="height: 10%">
+  <img src="assets/images/stitch.gif" class="to-click" style="height: 10vh">
 </a>
 
-<div id="musc">
-  <iframe id="sc-player" style="position: fixed; left: 0px; bottom: 1.1rem; z-index: 999999" width="min(10vh, 10vw)" height="10%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82616537&color=%23ff5500&auto_play=true"></iframe>
-</div>
+<iframe 
+  id="sc-player" 
+  style="position: fixed; left: 0px; bottom: 1.1rem; z-index: 999999; width: min(25vh, 40vw); height: 10vh;" 
+  scrolling="no" 
+  frameborder="no" 
+  allow="autoplay" 
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82616537&color=%23ff5500&auto_play=true">
+</iframe>
 
 </div>
 

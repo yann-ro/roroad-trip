@@ -19,9 +19,6 @@ export class JourneyManager {
         };
     }
 
-    /**
-     * Charge les données et lance le rendu
-     */
     async load(url) {
         try {
             const response = await fetch(url);
@@ -32,9 +29,6 @@ export class JourneyManager {
         }
     }
 
-    /**
-     * Rendu principal
-     */
     render() {
         this._clearLayers();
         this._drawPaths();
@@ -45,9 +39,6 @@ export class JourneyManager {
         Object.values(this.layers).forEach(layer => layer.clearLayers());
     }
 
-    /**
-     * Dessine les lignes géodésiques avec duplication pour la continuité
-     */
     _drawPaths() {
         const donePoints = this.journeyData.filter(p => p.status === "done");
         const nextPoints = this.journeyData.filter(p => p.status === "next");
@@ -77,9 +68,6 @@ export class JourneyManager {
         }
     }
 
-    /**
-     * Nouvelle méthode d'aide pour éviter la répétition du code triple (0, 360, -360)
-     */
     _drawGeodesicTriple(coords, style) {
         [0, 360, -360].forEach(offset => {
             const shiftedCoords = coords.map(c => [c[0], c[1] + offset]);
@@ -96,11 +84,7 @@ export class JourneyManager {
         });
     }
 
-    /**
-     * Dessine les points d'arrêt et les icônes de transport
-     */
     _drawStops() {
-        // Trouver l'index du dernier point "done"
         const donePoints = this.journeyData.filter(p => p.status === "done");
         const lastDonePoint = donePoints[donePoints.length - 1];
 
@@ -109,7 +93,6 @@ export class JourneyManager {
 
             let markerOptions = {};
 
-            // Si c'est le dernier point "done", on applique le style spécial
             if (isLastDone) {
                 markerOptions.icon = L.divIcon({
                     className: 'last-stop-blink',
@@ -236,7 +219,7 @@ export class JourneyManager {
 
 export function generatePolaroidHTML(image, title, description, badge = '', linkPath = '') {
     const imageBlock = image ? `
-        <div style="width: 100%; height: 180px; overflow: hidden; border: 1px solid #ddd; background: #f0f0f0; margin-bottom: 15px;">
+        <div style="width: 100%; height: 270px; overflow: hidden; border: 1px solid #ddd; background: #f0f0f0; margin-bottom: 15px;">
             <img src="${image}" style="width: 100%; height: 100%; object-fit: cover; display: block;">
         </div>
     ` : '';
@@ -244,7 +227,7 @@ export function generatePolaroidHTML(image, title, description, badge = '', link
     return `
         <div style="
             background: white;
-            width: 200px;
+            width: 300px;
             padding: 10px 10px 20px 10px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.3);
             border-radius: 5px;
