@@ -96,15 +96,15 @@ export class JourneyManager {
             if (isLastDone) {
                 markerOptions.icon = L.divIcon({
                     className: 'last-stop-blink',
-                    iconSize: [8, 8],
-                    iconAnchor: [4, 4],
-                    zIndexOffset: 0,
+                    iconSize: [12, 12],
+                    iconAnchor: [6, 6],
+                    zIndexOffset: 99999,
                 });
             } else if (stop.status === "next") {
                 markerOptions.icon = L.divIcon({
                     className: 'marker-next',
-                    iconSize: [4, 4],
-                    iconAnchor: [2, 2],
+                    iconSize: [6, 6],
+                    iconAnchor: [3, 3],
                     zIndexOffset: 0,
                 });
             } else {
@@ -115,8 +115,8 @@ export class JourneyManager {
 
                 markerOptions.icon = L.divIcon({
                     className: 'marker-done' + extraClass, // Deviendra 'marker-done has-subpages'
-                    iconSize: [8, 8],
-                    iconAnchor: [4, 4],
+                    iconSize: [12, 12],
+                    iconAnchor: [6, 6],
                     html: `<span class="marker-label">${stop.name}</span>`,
                     zIndexOffset: 1000
                 });

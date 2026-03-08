@@ -27,8 +27,8 @@ export class POIManager {
         const icon = L.divIcon({
             className: 'poi-custom-icon',
             html: `<span class="material-icons" style="color: green; font-size: 10px;">${poi.icon || 'place'}</span>`,
-            iconSize: [12, 12],
-            iconAnchor: [6, 6],
+            iconSize: [14, 14],
+            iconAnchor: [7, 7],
             popupAnchor: [0, -6],
             zIndexOffset: 0,
         });
