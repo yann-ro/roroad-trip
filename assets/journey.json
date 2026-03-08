@@ -115,7 +115,7 @@
         "description": "4j pour visiter l'île! Premier Ti' punch d'arrivée",
         "transport": "plane",
         "image": "assets/images/guadeloupe.jpeg",
-        "transport_description": "Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le sud du Mexique !! (Escale en République Dominicaine)",
+        "transport_description": "Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le sud du Mexique !!",
         "status": "done"
     },
     {
@@ -124,7 +124,7 @@
             21.330384,
             -86.797627
         ],
-        "description": "Premier volontariat au sein d'Ikarus kitesurf school eco-hotel 🏄‍♂️🪁",
+        "description": "Premier volontariat au sein d'Ikarus.🏄‍♂️🪁",
         "image": "assets/images/ikarus.jpeg",
         "transport": "train",
         "status": "done",

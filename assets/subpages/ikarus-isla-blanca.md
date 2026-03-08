@@ -33,7 +33,9 @@ banner_offset: 60%
   </iframe>
 </div>
 
-Volontariat au sein de l'école de kite Ikarus. Le cadre est incroyable pour apprendre à faire du kite sur un bras de mer qui rentre, offrant une super lagune avec de l'eau peu profonde avec peu de clapot sur 2km.
+Volontariat au sein de l'école-hotel-camping d'Ikarus. Le cadre est incroyable pour apprendre à faire du kite sur un bras de mer qui rentre dans la réserve naturelle de Chacmuchuch.  une super lagune avec de l'eau peu profonde sur plusieurs kilomètres où on peut y croiser une grande variété d'oiseaux et de poissons.
+
+Le lieu est assez isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires. L'eau 
 
 C'est un spot où la fréquentation va énornément varier en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et resto) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On peut y compter les grains de riz, jouer aux cartes (ou faire ce site).
 
@@ -76,6 +78,8 @@ Pas mal de personnes qui travaillent au sein de ce lieu:
 
 et à la réception des clients c'est <span class="profile-trigger">Gloria<span class="profile-card"><img src="/roroad-trip/assets/images/people/gloria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> qui s'occupe de tout.
 
+On n'oublie pas la présence de <span class="profile-trigger">Lily<span class="profile-card"><img src="/roroad-trip/assets/images/people/lily.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>, <span class="profile-trigger">Rex<span class="profile-card"><img src="/roroad-trip/assets/images/people/rex.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span> et <span class="profile-trigger">el Raton<span class="profile-card"><img src="/roroad-trip/assets/images/people/raton.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>.
+
 ## 🍹 Le bar
 
 <div style="text-align: center;">
@@ -90,7 +94,7 @@ Les Cocktails:
     <td style="padding: 10px; width: 33.33%; vertical-align: top;">
       <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Ikarus" width="200" style="max-width: 100%; height: auto;">
       <br>
-      <i style="font-size: 0.9rem;"><b>Ikarus</b><br>On mixe: 1/4 concombre, 5xbasilic, 1 shot Bacardi, 4xglaçons</i>
+      <i style="font-size: 0.9rem;"><b>Ikarus</b><br>On mixe: 1/4 concombre, 5 feuilles de basilic, 1 shot Bacardi, 4 glaçons</i>
     </td>
     <td style="padding: 10px; width: 33.33%; vertical-align: top;">
       <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Piña Colada" width="200" style="max-width: 100%; height: auto;">
@@ -123,7 +127,7 @@ Mocktails et autres:
     <td style="padding: 10px; width: 33.33%; vertical-align: top;">
       <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Smoothie" width="200" style="max-width: 100%; height: auto;">
       <br>
-      <i style="font-size: 0.9rem;"><b>Smoothie</b><br>On mixe: 240g platano/piña/fraise/mangue surgelée un peu d'eau et hop!</i>
+      <i style="font-size: 0.9rem;"><b>Smoothie</b><br>On mixe: 240g platano/piña/fraise/mangue surgelées un peu d'eau et hop!</i>
     </td>
   </tr>
 </table>
