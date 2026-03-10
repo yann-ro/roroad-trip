@@ -148,5 +148,25 @@
         "description": "Pas encore apperçu mais le long de la route de 2km on chercher à appercevoir ce mythique prédateur. Seuls les paneaux attestent de sa présence.",
         "icon": "pets",
         "image": "assets/images/poi/croco_mx.jpeg"
+    },
+    {
+        "name": "Punta Moscito",
+        "coords": [
+            21.552801,
+            -87.347841
+        ],
+        "description": "",
+        "icon": "group",
+        "image": "assets/images/trips/holbox/team.jpeg"
+    },
+    {
+        "name": "Holbox Volleyball",
+        "coords": [
+            21.527273,
+            -87.377650
+        ],
+        "description": "",
+        "icon": "group",
+        "image": "assets/images/trips/holbox/volley.jpeg"
     }
 ]
