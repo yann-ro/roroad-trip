@@ -101,6 +101,7 @@
         ],
         "description": "Trois jours d'escales le temps de fixer de l'électronique, faire les courses, louer une aile de kite sur une demi journée et c'est reparti!",
         "transport": "sailing",
+        "image": "assets/images/cap-vert.jpeg",
         "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable mais content d'arriver!<br><br>note: Le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent (une coque étache avec une visse en moins n'est donc pas une coque étanche)..",
         "transport_image": "assets/images/transat.jpeg",
         "transport_subpage_path": "assets/subpages/transat-2",

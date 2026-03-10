@@ -1,5 +1,5 @@
 ---
-title: IKARUS, Isla Blanca<br>México 🇲🇽
+title: IKARUS, Isla Blanca<br>Yucatán, México 🇲🇽
 layout: markdown
 banner: assets/images/ikarus-baner.jpeg
 banner_offset: 60%
@@ -33,11 +33,11 @@ banner_offset: 60%
   </iframe>
 </div>
 
-Volontariat au sein de l'école-hotel-camping d'Ikarus. Le cadre est incroyable pour apprendre à faire du kite sur un bras de mer qui rentre dans la réserve naturelle de Chacmuchuch.  une super lagune avec de l'eau peu profonde sur plusieurs kilomètres où on peut y croiser une grande variété d'oiseaux et de poissons.
+Volontariat au sein de l'école-hotel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une superbe lagune où on peut croiser une grande variété d'oiseaux et de poissons.
 
-Le lieu est assez isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires. L'eau 
+Le lieu est isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires.
 
-C'est un spot où la fréquentation va énornément varier en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et resto) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On peut y compter les grains de riz, jouer aux cartes (ou faire ce site).
+C'est un spot où la fréquentation varie en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et resto) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On s'occupe comme on peut en jouant aux cartes, fléchettes ou faire ce site!
 
 # 🤠 Volontariat
 
@@ -47,10 +47,10 @@ Format: 5h de travail de 13 à 18h tous les jours avec 2 jours de repos par sema
 Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journée ça permet aussi d'avoir des petits moments privilégiés comme celui-ci:
 
 <iframe 
-    style="display: block; margin: 0 auto;"
+    style="display: block; margin: 0 auto; border-radius: 4px;"
     width="315" 
-    height="560" 
-    src="https://www.youtube.com/embed/dc8SAsGuE9o?autoplay=1&mute=1&loop=1" 
+    height="560"
+    src="https://www.youtube.com/embed/fCpLVW6NhnI?autoplay=1&mute=1&loop=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -59,7 +59,7 @@ Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journé
 
 ## 🤗 L'équipe
 
-Pas mal de personnes qui travaillent au sein de ce lieu:
+Une équipe au top travaille dans ce lieu:
 
 <span class="profile-trigger">Adriana<span class="profile-card"><img src="/roroad-trip/assets/images/people/adriana.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> & <span class="profile-trigger">Foka<span class="profile-card"><img src="/roroad-trip/assets/images/people/foka.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> dirigent l'établissement où <span class="profile-trigger">[Anthar](https://www.instagram.com/antharracca/)<span class="profile-card"><img src="/roroad-trip/assets/images/people/anthar.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> leur fils, passe souvent pour s'entraîner.
 
@@ -78,12 +78,12 @@ Pas mal de personnes qui travaillent au sein de ce lieu:
 
 et à la réception des clients c'est <span class="profile-trigger">Gloria<span class="profile-card"><img src="/roroad-trip/assets/images/people/gloria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> qui s'occupe de tout.
 
-On n'oublie pas la présence de <span class="profile-trigger">Lily<span class="profile-card"><img src="/roroad-trip/assets/images/people/lily.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>, <span class="profile-trigger">Rex<span class="profile-card"><img src="/roroad-trip/assets/images/people/rex.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span> et <span class="profile-trigger">el Raton<span class="profile-card"><img src="/roroad-trip/assets/images/people/raton.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>.
+On n'oublie pas la présence du trio de dogos inséparables <span class="profile-trigger">Lily<span class="profile-card"><img src="/roroad-trip/assets/images/people/lily.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>, <span class="profile-trigger">Rex<span class="profile-card"><img src="/roroad-trip/assets/images/people/rex.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span> et <span class="profile-trigger">el Raton<span class="profile-card"><img src="/roroad-trip/assets/images/people/raton.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>.
 
 ## 🍹 Le bar
 
 <div style="text-align: center;">
-  <img src="/roroad-trip/assets/images/bar-de-frutas.jpeg" alt="Description of image" width="600">
+  <img src="/roroad-trip/assets/images/bar-de-frutas.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
 </div>
 
 <br>
@@ -134,7 +134,7 @@ Mocktails et autres:
 
 ## 🧑‍🍳 La cuisine
 
-Essentiellement, j'ai lavé des couverts quand c'est le rush 😁.
+Essentiellement, je lave des couverts quand c'est le rush en cuisine 😁.
 
 ## 🪁 Le kite
 
@@ -153,7 +153,7 @@ La plage est dans l'axe Nord-Sud et offre deux setups:
 Donc le plus souvent c'est une aile de 12m2 et quand le vent du nord souffle on prend une 8m2.
 
   <div style="text-align: center;">
-    <img src="/roroad-trip/assets/images/ikarus-school.jpeg" alt="Description of image" width="600">
+    <img src="/roroad-trip/assets/images/ikarus-school.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
   </div>
 
 Forecast:
@@ -174,9 +174,26 @@ Forecast:
 
 ## 🏕️ Les environs
 
+Les deux jours de repos permettent de partir en expédition sur les weekends dans les alentours de Cancún.
+
 ### Cancún
 
-...
+bliblablou les tags
+
+<div class="carousel-container">
+  <div class="carousel-slide">
+    <img src="/roroad-trip/assets/images/trips/cancun/tag-1.jpeg" class="active">
+    <img src="/roroad-trip/assets/images/trips/cancun/tag-2.jpeg">
+    <img src="/roroad-trip/assets/images/trips/cancun/poste.jpeg">
+  </div>
+
+  <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
+  <div class="dots-container">
+    <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+  </div>
+</div>
 
 ### Isla Mujeres
 
@@ -184,9 +201,40 @@ Forecast:
 
 ### Puerto Morelos
 
-...
+blablabla
+
+<div class="carousel-container">
+  <div class="carousel-slide">
+    <img src="/roroad-trip/assets/images/trips/puerto-morelos/lettres.jpeg" class="active">
+    <img src="/roroad-trip/assets/images/trips/puerto-morelos/resto.jpeg">
+  </div>
+
+  <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
+  <div class="dots-container">
+    <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+  </div>
+</div>
 
 
 ### Holbox
 
-...
+Ambiance de la ville super cool et tourstique, visiblement en train de grossir mais encore good vibes. On y accède via un fery qui prend 20min pour traverser la lagune. Petit beach volley avec les locaux au coucher du soleil! Le lendemain matin petite balade jusqu'à la punta moscito.
+
+<div class="carousel-container">
+  <div class="carousel-slide">
+    <img src="/roroad-trip/assets/images/trips/holbox/team.jpeg" class="active">
+    <img src="/roroad-trip/assets/images/trips/holbox/billet.jpeg">
+    <img src="/roroad-trip/assets/images/trips/holbox/taxi.jpeg">
+    <img src="/roroad-trip/assets/images/trips/holbox/tribu.jpeg">
+    <img src="/roroad-trip/assets/images/trips/holbox/volley.jpeg">
+  </div>
+
+  <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
+  <div class="dots-container">
+    <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+  </div>
+</div>

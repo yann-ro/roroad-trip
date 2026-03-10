@@ -122,12 +122,22 @@
     {
         "name": "Exocet",
         "coords": [
-            14.162691,
-            -45.104638
+            18.162691,
+            -39.104638
         ],
         "description": "",
         "icon": "pets",
         "image": "assets/images/poi/exocet.jpeg"
+    },
+    {
+        "name": "Dauphin",
+        "coords": [
+            16.862691,
+            -49.104638
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/poi/dauphin-at.jpeg"
     },
     {
         "name": "Crocodile",

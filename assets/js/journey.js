@@ -118,7 +118,7 @@ export class JourneyManager {
                     iconSize: [12, 12],
                     iconAnchor: [6, 6],
                     html: `<span class="marker-label">${stop.name}</span>`,
-                    zIndexOffset: 1000
+                    zIndexOffset: 99999
                 });
             }
 
