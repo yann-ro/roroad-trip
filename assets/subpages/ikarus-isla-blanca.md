@@ -33,7 +33,7 @@ banner_offset: 60%
   </iframe>
 </div>
 
-Volontariat au sein de l'école-hotel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une superbe lagune où on peut croiser une grande variété d'oiseaux et de poissons.
+Volontariat au sein de l'école-hotel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une lagune où on peut croiser une grande variété d'oiseaux et de poissons.
 
 Le lieu est isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires.
 
@@ -42,15 +42,15 @@ C'est un spot où la fréquentation varie en fonctions des prévisions de vents 
 # 🤠 Volontariat
 
 Un mois de travail en tant qu'homme à tout faire, bartender, à la plonge, ..
-Format: 5h de travail de 13 à 18h tous les jours avec 2 jours de repos par semaine. En contre-partie je suis nourri et logé et ils me prêtent le matériel de kite !!
+Format: 5h de travail de 13-18h 5j/7. En contre-partie je suis nourri et logé et je peux emprunter tous les kites !!
 
-Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journée ça permet aussi d'avoir des petits moments privilégiés comme celui-ci:
+Donc la journée typique c'est dans l'eau de 9h-12h45, travail en milieu l'après-midi, et ensuite des petits moments privilégiés au couché du soleil:
 
 <iframe 
     style="display: block; margin: 0 auto; border-radius: 4px;"
     width="315" 
     height="560"
-    src="https://www.youtube.com/embed/fCpLVW6NhnI?autoplay=1&mute=1&loop=1" 
+    src="https://www.youtube.com/embed/fCpLVW6NhnI?autoplay=1&mute=1&loop=1&playlist=fCpLVW6NhnI" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -59,9 +59,7 @@ Donc c'est kite de 9h-12h45, travail en milieu l'après-midi ! En fin de journé
 
 ## 🤗 L'équipe
 
-Une équipe au top travaille dans ce lieu:
-
-<span class="profile-trigger">Adriana<span class="profile-card"><img src="/roroad-trip/assets/images/people/adriana.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> & <span class="profile-trigger">Foka<span class="profile-card"><img src="/roroad-trip/assets/images/people/foka.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> dirigent l'établissement où <span class="profile-trigger">[Anthar](https://www.instagram.com/antharracca/)<span class="profile-card"><img src="/roroad-trip/assets/images/people/anthar.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> leur fils, passe souvent pour s'entraîner.
+<span class="profile-trigger">Adriana<span class="profile-card"><img src="/roroad-trip/assets/images/people/adriana.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> & <span class="profile-trigger">Foka<span class="profile-card"><img src="/roroad-trip/assets/images/people/foka.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> dirigent l'établissement qu'ils ont crée il a maintenant 20 ans où <span class="profile-trigger">[Anthar](https://www.instagram.com/antharracca/)<span class="profile-card"><img src="/roroad-trip/assets/images/people/anthar.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> leur fils à pu grandir, et passe souvent pour s'entraîner.
 
 * <span class="profile-trigger">Esteban<span class="profile-card"><img src="/roroad-trip/assets/images/people/esteban.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> manage l'école de kite:
   * les profs: <span class="profile-trigger">[Federico](https://www.instagram.com/fedebagnoli/)<span class="profile-card"><img src="/roroad-trip/assets/images/people/federico.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span>,
@@ -78,7 +76,25 @@ Une équipe au top travaille dans ce lieu:
 
 et à la réception des clients c'est <span class="profile-trigger">Gloria<span class="profile-card"><img src="/roroad-trip/assets/images/people/gloria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> qui s'occupe de tout.
 
-On n'oublie pas la présence du trio de dogos inséparables <span class="profile-trigger">Lily<span class="profile-card"><img src="/roroad-trip/assets/images/people/lily.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>, <span class="profile-trigger">Rex<span class="profile-card"><img src="/roroad-trip/assets/images/people/rex.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span> et <span class="profile-trigger">el Raton<span class="profile-card"><img src="/roroad-trip/assets/images/people/raton.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>.
+On n'oublie pas la présence du trio de dogos inséparables <span class="profile-trigger">Lily<span class="profile-card"><img src="/roroad-trip/assets/images/people/lily.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>, <span class="profile-trigger">Rex<span class="profile-card"><img src="/roroad-trip/assets/images/people/rex.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span> et <span class="profile-trigger">Louki (El Ratón)<span class="profile-card"><img src="/roroad-trip/assets/images/people/raton.png" class="profile-pic"><span class="flag-overlay">🐶</span></span></span>.
+
+
+Ici c'est la fashion week, Louki nous fait grâce de son outfit of the day:
+<div class="carousel-container" style="height: 30vh;">
+  <div class="carousel-slide">
+    <img src="/roroad-trip/assets/images/louki_1.jpeg" class="active">
+    <img src="/roroad-trip/assets/images/louki_2.jpeg">
+    <img src="/roroad-trip/assets/images/louki_3.jpeg">
+  </div>
+  
+  <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
+  <div class="dots-container">
+    <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+  </div>
+</div>
 
 ## 🍹 Le bar
 
@@ -174,11 +190,11 @@ Forecast:
 
 ## 🏕️ Les environs
 
-Les deux jours de repos permettent de partir en expédition sur les weekends dans les alentours de Cancún.
+Les deux jours de repos permettent de partir en expédition sur les weekends dans les alentours de Cancún. Pour sortir de notre petite isla blanca on doit prendre le colectivo pour 25pesos (~1€).
 
 ### Cancún
 
-bliblablou les tags
+La ville est pas ouf ouf, beaucoup d'énormes chaînes hotelières qui construisent des tours immenses en privatisant les plages. bliblablou les tags
 
 <div class="carousel-container">
   <div class="carousel-slide">
@@ -191,6 +207,7 @@ bliblablou les tags
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
 </div>
@@ -218,9 +235,9 @@ blablabla
 </div>
 
 
-### Holbox
+### Holbox [olbosh]
 
-Ambiance de la ville super cool et tourstique, visiblement en train de grossir mais encore good vibes. On y accède via un fery qui prend 20min pour traverser la lagune. Petit beach volley avec les locaux au coucher du soleil! Le lendemain matin petite balade jusqu'à la punta moscito.
+Ambiance de la ville super cool et tourstique, visiblement en train de grossir mais encore good vibes. On y accède via un fery qui prend 20min pour traverser la lagune. Petit beach volley avec les locaux & tourristos au coucher du soleil! Le lendemain matin petite balade jusqu'à la punta mosquito.
 
 <div class="carousel-container">
   <div class="carousel-slide">
@@ -235,6 +252,9 @@ Ambiance de la ville super cool et tourstique, visiblement en train de grossir m
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
 </div>

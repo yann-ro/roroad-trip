@@ -49,7 +49,7 @@
             36.5271,
             -6.2886
         ],
-        "description": "",
+        "description": "Début de l'aventure en mer avec un ferry! Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable stage de  linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot en priant pour qu'il y ait un bon fit avec le capitaine!",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 26h",
@@ -61,7 +61,7 @@
             28.9635,
             -13.5477
         ],
-        "description": "Capital of Lanzarote",
+        "description": "",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 2h",
@@ -73,7 +73,7 @@
             28.5008,
             -13.8627
         ],
-        "description": "Capital of Fuerteventura",
+        "description": "",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 5h",
@@ -85,7 +85,7 @@
             28.1248,
             -15.43
         ],
-        "description": "",
+        "description": "Rencontre avec Fabrice et Annie, deux bretons propriétaires d'un bateau de 12m, en vadrouille en direction de la guadeoupe. Tout se passe bien et on se lance pour la suite de l'aventure!",
         "image": "assets/images/palmas.jpeg",
         "transport": "sailing",
         "transport_image": "assets/images/boat_canaries.jpeg",
@@ -102,7 +102,7 @@
         "description": "Trois jours d'escales le temps de fixer de l'électronique, faire les courses, louer une aile de kite sur une demi journée et c'est reparti!",
         "transport": "sailing",
         "image": "assets/images/cap-vert.jpeg",
-        "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable mais content d'arriver!<br><br>note: Le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent (une coque étache avec une visse en moins n'est donc pas une coque étanche)..",
+        "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable, les quarts de nuits avec les étoiles, regarder l'AIS pour ne pas foncer sur un cargot, les petites salades de riz, mais très content d'arriver!<br><br>note: Une coque de téléphone étanche avec une visse en moins n'est donc pas une coque étanche; le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent..",
         "transport_image": "assets/images/transat.jpeg",
         "transport_subpage_path": "assets/subpages/transat-2",
         "status": "done"
@@ -113,10 +113,10 @@
             16.265,
             -61.551
         ],
-        "description": "4j pour visiter l'île! Premier Ti' punch d'arrivée",
+        "description": "La terre ferme !! Bien creuvé du périple, sieste, grasse mat, toute forme de flânerie est de la partie. 4j pour visiter l'île! Premier Ti' punch d'arrivée",
         "transport": "plane",
         "image": "assets/images/guadeloupe.jpeg",
-        "transport_description": "Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le sud du Mexique !!",
+        "transport_description": "Coup de fil avec, Adriana: Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le sud du Mexique !!",
         "status": "done"
     },
     {
