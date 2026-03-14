@@ -35,7 +35,7 @@ banner_offset: 60%
 
 Volontariat au sein de l'école-hotel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une lagune où on peut croiser une grande variété d'oiseaux et de poissons.
 
-Le lieu est isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires.
+Le lieu est isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires. Par contre complètement isolé il n'y a pas de réseaux on a donc internet via spacex ☠️.
 
 C'est un spot où la fréquentation varie en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et resto) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On s'occupe comme on peut en jouant aux cartes, fléchettes ou faire ce site!
 
@@ -191,6 +191,8 @@ Forecast:
 ## 🏕️ Les environs
 
 Les deux jours de repos permettent de partir en expédition sur les weekends dans les alentours de Cancún. Pour sortir de notre petite isla blanca on doit prendre le colectivo pour 25pesos (~1€).
+
+
 
 ### Cancún
 

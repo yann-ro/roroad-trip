@@ -96,15 +96,15 @@ export class JourneyManager {
             if (isLastDone) {
                 markerOptions.icon = L.divIcon({
                     className: 'last-stop-blink',
-                    iconSize: [12, 12],
-                    iconAnchor: [6, 6],
+                    iconSize: null,
+                    iconAnchor: null,
                     zIndexOffset: 99999,
                 });
             } else if (stop.status === "next") {
                 markerOptions.icon = L.divIcon({
                     className: 'marker-next',
-                    iconSize: [6, 6],
-                    iconAnchor: [3, 3],
+                    iconSize: null,
+                    iconAnchor: null,
                     zIndexOffset: 0,
                 });
             } else {
@@ -115,9 +115,8 @@ export class JourneyManager {
 
                 markerOptions.icon = L.divIcon({
                     className: 'marker-done' + extraClass, // Deviendra 'marker-done has-subpages'
-                    iconSize: [12, 12],
-                    iconAnchor: [6, 6],
-                    html: `<span class="marker-label">${stop.name}</span>`,
+                    iconSize: null,
+                    iconAnchor: null,
                     zIndexOffset: 99999
                 });
             }
@@ -130,32 +129,36 @@ export class JourneyManager {
         });
     }
 
-    /**
-     * Ajoute des marqueurs sur le monde principal et les copies adjacentes
-     */
     _addContinuousMarker(coords, popupHtml, options = {}) {
         const offsets = [0, 360, -360];
         offsets.forEach(offset => {
             const adjustedCoords = [coords[0], coords[1] + offset];
-            L.marker(adjustedCoords, options)
+            const marker = L.marker(adjustedCoords, options)
                 .bindPopup(popupHtml)
                 .addTo(this.layers.markers);
+
+            marker.on('mouseover', function () {
+                this.openPopup();
+            });
+
+            marker.on('click', function () {
+                this.openPopup();
+            });
         });
     }
-
 
     _addTransportIcon(currentStop, nextStop, popupHtml = "") {
         const iconName = TRANSPORT_ICONS[currentStop.transport];
         if (!iconName) return;
 
         try {
-            // 1. Création de la ligne géodésique temporaire
+            // Création de la ligne géodésique temporaire
             const tempLine = L.geodesic([currentStop.coords, nextStop.coords], {
                 steps: 50,
                 wrap: false
             });
 
-            // 2. Récupération sécurisée des points
+            // Récupération sécurisée des points
             let latlngs = tempLine.getLatLngs();
 
             // Leaflet.Geodesic peut renvoyer [ [latlng, latlng...] ] au lieu de [latlng, latlng...]
@@ -165,25 +168,33 @@ export class JourneyManager {
 
             if (!latlngs || latlngs.length === 0) return;
 
-            // 3. Calcul du point milieu
+            //  Calcul du point milieu
             const midIndex = Math.floor(latlngs.length / 2);
             const midPoint = latlngs[midIndex];
 
-            // 4. Création de l'icône
+            // Création de l'icône
             const icon = L.divIcon({
                 className: "transport-icons",
-                html: `<span class="material-icons" style="font-size: 14px; color: white; text-shadow: 0 0 2px black;">${iconName}</span>`,
-                iconSize: [16, 16],
-                iconAnchor: [8, 8],
+                html: `<span class="material-icons" style="color: white; text-shadow: 0 0 2px black;">${iconName}</span>`,
+                iconSize: null,
+                iconAnchor: null,
                 zIndexOffset: 0,
             });
 
-            // 5. Ajout sur les 3 mondes
+            // Ajout sur les 3 mondes
             [0, 360, -360].forEach(offset => {
-                L.marker([midPoint.lat, midPoint.lng + offset], {
+                const marker = L.marker([midPoint.lat, midPoint.lng + offset], {
                     icon: icon,
                     zIndexOffset: 1000
                 }).bindPopup(popupHtml).addTo(this.layers.icons);
+
+                marker.on('mouseover', function () {
+                    this.openPopup();
+                });
+
+                marker.on('click', function () {
+                    this.openPopup();
+                });
             });
         } catch (e) {
             console.warn("Erreur lors du placement de l'icône de transport:", e);
@@ -219,47 +230,27 @@ export class JourneyManager {
 
 export function generatePolaroidHTML(image, title, description, badge = '', linkPath = '') {
     const imageBlock = image ? `
-        <div style="width: 100%; height: 270px; overflow: hidden; border: 1px solid #ddd; background: #f0f0f0; margin-bottom: 15px;">
-            <img src="${image}" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        <div class="polaroid-image-wrapper">
+            <img src="${image}" alt="${title}">
         </div>
     ` : '';
 
     return `
-        <div style="
-            background: white;
-            width: 300px;
-            padding: 10px 10px 20px 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-            border-radius: 5px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        ">
+        <div class="polaroid-card">
             ${imageBlock}
 
-            <div style="
-                text-align: center;
-                color: #444; 
-                width: 100%;
-            ">
-                <strong style="display: block; font-size: 1rem; line-height: 1.1; font-family: 'Permanent Marker', cursive; ">
+            <div class="polaroid-content">
+                <strong class="polaroid-title">
                     ${badge}${title}
                 </strong>
                 
                 ${description ? `
-                    <p style="font-size: 1rem; margin: 8px 0; line-height: 1.2; color: #555; font-family: 'Life Savers', serif; font-weight: 400;">
-                        ${description}
-                    </p>` : ''}
+                    <p class="polaroid-description">${description}</p>
+                ` : ''}
 
                 ${linkPath ? `
-                    <div style="margin-top: 10px;">
-                        <a href="${linkPath}.html" style="
-                            font-size: 1rem; 
-                            font-family: 'Life Savers', serif;
-                            font-weight: 400;
-                            color: #3e30d6; 
-                            text-decoration: none; 
-                        ">Plus de détails..</a>
+                    <div class="polaroid-link-container">
+                        <a href="${linkPath}.html" class="polaroid-link">Plus de détails..</a>
                     </div>
                 ` : ''}
             </div>

@@ -35,9 +35,9 @@ layout: none
 <header class="main-header">
 <div class="header-content">
         <h1 class="hover-title">
-            <span>R</span><span>O</span><span>R</span><span>O</span><span>A</span><span>D</span>
+            <span>ROROAD</span>
             &nbsp;
-            <span>T</span><span>R</span><span>I</span><span>P</span>
+            <span>TRIP</span>
         </h1>
         <img src="assets/images/header/yann.png" class="header-yann">
         <img src="assets/images/header/exocet.png" class="header-exocet">
@@ -47,11 +47,6 @@ layout: none
         <img src="assets/images/header/loutre.png" class="header-loutre">
     </div>
 </header>
-
-<div class="mobile-warning">
-    <p>💻 Ce site est optimisé pour un usage sur ordinateur.</p>
-    <button onclick="this.parentElement.style.display='none'">Continuer quand même</button>
-</div>
 
 <div id="map">
 

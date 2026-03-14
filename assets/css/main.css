@@ -14,6 +14,12 @@ body {
     flex-direction: column;
 }
 
+.transport-icons {
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
+}
 
 .transport-icons .material-icons {
     opacity: 0.8;
@@ -24,8 +30,21 @@ body {
         -1px 1px 0 #fff,
         2px 2px 0 #fff,
         0px 2px 4px rgba(0, 0, 0, 0.2);
-    font-size: 15px;
+    font-size: 24px;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@media (min-aspect-ratio: 1) {
+    .transport-icons {
+        width: 18px;
+        height: 18px;
+        margin-left: -9px;
+        margin-top: -9px;
+    }
+
+    .transport-icons .material-icons {
+        font-size: 18px;
+    }
 }
 
 .transport-icons .material-icons:hover {
@@ -38,6 +57,22 @@ body {
 
 .material-icons:hover {
     transform: rotate(10deg) scale(1.3);
+}
+
+.last-stop-blink {
+    width: 20px;
+    height: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+@media (min-aspect-ratio: 1) {
+    .last-stop-blink {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
+    }
 }
 
 .last-stop-blink::after {
@@ -76,6 +111,10 @@ body {
     overflow: visible !important;
     z-index: 99999 !important;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
 }
 
 .marker-done.has-subpages {
@@ -88,31 +127,32 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
 }
 
+@media (min-aspect-ratio: 1) {
+    .marker-done {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
+    }
+}
+
 .marker-next {
     background-color: white;
     border: 1px solid #343333;
     border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    margin-left: -6px;
+    margin-top: -6px;
 }
 
-
-.marker-label {
-    position: absolute;
-    left: 14px;
-    white-space: nowrap;
-    font-family: 'Arial', sans-serif;
-    font-size: 11px;
-    font-weight: bold;
-    color: #333;
-    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
-    pointer-events: none;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.2s ease-in-out;
-}
-
-.marker-done:hover .marker-label {
-    opacity: 1;
-    visibility: visible;
+@media (min-aspect-ratio: 1) {
+    .marker-next {
+        width: 8px;
+        height: 8px;
+        margin-left: -4px;
+        margin-top: -4px;
+    }
 }
 
 .leaflet-popup-content-wrapper {
@@ -144,4 +184,113 @@ body {
 
 #music {
     display: none;
+}
+
+.polaroid-card {
+    background: white;
+    width: 500px;
+    padding: 10px 10px 20px 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.polaroid-image-wrapper {
+    width: 100%;
+    height: 470px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background: #f0f0f0;
+    margin-bottom: 15px;
+}
+
+.polaroid-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.polaroid-content {
+    text-align: center;
+    color: #444;
+    width: 100%;
+}
+
+.polaroid-title {
+    display: block;
+    font-size: 2rem;
+    line-height: 1.1;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.polaroid-description {
+    font-size: 2rem;
+    margin: 8px 0;
+    line-height: 1.2;
+    color: #555;
+    font-family: 'Life Savers', serif;
+    font-weight: 400;
+}
+
+.polaroid-link-container {
+    margin-top: 10px;
+}
+
+.polaroid-link {
+    font-size: 2rem;
+    font-family: 'Life Savers', serif;
+    font-weight: 400;
+    color: #3e30d6;
+    text-decoration: none;
+}
+
+@media (min-aspect-ratio: 1) {
+    .polaroid-card {
+        width: 300px;
+        padding: 10px 10px 20px 10px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .polaroid-image-wrapper {
+        width: 100%;
+        height: 270px;
+        margin-bottom: 15px;
+    }
+
+    .polaroid-image-wrapper img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .polaroid-content {
+        text-align: center;
+        color: #444;
+        width: 100%;
+    }
+
+    .polaroid-title {
+        font-size: 1rem;
+        line-height: 1.1;
+    }
+
+    .polaroid-description {
+        font-size: 1rem;
+        margin: 8px 0;
+        line-height: 1.2;
+        font-weight: 400;
+    }
+
+    .polaroid-link-container {
+        margin-top: 10px;
+    }
+
+    .polaroid-link {
+        font-size: 1rem;
+    }
 }

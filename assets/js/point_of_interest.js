@@ -27,9 +27,8 @@ export class POIManager {
         const icon = L.divIcon({
             className: 'poi-custom-icon',
             html: `<span class="material-icons" style="color: green; font-size: 10px;">${poi.icon || 'place'}</span>`,
-            iconSize: [14, 14],
-            iconAnchor: [7, 7],
-            popupAnchor: [0, -6],
+            iconSize: null,
+            iconAnchor: null,
             zIndexOffset: 0,
         });
 
@@ -53,12 +52,20 @@ export class POIManager {
         );
 
         [0, 360, -360].forEach(offset => {
-            L.marker([poi.coords[0], poi.coords[1] + offset], { icon })
+            const marker = L.marker([poi.coords[0], poi.coords[1] + offset], { icon })
                 .bindPopup(popupContent, {
                     maxWidth: 250,
-                    className: 'custom-poi-popup'
+                    className: 'custom-poi-popup',
                 })
                 .addTo(this.layer);
+
+            marker.on('mouseover', function () {
+                this.openPopup();
+            });
+
+            marker.on('click', function () {
+                this.openPopup();
+            });
         });
     }
 }
