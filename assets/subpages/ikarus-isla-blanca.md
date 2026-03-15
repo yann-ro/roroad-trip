@@ -33,18 +33,17 @@ banner_offset: 60%
   </iframe>
 </div>
 
-Volontariat au sein de l'école-hotel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une lagune où on peut croiser une grande variété d'oiseaux et de poissons.
+Volontariat au sein de l'école-hôtel-camping d'Ikarus. Dans la réserve naturelle de Chacmuchuch, un bras de mer rentre dans les terres, créant une lagune où l'on peut croiser une grande variété d'oiseaux et de poissons.
 
-Le lieu est isolé du centre de Cancún et s'alimente à l'électricité via un système de paneaux solaires. Par contre complètement isolé il n'y a pas de réseaux on a donc internet via spacex ☠️.
+Le lieu est isolé du centre de Cancún et s'alimente en électricité via un système de panneaux solaires. Par contre, étant complètement coupé du monde, il n'y a pas de réseau ; on a donc internet via SpaceX ☠️.
 
-C'est un spot où la fréquentation varie en fonctions des prévisions de vents et de son orientation. Ce qui fait qu'il y a des temps forts où l'ensemble des employés (profs et resto) vont travailler énormément, puis des temps calmes, où les minutes seront longues.. On s'occupe comme on peut en jouant aux cartes, fléchettes ou faire ce site!
+C'est un spot où la fréquentation varie en fonction des prévisions de vent et de son orientation. Cela crée des temps forts où l'ensemble des employés (profs et resto) travaillent énormément, puis des temps calmes où les minutes sont longues... On s'occupe alors comme on peut en jouant aux cartes, aux fléchettes ou en faisant ce site !
 
 # 🤠 Volontariat
 
-Un mois de travail en tant qu'homme à tout faire, bartender, à la plonge, ..
-Format: 5h de travail de 13-18h 5j/7. En contre-partie je suis nourri et logé et je peux emprunter tous les kites !!
+Un mois de travail en tant qu'homme à tout faire : bartender, plongeur, et bien plus... 13h à 18h, 5 jours sur 7. En contrepartie, je suis nourri, logé, et je peux emprunter tout le matos de kite !
 
-Donc la journée typique c'est dans l'eau de 9h-12h45, travail en milieu l'après-midi, et ensuite des petits moments privilégiés au couché du soleil:
+Ma journée typique se passe donc dans l'eau de 9h à 12h45, suivie du boulot en milieu d'après-midi, pour finir par des moments privilégiés au coucher du soleil:
 
 <iframe 
     style="display: block; margin: 0 auto; border-radius: 4px;"
@@ -162,7 +161,7 @@ Nombre de jours de vents moyens par mois:
   </div>
 
 La plage est dans l'axe Nord-Sud et offre deux setups:
- * Vent du Nord (side-on): c'est le top pour l'endroit, on navigue vers le largue, les pros font des sauts énormes le long de la plage pour le plaisir de la terrasse du restaurant. Askip ça fréquence tend à diminuer avec les années.
+ * Vent du Nord (side-on): c'est le top pour l'endroit, on navigue vers le largue, les pros font des sauts énormes le long de la plage pour le plaisir de la terrasse du restaurant. D'après les plus vieux sa fréquence tend à diminuer avec les années.
 
  * Vent d'ouest (off): plus irréguliers vu que la presqu'île bloque l'arrivée du vent demande de marcher un peu pour s'éloigner de la plage pour avoir du vent. C'est le cas le plus fréquent et le vent y est assez modéré le plus souvent (10-20 noeuds).
 
