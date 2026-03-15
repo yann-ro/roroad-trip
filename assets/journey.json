@@ -49,10 +49,10 @@
             36.5271,
             -6.2886
         ],
-        "description": "Début de l'aventure en mer avec un ferry! Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable stage de  linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot en priant pour qu'il y ait un bon fit avec le capitaine!",
+        "description": "Début de l'aventure en mer, départ du ferry au port de Cadiz!",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
-        "transport_description": "Armas, Ciudad de Valencia: 26h",
+        "transport_description": "Armas, Ciudad de Valencia: 26h. Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable séjour linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot. Et on prie pour qu'il y ait un bon fit avec le capitaine!",
         "status": "done"
     },
     {
@@ -64,7 +64,7 @@
         "description": "",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
-        "transport_description": "Armas, Ciudad de Valencia: 2h",
+        "transport_description": "Armas, Ciudad de Valencia: 2h. Wah ça commence à être long",
         "status": "done"
     },
     {
@@ -76,7 +76,7 @@
         "description": "",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
-        "transport_description": "Armas, Ciudad de Valencia: 5h",
+        "transport_description": "Armas, Ciudad de Valencia: 5h. Aller bientôt arrivé. Premiers échanges whatsapp avec Fabrice, le capitaine, ça a l'air de matcher 😍.",
         "status": "done"
     },
     {
@@ -85,11 +85,11 @@
             28.1248,
             -15.43
         ],
-        "description": "Rencontre avec Fabrice et Annie, deux bretons propriétaires d'un bateau de 12m, en vadrouille en direction de la guadeoupe. Tout se passe bien et on se lance pour la suite de l'aventure!",
+        "description": "Rencontre avec Fabrice et Annie, deux bretons propriétaires d'un petit bateau de 37 pieds (~12m), en vadrouille en direction de la guadeoupe. Après des cafés au port, un petit tour de check et de disucssions tout se passe bien et on se lance pour la suite de l'aventure! ⛵️",
         "image": "assets/images/palmas.jpeg",
         "transport": "sailing",
         "transport_image": "assets/images/boat_canaries.jpeg",
-        "transport_description": "Oceanis 37, 5j de navigation comme prévu ! Premiers quarts !!",
+        "transport_description": "Oceanis 37, 5j de navigation comme prévu ! Premières navigation de nuit (quarts) pour le moussaillon !! La surveillance de Fabrice reste de la partie, il nous laisse prendre nos quarts tout en veillant au grain pour les premières nuits. L'ambiance est bonne, ça chante, ça forme les mousses sur les petits tips cuisine, le niveau en espagnol se décrasse, les pages des livres tournes et les jours passent !",
         "transport_subpage_path": "assets/subpages/transat-1",
         "status": "done"
     },
@@ -99,7 +99,7 @@
             16.8802,
             -24.98
         ],
-        "description": "Trois jours d'escales le temps de fixer de l'électronique, faire les courses, louer une aile de kite sur une demi journée et c'est reparti!",
+        "description": "Quatre jours d'escale le temps de fixer un peu d'électronique, faire le plein de courses, louer une aile de kite sur une demi journée et c'est reparti! On loupe le carnaval de Mindello de peu, la ville en pleine préparation reste quand même super sympa et très vivante !!",
         "transport": "sailing",
         "image": "assets/images/cap-vert.jpeg",
         "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable, les quarts de nuits avec les étoiles, regarder l'AIS pour ne pas foncer sur un cargot, les petites salades de riz, mais très content d'arriver!<br><br>note: Une coque de téléphone étanche avec une visse en moins n'est donc pas une coque étanche; le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent..",
