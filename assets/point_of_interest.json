@@ -25,7 +25,7 @@
             21.35,
             -86.791
         ],
-        "description": "Pelicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau.",
+        "description": "Pelicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau. Son air est menaçant mais il s'avère être assez sympathique.",
         "icon": "pets",
         "image": "assets/images/poi/pelican.jpeg"
     },
@@ -35,7 +35,7 @@
             21.143247,
             -86.838161
         ],
-        "description": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement. C'est une espèce endémique d'Amérique latinequi ressemble à un mélange entre un suricat et un raton laveur.",
+        "description": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement dans jardin Ecológico Kabah. C'est une espèce endémique d'Amérique latinequi ressemble à un mélange entre un suricat et un raton laveur.",
         "icon": "pets",
         "image": "assets/images/poi/coati.jpeg"
     },
@@ -45,7 +45,7 @@
             21.333,
             -86.795
         ],
-        "description": "",
+        "description": "Locataire de Ikarus et grand aviateur, il aime se poser sur le toit des voitures pour profiter de la vue.",
         "icon": "pets",
         "image": "assets/images/poi/canard-musque.jpeg"
     },
@@ -55,7 +55,7 @@
             21.35,
             -86.789
         ],
-        "description": "",
+        "description": "Elles jonchent le rivage du spot d'Ikarus, je n'ai jamais pu les appercevoir de leur vivant. Leur apparence assez originale évoque à la fois des périodes préhistoriques, des tableaux comme ceux de Ruedi Gigger ou des films de science fictions. Dôté d'un sang bleu aux propriétés particulières, cet animal est très prisé par le monde du biomédical.",
         "icon": "pets",
         "image": "assets/images/poi/limule.jpeg"
     },
@@ -65,7 +65,7 @@
             21.35,
             -86.793
         ],
-        "description": "",
+        "description": "Ecosystem présent tout le long de la réserve naturelle de Chacmuchuch. L'arbre principal sont les étranges Palétuviers, dont les racines grandissent par leur branches qui forment des sortes d'échasse (similitude très forte à la forme finale d'Eren Jaeger) qui s'enracinent dans le sol. Par sa densité il forme un rempart de protections pour beaucoup d'espèces vivantes. J'ai un souvenir d'enfance d'avoir eu un jeu pour ordinateur qui donnait beaucoup d'informations sur cet écosysteme mais je n'arrive pas à me souvenir du nom (et visiblement c'est pas marine malice)L",
         "icon": "eco",
         "image": "assets/images/poi/mangrove.jpeg"
     },
@@ -75,7 +75,7 @@
             20.850263,
             -86.871296
         ],
-        "description": "",
+        "description": "Grâce incarnée, toujours très émouvant de faire sa rencontre sous l'eau, en bord de plage publique.",
         "icon": "pets",
         "image": "assets/images/poi/tortue_mx.jpeg"
     },
@@ -85,7 +85,7 @@
             20.845571,
             -86.869258
         ],
-        "description": "",
+        "description": "Nageur hors pair, voltigeur aerien au dard qui laisse des souvenirs. Toujours un plaisir de nager avec lui, mais désormais au courant des dommages qu'il peut infliger, je concerve mes distances.",
         "icon": "pets",
         "image": "assets/images/poi/raie_mx.jpeg"
     },
@@ -95,7 +95,7 @@
             20.845055,
             -86.896551
         ],
-        "description": "",
+        "description": "En direction du Jardín Botanico Dr. Alfredo Barrera Marín, cherchant à rencontrer ce primate, j'ai pu l'apperçevoir le long de la route. Ironiquement dans le parc, impossible de l'appercevoir, il devait faire la grasse mat.",
         "icon": "pets",
         "image": "assets/images/poi/singe_araignee.jpeg"
     },
@@ -105,7 +105,7 @@
             20.844618,
             -86.903002
         ],
-        "description": "Petit rongeur assez discret. Difficile à se faire prendre en photo car très discret.",
+        "description": "Petit rongeur, difficile à se faire prendre en photo sans zoom, on peut le répérer assez facilement au bruit qu'il fait dans les feuilles mortes.",
         "icon": "pets",
         "image": "assets/images/poi/agouti.jpeg"
     },
@@ -115,7 +115,7 @@
             21.306262,
             -86.813521
         ],
-        "description": "Très difficile à prendre en photo car très discret. Apperçu le long de la route en attendant le colectivo.",
+        "description": "Animal discret et difficile à prendre en photo. Apperçu le long de la route en attendant le colectivo. J'ai cru dans un premier temps qu'il s'agissait du mythique coyotte mais son physique est un peu plus petit.",
         "icon": "pets",
         "image": "assets/images/poi/renard_gris.jpeg"
     },
@@ -125,7 +125,7 @@
             18.162691,
             -39.104638
         ],
-        "description": "",
+        "description": "Aviateur kamikaze qui a terminé sur le ponton",
         "icon": "pets",
         "image": "assets/images/poi/exocet.jpeg"
     },
@@ -135,7 +135,7 @@
             16.862691,
             -49.104638
         ],
-        "description": "",
+        "description": "Surfeur originel, profitant du passage de bateau pour exhiber ses skills",
         "icon": "pets",
         "image": "assets/images/poi/dauphin-at.jpeg"
     },
@@ -145,7 +145,7 @@
             20.852450,
             -86.887696
         ],
-        "description": "Pas encore apperçu mais le long de la route de 2km on chercher à appercevoir ce mythique prédateur. Seuls les paneaux attestent de sa présence.",
+        "description": "Pas encore apperçu.. Le long de la route de 2km, je chercher à appercevoir ce mythique prédateur au travers des mangrove et marécage qui longent la route. Seuls les paneaux attestent de sa présence.",
         "icon": "pets",
         "image": "assets/images/poi/croco_mx.jpeg"
     },
@@ -155,7 +155,7 @@
             21.552801,
             -87.347841
         ],
-        "description": "",
+        "description": "Petite promenade matinale dans un décors proche du fond d'écran windows. Randonnée sur la plage avec des passage de longe côte sportive sur des bancs de sables un peu plus au large.",
         "icon": "group",
         "image": "assets/images/trips/holbox/team.jpeg"
     },
@@ -165,8 +165,28 @@
             21.527273,
             -87.377650
         ],
-        "description": "",
+        "description": "Je dépose le sac de courses qui me sert de sac de voyage et je rejoins ensuite le groupe de volontaires de l'hostel rencontré quelques minutes auparavant direction de terrain de volley. Le terrain est un peu le lieu social où pas mal de jeunes se rejoingnent à partir de 17h30. Grand mix que ce soit des tourristes, locaux qui travaillent pour les écoles de plongées ou volontaires des hostels.  Assis sur une barque retournée en guise de tribune, ça papote, ça regarde le coucher du soleil et ça joue. Celui qui gagne reste donc une ambiance détendue sous fond de compétition!",
         "icon": "group",
         "image": "assets/images/trips/holbox/volley.jpeg"
+    },
+    {
+        "name": "Mayan Monkey",
+        "coords": [
+            21.215827,
+            -86.725826
+        ],
+        "description": "Jour de repos: quizz de culture générale, farniente les pieds dans l'eau avec un maillot oublié à la maison.",
+        "icon": "group",
+        "image": "assets/images/trips/isla-mujeres/mayan-monkey.jpeg"
+    },
+    {
+        "name": "Nilu party",
+        "coords": [
+            21.259233,
+            -86.747556
+        ],
+        "description": "Les pieds dans le sable on profite de la musique 🎶",
+        "icon": "group",
+        "image": "assets/images/trips/isla-mujeres/nilu.jpeg"
     }
 ]

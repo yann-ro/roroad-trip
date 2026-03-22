@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <h1 class="title">{{ page.title }}</h1>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+        .title {
+            text-align: center;
+            font-family: 'Permanent Marker', system-ui;
+            font-size: 5vw;
+            margin: 0;
+            letter-spacing: 2.2vw;
+            text-shadow:
+                -3px -3px 0 #fff,
+                3px -3px 0 #fff,
+                -3px 3px 0 #fff,
+                3px 3px 0 #fff;
+        }
+
+        .backpack-wrapper {
+            --bag-size: 40vh;
+            --item-size: 10vh;
+            --radius: 40vh;
+            position: relative;
+            width: 100vw;
+            height: 80vh;
+            background: #fdfdfd;
+            display: flex;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            margin: 40px 0;
+            overflow: visible;
+        }
+
+        .central-bag {
+            width: var(--bag-size);
+            z-index: 5;
+            filter: drop-shadow(0 15px 30px rgba(0, 0, 0, 0.15));
+            align-items: center;
+        }
+
+        .gear-node {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: var(--item-size);
+            height: var(--item-size);
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            margin-top: calc(var(--item-size) / -2);
+            margin-left: calc(var(--item-size) / -2);
+            --angle: calc((var(--i) * (360 / var(--total))) - 90);
+            transform: rotate(calc(var(--angle) * 1deg)) translate(var(--radius)) rotate(calc(var(--angle) * -1deg));
+
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            --direction: sin(calc(var(--angle) * 1deg));
+        }
+
+        .gear-node img {
+            width: 100px;
+            height: 100px;
+            object-fit: contain;
+        }
+
+        .info-card {
+            position: absolute;
+            bottom: auto;
+            top: 125%;
+            transform: translate(-50%, -50%) translateY(calc(var(--direction) * var(--distance) * -1));
+            width: 200px;
+            background: #333;
+            color: #fff;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 13px;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s;
+            text-align: center;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .gear-node:hover {
+            transform: rotate(calc(var(--angle) * 1deg)) translate(var(--radius)) rotate(calc(var(--angle) * -1deg)) scale(1.5);
+            z-index: 100;
+        }
+
+        .gear-node:hover .info-card {
+            opacity: 1;
+            transform: translate(-50%, -50%) translateY(calc(var(--direction) * 125% * -1));
+        }
+
+        .backpack-wrapper:hover .gear-lines line {
+            stroke: #ccc;
+        }
+
+        .back-link-sidebar {
+            position: static;
+            transform: none;
+            margin-top: 20px;
+            display: block;
+            left: 20px;
+            top: 50%;
+            z-index: 1000;
+
+        }
+
+        .back-link-sidebar a {
+            text-decoration: none;
+            background-color: #f4f4f4;
+            padding: 10px 15px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            color: #333;
+            font-size: 14px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        @media (min-aspect-ratio: 1) {
+            .back-link-sidebar {
+                position: fixed;
+                transform: translateY(-50%);
+                margin-top: 0;
+            }
+        }
+
+        .banner-overlay {
+            position: absolute;
+            top: 10vh;
+            left: 0;
+            right: 0;
+            text-align: center;
+            padding: 0 20px;
+            z-index: 10;
+        }
+
+        .banner-title {
+            display: inline;
+            background-color: white;
+            color: black;
+            padding: 5px 15px;
+            font-size: 2.5em;
+            line-height: 1.6;
+            box-decoration-break: clone;
+            -webkit-box-decoration-break: clone;
+            border-radius: 4px;
+        }
+
+        .page-banner img {
+            width: 100%;
+            height: 35vh;
+            object-fit: cover;
+            object-position: center var(--offset);
+            display: block;
+        }
+
+        .bug-report-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #ea4335;
+            border: 1px solid #dadce0;
+            padding: 8px 16px 8px 12px;
+            border-radius: 24px;
+            text-decoration: none;
+            display: none;
+            align-items: center;
+            gap: 8px;
+            font-family: 'Google Sans', Roboto, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3.1px rgba(60, 64, 67, .15);
+            z-index: 10000;
+            transition: background-color 0.2s, box-shadow 0.2s;
+        }
+
+        .bug-report-button:hover {
+            background-color: #f8f9fa;
+            box-shadow: 0 1px 3px 0 rgba(60, 64, 67, .3), 0 4px 8px 3px rgba(60, 64, 67, .15);
+            color: #202124;
+        }
+
+        .bug-report-button svg {
+            fill: #5f6368;
+        }
+
+        .bug-report-button:hover svg {
+            fill: #ea4335;
+        }
+
+
+        .prev,
+        .next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0, 0, 0, 0.4);
+            color: white;
+            border: none;
+            padding: 12px 15px;
+            cursor: pointer;
+            z-index: 10;
+            border-radius: 50%;
+            transition: background 0.3s;
+        }
+
+        .prev {
+            left: 10px;
+        }
+
+        .next {
+            right: 10px;
+        }
+
+        .prev:hover,
+        .next:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="back-link-sidebar">
+        <a href="javascript:history.back()">← Retour à la carte</a>
+    </div>
+
+    <div class="backpack-wrapper" style="--total: {{ page.items.size }};">
+
+        <div class="line-container">
+            {% for item in page.items %}
+            <div class="css-line" style="--i: {{ forloop.index0 }};"></div>
+            {% endfor %}
+        </div>
+        <img src="/roroad-trip/assets/images/valise/sac-rando.png" class="central-bag">
+
+        {% for item in page.items %}
+        <div class="gear-node" style="--i: {{ forloop.index0 }};">
+            <img src="{{ item.img }}" alt="{{ item.name }}">
+            <div class="info-card">
+                <strong>{{ item.name }}</strong><br>{{ item.desc }}
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+
+    <a href="https://forms.gle/EgaQ7tgcw7v7PLp9A" target="_blank" class="bug-report-button" title="Signaler un bug">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor">
+            <path
+                d="M480-80q-106 0-186-68.5T197-322l-77 77-57-56 87-87q-13-26-21.5-54.5T120-423h-80v-80h80q0-25 5-51.5t16-52.5l-95-94 57-57 101 101q41-55 101-89t128-40v-95h80v95q68 6 128 40t101 89l101-101 57 57-95 94q11 26 16 52.5t5 51.5h80v80h-80q0 28-8.5 56.5T836-332l87 87-57 56-77-77q-17 104-97 172.5T480-80Zm0-120q75 0 127.5-52.5T660-380v-100H300v100q0 75 52.5 127.5T480-200Zm-100-260h200v-120q0-42-29-71t-71-29q-42 0-71 29t-29 71v120Z" />
+        </svg>
+    </a>
+</body>
+
+</html>

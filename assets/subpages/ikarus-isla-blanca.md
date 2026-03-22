@@ -70,7 +70,7 @@ Ma journée typique se passe donc dans l'eau de 9h à 12h45, suivie du boulot en
   * au support/rescue, prêts à aider à tout moment à coup de jetski: <span class="profile-trigger">Alex<span class="profile-card"><img src="/roroad-trip/assets/images/people/alex.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Jesus<span class="profile-card"><img src="/roroad-trip/assets/images/people/jesus.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Juan<span class="profile-card"><img src="/roroad-trip/assets/images/people/juan.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>
 
 * En Cuisine tout est dirigé par <span class="profile-trigger">Anna-Maria<span class="profile-card"><img src="/roroad-trip/assets/images/people/anna-maria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> 
-  * En cuisine: <span class="profile-trigger">Vicky<span class="profile-card"><img src="/roroad-trip/assets/images/people/vicky.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Luis<span class="profile-card"><img src="/roroad-trip/assets/images/people/luis.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Maria<span class="profile-card"><img src="/roroad-trip/assets/images/people/maria.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Gris<span class="profile-card"><img src="/roroad-trip/assets/images/people/gris.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>
+  * En cuisine: <span class="profile-trigger">Vicky<span class="profile-card"><img src="/roroad-trip/assets/images/people/vicky.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Luis<span class="profile-card"><img src="/roroad-trip/assets/images/people/luis.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Maria<span class="profile-card"><img src="/roroad-trip/assets/images/people/maria.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>, <span class="profile-trigger">Griselda<span class="profile-card"><img src="/roroad-trip/assets/images/people/griselda.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span>
   * Au bar cocktail: <span class="profile-trigger">Yann<span class="profile-card"><img src="/roroad-trip/assets/images/people/yann.png" class="profile-pic"><span class="flag-overlay">🇲🇫</span></span></span> (l'aprem) et <span class="profile-trigger">Miguel<span class="profile-card"><img src="/roroad-trip/assets/images/people/miguel.png" class="profile-pic"><span class="flag-overlay">🇲🇽</span></span></span> le soir
 
 et à la réception des clients c'est <span class="profile-trigger">Gloria<span class="profile-card"><img src="/roroad-trip/assets/images/people/gloria.png" class="profile-pic"><span class="flag-overlay">🇮🇹</span></span></span> qui s'occupe de tout.
@@ -84,12 +84,16 @@ Ici c'est la fashion week, Louki nous fait grâce de son outfit of the day:
     <img src="/roroad-trip/assets/images/louki_1.jpeg" class="active">
     <img src="/roroad-trip/assets/images/louki_2.jpeg">
     <img src="/roroad-trip/assets/images/louki_3.jpeg">
+    <img src="/roroad-trip/assets/images/louki_4.jpeg">
+    <img src="/roroad-trip/assets/images/louki_5.jpeg">
   </div>
   
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
@@ -106,20 +110,25 @@ Ici c'est la fashion week, Louki nous fait grâce de son outfit of the day:
 Les Cocktails:
 <table style="width: 100%; border-collapse: collapse; text-align: center; table-layout: fixed;">
   <tr>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Ikarus" width="200" style="max-width: 100%; height: auto;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/ikarus-coktail.jpeg" alt="Ikarus" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Ikarus</b><br>On mixe: 1/4 concombre, 5 feuilles de basilic, 1 shot Bacardi, 4 glaçons</i>
     </td>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Piña Colada" width="200" style="max-width: 100%; height: auto;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/pina-colada.jpeg" alt="Piña Colada" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Piña Colada</b><br>On mixe: 100G d'anas gelés, 1 shot de Bacardi, crème de coco</i>
     </td>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Suero" width="200" style="max-width: 100%; height: auto;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/mercalina.jpeg" alt="Merzcalina" width="200" style="max-width: 100%; height: auto;">
       <br>
-      <i style="font-size: 0.9rem;"><b>Suero</b><br>1 shot de citron, 1/2 cuillière de sel, eau minérale, 4 glaçons</i>
+      <i style="font-size: 0.9rem;"><b>Merzcalina</b><br></i>
+    </td>
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/cerbeza-artesanal.jpeg" alt="Cerbeza Artezanal" width="200" style="max-width: 100%; height: auto;">
+      <br>
+      <i style="font-size: 0.9rem;"><b>Cerbeza Artezanal</b>Chela Libre - Cerdo Capitaliste $$<br></i>
     </td>
   </tr>
 </table>
@@ -129,20 +138,25 @@ Les Cocktails:
 Mocktails et autres:
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
       <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Coco Fresco" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Coco Fresco</b><br>Deux coup de couteaux, puis on fait un trou, et hop une paille</i>
     </td>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Açai" width="200" style="max-width: 100%; height: auto;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/acai.jpeg" alt="Açai" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Açaí</b><br>On mixe: 1 bannane surgelée, de l'açaí surgelé. Puis on rajoute une bannane coupée, muesli et chocolat</i>
     </td>
-    <td style="padding: 10px; width: 33.33%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Smoothie" width="200" style="max-width: 100%; height: auto;">
+    <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/smoothie.jpeg" alt="Smoothie" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Smoothie</b><br>On mixe: 240g platano/piña/fraise/mangue surgelées un peu d'eau et hop!</i>
+    </td>
+        <td style="padding: 10px; width: 25%; vertical-align: top;">
+      <img src="/roroad-trip/assets/images/orange-juice.jpeg" alt="Orange juice" width="200" style="max-width: 100%; height: auto;">
+      <br>
+      <i style="font-size: 0.9rem;"><b>Orange Juice</b><br>3 oranges et hop</i>
     </td>
   </tr>
 </table>
