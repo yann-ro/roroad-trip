@@ -21,19 +21,19 @@ items:
 
   - name: "Casque"
     img: "/roroad-trip/assets/images/valise/casque.png"
-    desc: "Sa présence berce les transports en train et en bus depuis de nombreuse année."
+    desc: "Sa présence berce les transports en train et en bus depuis de nombreuse années."
 
   - name: "Coque"
     img: "/roroad-trip/assets/images/valise/coque.png"
     desc: "La fameuse coque de téléphone imperméable IP68. La vis manquante aura fait des dégats, toujours en attente d'une lime pour être réparée."
 
-  - name: "Coque étanche plongée"
+  - name: "Coque étanche de plongée"
     img: "/roroad-trip/assets/images/valise/case.png"
-    desc: "Etuis pour prendre des photos sous marine. Super accessoire pour avoir des souvenirs après sorties en masque et tubas. (un peu gros mais réellement étanche pour le coup)"
+    desc: "Etuis pour prendre des photos sous-marine. Super accessoire pour avoir des souvenirs après sorties en masque et tubas. (un peu gros mais réellement étanche pour le coup)"
 
   - name: "Liseuse"
     img: "/roroad-trip/assets/images/valise/liseuse.png"
-    desc: "Batterie infinie, capacité de livre pour toute une vie: compagnon idéal pour tout périple de longue durée!"
+    desc: "Batterie infinie, capacité de livre pour toute une vie, vision nocturne: compagnon idéal pour tout périple de longue durée!"
 
   - name: "Chapeau"
     img: "/roroad-trip/assets/images/valise/chapeau.png"
@@ -41,7 +41,7 @@ items:
 
   - name: "Chaussures"
     img: "/roroad-trip/assets/images/valise/chaussures.png"
-    desc: "Chaussures de trail qui commencent à être usée. Les semelles sont noires donc certains propriétaires de bateau accro au pont blancs n'en sont pas fans. On remercie le goretech pour garder les pieds au sec."
+    desc: "Chaussures de trail qui commencent à être usée. Les semelles sont noires donc certains propriétaires de bateau accro au pont blancs n'en sont pas fans. On remercie le gore-tex pour garder les pieds au sec."
 
   - name: "Tongues"
     img: "/roroad-trip/assets/images/valise/tongues.png"
@@ -63,17 +63,17 @@ items:
     img: "/roroad-trip/assets/images/valise/item-2.png"
     desc: "On avait déjà la tour maya, mais au passage d'une échoppe je n'ai pas pu résister à ce petit requin baleine. Je croise les doigt pour qu'il reste intact jusqu'au bout!"
 
-  - name: "kway"
+  - name: "Kway"
     img: "/roroad-trip/assets/images/valise/kway.png"
     desc: "Le kway Owkin, on n'oublie pas d'où on vient, toujours pratique en cas de pluie tropicale!"
 
-  - name: "lunettes"
+  - name: "Lunettes"
     img: "/roroad-trip/assets/images/valise/lunettes.png"
     desc: "Polarisée elles étaient top mais ont été perdues dans la lagune d'Ikarus."
 
-  - name: "maillot de bain"
+  - name: "Short de bain"
     img: "/roroad-trip/assets/images/valise/maillot-de-bain.png"
-    desc: ""
+    desc: "Multi usages"
 
   - name: "Masque"
     img: "/roroad-trip/assets/images/valise/masque.png"
