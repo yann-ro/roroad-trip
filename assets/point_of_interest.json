@@ -207,7 +207,17 @@
         ],
         "description": "",
         "icon": "group",
-        "image": "assets/images/clara.jpeg"
+        "image": "assets/images/trips/tulum/clara.jpeg"
+    },
+    {
+        "name": "Tortue x Raies",
+        "coords": [
+            20.219683,
+            -87.410213
+        ],
+        "description": "Danse avec la tortue et les raies",
+        "icon": "pets",
+        "image": "assets/images/trips/tulum/tortue-tulum.gif"
     },
     {
         "name": "Ceiba",
