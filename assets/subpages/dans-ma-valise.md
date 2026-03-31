@@ -75,7 +75,7 @@ items:
     img: "/roroad-trip/assets/images/valise/maillot-de-bain.png"
     desc: "Multi usages"
 
-  - name: "Masque"
+  - name: "Masque & tubas"
     img: "/roroad-trip/assets/images/valise/masque.png"
     desc: "Le fameux masque antibuée de Décathlon en exlusivité! On remercie Mr Lucas Wendling pour le partenariat, elles sont top top"
 

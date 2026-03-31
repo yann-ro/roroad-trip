@@ -188,5 +188,45 @@
         "description": "Les pieds dans le sable on profite de la musique 🎶",
         "icon": "group",
         "image": "assets/images/trips/isla-mujeres/nilu.jpeg"
+    },
+    {
+        "name": "Cat hostel Don Ceinobio",
+        "coords": [
+            16.931161,
+            -89.890047
+        ],
+        "description": "Le chat le plus fluffy de toute la région",
+        "icon": "pets",
+        "image": "assets/images/guatemala/cat-flores.jpeg"
+    },
+    {
+        "name": "Tulum la street",
+        "coords": [
+            20.205466,
+            -87.464560
+        ],
+        "description": "",
+        "icon": "group",
+        "image": "assets/images/clara.jpeg"
+    },
+    {
+        "name": "Ceiba",
+        "coords": [
+            17.224309,
+            -89.614614
+        ],
+        "description": "Arbre national de 60m de haut et de plus de 200 ans. Le guide nous raconte qu'il a pour les anciens Mayas le rôle de boussole du monde (Yaxché): des racines du monde des morts au tronc des vivants à celui des branches pour rejoindre le monde divin.",
+        "icon": "eco",
+        "image": "assets/images/guatemala/ceiba.jpeg"
+    },
+    {
+        "name": "Tikal",
+        "coords": [
+            17.223874,
+            -89.627862
+        ],
+        "description": "Ancienne ville Maya qui a son apogée aurait acceuillie près de 400 000 habitants. Le site est exceptionnel complètement caché dans la forêt dense, on y croise des singes araignées, des singes hurleurs (en vrai leur cri on dirait vraiment des T-Rex énormes dans Jurassic parcs, ça fou les chocottes), des mignons ptits coaties. On a cherché les toucans mais ils n'ont pas souhaiter nous recevoir. Le temple le plus haut s'élève à 70m de haut et offre une vue panoramique sur toute la jungle.",
+        "icon": "fort",
+        "image": "assets/images/guatemala/tikal.jpeg"
     }
 ]

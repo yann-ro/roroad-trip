@@ -58,7 +58,7 @@ layout: none
 <img src="assets/images/valise/sac-rando.png" class="to-click" style="height: 10vh">
 </a>
 
-<a style="position: fixed; left: 60vw; transform: translateX(-50%); bottom: 11vh; z-index: 10000">
+<a style="position: fixed; left: 60vw; transform: translateX(-100%);translateY(-100%); bottom: 10vh; z-index: 10000">
   <img src="assets/images/stitch.gif" class="to-click" style="height: 10vh">
 </a>
 

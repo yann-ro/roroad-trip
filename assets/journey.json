@@ -127,10 +127,20 @@
         ],
         "description": "Premier volontariat au sein d'Ikarus.🏄‍♂️🪁",
         "image": "assets/images/ikarus.jpeg",
-        "transport": "train",
+        "transport": "bus",
         "status": "done",
-        "transport_description": "Tren Maya, 2h<br><br>Début d'un roadtrip de 20j pour longer la côte pacifique de l'amérique centrale pour rejoindre le nord du Costa Rica pour le prochain volontariat.",
+        "transport_description": "Aller Hop, on prend le collectivo direction Tulum, c'est 3h et ça passe super vite!",
         "subpage_path": "assets/subpages/ikarus-isla-blanca"
+    },
+    {
+        "name": "Tulum 🇲🇽",
+        "coords": [
+            20.209512,
+            -87.456732
+        ],
+        "description": "Difficile à dire, je n'ai pas vraiment aimé la ville et ses alentours, ça ressemble vraiment à un parc à touristes où tout est payant (accès au parc, à la plage, à l'eau pour Akumal). Clara me rejoint dans l'hostel Mr Pakal 2j pour aller faire du snorkeling avec les raies et tortues. (ça vraiment cool)",
+        "transport": "bus",
+        "status": "done"
     },
     {
         "name": "Chetumal 🇲🇽",
@@ -138,9 +148,11 @@
             18.521033,
             -88.291273
         ],
-        "description": "",
+        "description": "Arrivée la nuit dans la ville pour repartir le lendemain matin à 7h. Fatigué, courses et direct au lit dans une auberge de jeunesse un peu glauque.",
         "transport": "bus",
-        "status": "next"
+        "transport_image": "assets/images/guatemala/marlin-espadas-1.jpeg",
+        "transport_description": "4h de bus, première frontière de passée. Bonus: une amende de 1000 pesos (50€) pour avoir dépasser de 10j la durée écrite par l'immigration.",
+        "status": "done"
     },
     {
         "name": "Belize City 🇧🇿",
@@ -148,9 +160,11 @@
             17.495758,
             -88.212411
         ],
-        "description": "",
+        "description": "De passage uniquement pour 2h le temps de changer de bus, et quel regret !! Le Belize est pays de 400 000 habitants membre du Common Wealth, on y parle donc Anglais mais avec un culture caraïbéenne très présente. Des rastas un peu partout dans les rues, ambiance décrontractée!",
         "transport": "bus",
-        "status": "next"
+        "transport_image": "assets/images/guatemala/marlin-espadas-2.jpeg",
+        "transport_description": "4h de collectivo supplémentaires direction le Guatemala! Rencontre avec Betty (🇩🇪), Gia (🇺🇸), Mathys (🇫🇷) et Jordan (🇨🇦). Super ambiance sous fond de couché de soleil avec Max Verstappen en conducteur, on papotte à propos de nos plans pour la suite à Flores. Demain ça sera donc rendez-vous à la Rope Swing en bateau pour chiller l'après-midi.",
+        "status": "done"
     },
     {
         "name": "Flores 🇬🇹",
@@ -158,15 +172,26 @@
             16.921120,
             -89.895616
         ],
+        "image": "assets/images/guatemala/flores.jpeg",
+        "description": "Arrivée au Guatemala et c'est incroyable! L'ambiance de la ville est super cool, beaucoup d'hostel ambiance backpackers! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€). Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, jeux de sociétés.",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Lanquín 🇬🇹",
+        "coords": [
+            15.576404,
+            -89.978650
+        ],
         "description": "",
         "transport": "bus",
         "status": "next"
     },
     {
-        "name": "Guatemala 🇬🇹",
+        "name": "Xela 🇬🇹",
         "coords": [
-            14.628531,
-            -90.509044
+            14.846204,
+            -91.505721
         ],
         "description": "",
         "transport": "bus",
@@ -228,10 +253,10 @@
             11.0125,
             -85.7333
         ],
-        "description": "Second volontariat au sein de Tico kite school !",
+        "description": "",
         "transport": "bus",
-        "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/YNqJNR6kOWh0eNzO/imagen-de-whatsapp-2025-02-19-a-las-09.09.13_a307b619-A3QOzzXlkEhNEq2Y.jpeg",
-        "subpage_path": "assets/subpages/tico-playa-copal",
+        "image": "",
+        "subpage_path": "",
         "status": "next"
     },
     {
