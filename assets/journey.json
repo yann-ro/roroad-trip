@@ -129,6 +129,7 @@
         "image": "assets/images/ikarus.jpeg",
         "transport": "bus",
         "status": "done",
+        "transport_image": "assets/images/collectivo-ikarus.jpeg",
         "transport_description": "Aller Hop, on prend le collectivo direction Tulum, c'est 3h et ça passe super vite!",
         "subpage_path": "assets/subpages/ikarus-isla-blanca"
     },
