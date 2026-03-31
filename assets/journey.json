@@ -44,12 +44,12 @@
         "status": "done"
     },
     {
-        "name": "Cadiz 🇪🇸",
+        "name": "Cádiz 🇪🇸",
         "coords": [
             36.5271,
             -6.2886
         ],
-        "description": "Début de l'aventure en mer, départ du ferry au port de Cadiz!",
+        "description": "Début de l'aventure en mer, départ du ferry au port de Cádiz!",
         "transport": "ferry",
         "transport_image": "assets/images/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 26h. Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable séjour linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot. Et on prie pour qu'il y ait un bon fit avec le capitaine!",
@@ -125,7 +125,7 @@
             21.330384,
             -86.797627
         ],
-        "description": "Premier volontariat au sein d'Ikarus.🏄‍♂️🪁",
+        "description": "Premier volontariat au sein d'Ikarus! 🏄‍♂️🪁<br><br>1 mois en tant qu'homme à tout faire dans l'école !!",
         "image": "assets/images/ikarus.jpeg",
         "transport": "bus",
         "status": "done",
