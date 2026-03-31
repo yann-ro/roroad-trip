@@ -176,25 +176,5 @@
         "description": "Arrivée au Guatemala et c'est incroyable!<br>L'ambiance de la ville est super cool, beaucoup d'hostel ambiance backpackers! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, jeux de sociétés.",
         "transport": "bus",
         "status": "done"
-    },
-    {
-        "name": "Lanquín 🇬🇹",
-        "coords": [
-            15.576404,
-            -89.978650
-        ],
-        "description": "",
-        "transport": "bus",
-        "status": "next"
-    },
-    {
-        "name": "Xela 🇬🇹",
-        "coords": [
-            14.846204,
-            -91.505721
-        ],
-        "description": "",
-        "transport": "bus",
-        "status": "next"
     }
 ]
