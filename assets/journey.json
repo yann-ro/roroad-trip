@@ -174,7 +174,33 @@
             -89.895616
         ],
         "image": "assets/images/guatemala/flores.jpeg",
-        "description": "Arrivée au Guatemala et c'est incroyable!<br>L'ambiance de la ville est super cool, beaucoup d'hostel ambiance backpackers! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, jeux de sociétés.",
+        "description": "Arrivée au Guatemala et c'est incroyable!<br>L'ambiance backpacker de la ville est super cool, toute la vie s'organise autour du lac! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, s'auter du ponton, jeux de sociétés.",
+        "transport": "bus",
+        "transport_description": "8h de Bus! Super ambiance avec l'équipe faite à Flores: Betty (🇩🇪) Ruben (🇬🇧) & Joe (🇬🇧).",
+        "transport_image": "assets/images/guatemala/bus-lanquin.jpeg",
+        "status": "done"
+    },
+    {
+        "name": "Lanquìn 🇬🇹",
+        "coords": [
+            15.576002,
+            -89.980107
+        ],
+        "image": "assets/images/guatemala/lanquin.jpeg",
+        "description": "",
+        "transport": "bus",
+        "transport_image": "assets/images/guatemala/bus-xela.jpeg",
+        "transport_description": "10h de Bus avec Terry (🇳🇱) et Jerry (🇳🇱)! Un groupe d'anglais qui ont visiblement gagné au bière-pong la veille et travaillent dans la finance cassent la tête à parler super fort rendent le trajet interminable.. 🙃",
+        "status": "done"
+    },
+    {
+        "name": "Xela (Quetzaltenango) 🇬🇹",
+        "coords": [
+            14.855165,
+            -91.527350
+        ],
+        "image": "assets/images/guatemala/xela.jpeg",
+        "description": "",
         "transport": "bus",
         "status": "done"
     }

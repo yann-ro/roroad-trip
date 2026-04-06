@@ -238,5 +238,65 @@
         "description": "Ancienne ville Maya qui a son apogée aurait acceuillie près de 400 000 habitants. Le site est exceptionnel complètement caché dans la forêt dense, on y croise des singes araignées, des singes hurleurs (en vrai leur cri on dirait vraiment des T-Rex énormes dans Jurassic parcs, ça fou les chocottes), des mignons ptits coaties. On a cherché les toucans mais ils n'ont pas souhaité nous recevoir. Le temple le plus haut s'élève à 70m de haut et offre une vue panoramique sur toute la jungle.",
         "icon": "fort",
         "image": "assets/images/guatemala/tikal.gif"
+    },
+    {
+        "name": "Jorge's Rope Swing",
+        "coords": [
+            16.933308,
+            -89.877405
+        ],
+        "description": "Aprem chill dans le lac, baignade et jeux de sociétés avec l'équipe du colectivo 🚌",
+        "icon": "group",
+        "image": "assets/images/guatemala/jumping-rope.gif"
+    },
+    {
+        "name": "Cards",
+        "coords": [
+            16.933560,
+            -89.877802
+        ],
+        "description": "j'ai perdu",
+        "icon": "group",
+        "image": "assets/images/guatemala/cards.gif"
+    },
+    {
+        "name": "English guy in a english bar",
+        "coords": [
+            16.931283,
+            -89.892334
+        ],
+        "description": "Afterwork avec mr Ruben (🇬🇧)",
+        "icon": "group",
+        "image": "assets/images/guatemala/pint.jpeg"
+    },
+    {
+        "name": "Ronaldinho",
+        "coords": [
+            15.474590,
+            -90.386422
+        ],
+        "description": "Après près de 6h de bumpyride dans le colectivo, pause imposée au macdo avec Betty",
+        "icon": "group",
+        "image": "assets/images/guatemala/ronaldinho.jpeg"
+    },
+    {
+        "name": "Spider Monkey",
+        "coords": [
+            17.219604,
+            -89.616295
+        ],
+        "description": "",
+        "icon": "pets",
+        "image": "assets/images/guatemala/spider-monkey.gif"
+    },
+    {
+        "name": "Santa Maria",
+        "coords": [
+            14.747744,
+            -91.573191
+        ],
+        "description": "Dans les nuages avec Ségolène (🇫🇷) pour tenter d'apercevoir l'éruption du volcan Santa Maria. <br>Départ à 4h30 du matin, 2500m-3780m sur 10km et 2h30 de montée droit dans la pente!!<br> Rencontrés via les Français au Guatemala, on cherchait à éviter de passer par des guides pour faire la rando 🐀. On a emmené avec nous deux bulgares et un anglais de l'hostel qui souhaitaient faire la rando mais qui n'ont pas été très bavards!",
+        "icon": "hiking",
+        "image": "assets/images/guatemala/santa-maria.jpeg"
     }
 ]
