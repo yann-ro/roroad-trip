@@ -60,6 +60,16 @@
         "image": "assets/images/poi/limule.jpeg"
     },
     {
+        "name": "Fedeeeerico",
+        "coords": [
+            21.320143,
+            -86.809245
+        ],
+        "description": "Globetrotter et prof de kite, c'est le mec stylé du spot! 🇮🇹 Il m'a donné de super conseils pour sauter plus haut et pas mals de tricks: Grazie Mille!!🤌",
+        "icon": "group",
+        "image": "assets/images/poi/federico.jpeg"
+    },
+    {
         "name": "Mangrove",
         "coords": [
             21.35,
@@ -215,7 +225,7 @@
             20.219683,
             -87.410213
         ],
-        "description": "Danse avec la tortue et les raies",
+        "description": "Danse avec la tortue et les raies en face des ruines maya de Tulum.<br><br>L'envers du décors c'est que le rivage est couvert d'un quantité astronomique de sargasse.",
         "icon": "pets",
         "image": "assets/images/trips/tulum/tortue-tulum.gif"
     },
@@ -285,9 +295,39 @@
             17.219604,
             -89.616295
         ],
-        "description": "",
+        "description": "Tout est dans le nom",
         "icon": "pets",
         "image": "assets/images/guatemala/spider-monkey.gif"
+    },
+    {
+        "name": "Singes Hurleurs (Alouates)",
+        "coords": [
+            17.217653,
+            -89.625264
+        ],
+        "description": "Le cri de ces singes sont vraiment super effrayants. En se baladant dans la forêt, on dirait qu'il y a un T-Rex tout droit sorti de Jurassic Park caché derrière les arbres",
+        "icon": "pets",
+        "image": "assets/images/guatemala/singe-hurleur.gif"
+    },
+    {
+        "name": "Famille Coati (Pizote)",
+        "coords": [
+            17.227478,
+            -89.636230
+        ],
+        "description": "Toujours en train de chiller en gang",
+        "icon": "pets",
+        "image": "assets/images/guatemala/tikal-coaties.gif"
+    },
+    {
+        "name": "Bumpy Ride en Pickup",
+        "coords": [
+            15.580204,
+            -89.950511
+        ],
+        "description": "Taxi local avec toit ouvrant",
+        "icon": "group",
+        "image": "assets/images/guatemala/pickup.gif"
     },
     {
         "name": "Santa Maria",
@@ -295,8 +335,48 @@
             14.747744,
             -91.573191
         ],
-        "description": "Dans les nuages avec Ségolène (🇫🇷) pour tenter d'apercevoir l'éruption du volcan Santa Maria. <br>Départ à 4h30 du matin, 2500m-3780m sur 10km et 2h30 de montée droit dans la pente!!<br> Rencontrés via les Français au Guatemala, on cherchait à éviter de passer par des guides pour faire la rando 🐀. On a emmené avec nous deux bulgares et un anglais de l'hostel qui souhaitaient faire la rando mais qui n'ont pas été très bavards!",
+        "description": "tentative 1: Dans les nuages avec Ségolène (🇫🇷) pour tenter d'apercevoir l'éruption du volcan Santiguito depuis le sommet du Santa Maria. <br>Départ à 4h30 du matin, 2500m-3780m sur 10km et 2h30 de montée droit dans la pente!!<br> Rencontrés via les Français au Guatemala, on cherchait à éviter de passer par des guides pour faire la rando 🐀. On a emmené avec nous deux bulgares et un anglais de l'hostel qui souhaitaient faire la rando mais qui n'ont pas été très bavards!",
         "icon": "hiking",
         "image": "assets/images/guatemala/santa-maria.jpeg"
+    },
+    {
+        "name": "Mirador Santiguito",
+        "coords": [
+            14.759537,
+            -91.566724
+        ],
+        "description": "tentative 2: On revient le surlendemain accompagné de Leonardo (🇪🇸) pour appercevoir le Santiguito en éruption! Nouveau réveil à 4h du matin et nouveau chemin direction le mirador!",
+        "icon": "hiking",
+        "image": "assets/images/guatemala/mirador-santiguito.jpeg"
+    },
+    {
+        "name": "Eruption Santiguito",
+        "coords": [
+            14.737394,
+            -91.567880
+        ],
+        "description": "Un grand boum!",
+        "icon": "volcano",
+        "image": "assets/images/guatemala/santiguito.gif"
+    },
+    {
+        "name": "Mini dogo du santa maria",
+        "coords": [
+            14.774210,
+            -91.554266
+        ],
+        "description": "Fidèle guide pour mener les randonneurs ou réconforter après une longue journée",
+        "icon": "pets",
+        "image": "assets/images/guatemala/dog-santa-maria.jpeg"
+    },
+    {
+        "name": "Fuetes Georgina",
+        "coords": [
+            14.749757,
+            -91.480250
+        ],
+        "description": "Sources d'eau chaudes perdues dans la montagne. Endroit assez incroyable de detente où les locaux viennent se détendre et soigner leurs douleurs. Certains anciens boivent même l'eau souffrée pour soigner les mots de ventre!",
+        "icon": "pool",
+        "image": "assets/images/guatemala/fuentes-georgina.jpeg"
     }
 ]

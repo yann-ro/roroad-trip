@@ -125,7 +125,7 @@
             21.330384,
             -86.797627
         ],
-        "description": "Premier volontariat au sein d'Ikarus! 🏄‍♂️🪁<br><br>1 mois en tant qu'homme à tout faire dans l'école !!",
+        "description": "Premier volontariat: Ikarus kitesurfschool eco-hostel! 🏄‍♂️🪁<br><br>Un mois en tant qu'homme à tout faire/barman! Expérience inoubliable!!",
         "image": "assets/images/ikarus.jpeg",
         "transport": "bus",
         "status": "done",
@@ -149,7 +149,7 @@
             18.521033,
             -88.291273
         ],
-        "description": "Arrivée la nuit dans la ville pour repartir le lendemain matin à 7h. Fatigué, courses et direct au lit dans une auberge de jeunesse un peu glauque.",
+        "description": "Arrivé la nuit dans la ville pour repartir le lendemain matin à 7h. Fatigué, courses et direct au lit dans une auberge de jeunesse un peu glauque.",
         "transport": "bus",
         "transport_image": "assets/images/guatemala/marlin-espadas-1.jpeg",
         "transport_description": "4h de bus, première frontière de passée. Bonus: une amende de 1000 pesos (50€) pour avoir dépasser de 10j la durée écrite par l'immigration.",
@@ -174,7 +174,7 @@
             -89.895616
         ],
         "image": "assets/images/guatemala/flores.jpeg",
-        "description": "Arrivée au Guatemala et c'est incroyable!<br>L'ambiance backpacker de la ville est super cool, toute la vie s'organise autour du lac! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, s'auter du ponton, jeux de sociétés.",
+        "description": "Arrivé au Guatemala: c'est incroyable!<br>L'ambiance backpacker de la ville est super cool, toute la vie s'organise autour du lac! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, s'auter du ponton, jeux de sociétés.",
         "transport": "bus",
         "transport_description": "8h de Bus! Super ambiance avec l'équipe faite à Flores: Betty (🇩🇪) Ruben (🇬🇧) & Joe (🇬🇧).",
         "transport_image": "assets/images/guatemala/bus-lanquin.jpeg",
@@ -187,7 +187,7 @@
             -89.980107
         ],
         "image": "assets/images/guatemala/lanquin.jpeg",
-        "description": "",
+        "description": "Petite escale de 2j dans cette ville perdue au milieu de la jungle guatemaltèque, connue pour les Semuc Champey et ses grottes. Toujours avec le même petit groupe on part en exploration dans les alentours.",
         "transport": "bus",
         "transport_image": "assets/images/guatemala/bus-xela.jpeg",
         "transport_description": "10h de Bus avec Terry (🇳🇱) et Jerry (🇳🇱)! Un groupe d'anglais qui ont visiblement gagné au bière-pong la veille et travaillent dans la finance cassent la tête à parler super fort rendent le trajet interminable.. 🙃",
@@ -200,7 +200,7 @@
             -91.527350
         ],
         "image": "assets/images/guatemala/xela.jpeg",
-        "description": "",
+        "description": "5 jours à Xela avec pour objectif de partir à l'assaut des volcans! La ville est située à 2300m, assez paisible, moins toursitique que sa voisine Antigua ou que le lac Antitlan mais avec beaucoup de charme! Arrivé au Kiwi Hostel ce sera le point de départ pour plusieurs aventures.",
         "transport": "bus",
         "status": "done"
     }
