@@ -202,6 +202,30 @@
         "image": "assets/images/guatemala/xela.jpeg",
         "description": "5 jours à Xela avec pour objectif de partir à l'assaut des volcans! La ville est située à 2300m, assez paisible, moins toursitique que sa voisine Antigua ou que le lac Antitlan mais avec beaucoup de charme! Arrivé au Kiwi Hostel ce sera le point de départ pour plusieurs aventures.",
         "transport": "bus",
+        "transport_image": "assets/images/guatemala/chicken-bus.jpeg",
+        "transport_description": "2h30: combo chicken bus et autostop pour arriver à Chichicastenango",
+        "status": "done"
+    },
+    {
+        "name": "Chichicastenango 🇬🇹",
+        "coords": [
+            14.943513,
+            -91.110236
+        ],
+        "image": "assets/images/guatemala/chichicastenango.jpeg",
+        "description": "1 jour à Chichicastenango pour chiller puis faire le marcher le lendemain matin. Ville super sympa connue pour son marché! Attention à partir de 10h une arrivée massive de gringos pour visiter.",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Antigua 🇬🇹",
+        "coords": [
+            14.556485,
+            -90.734507
+        ],
+        "image": "assets/images/guatemala/antigua.jpeg",
+        "description": "On part à l'assaut du Fuego",
+        "transport": "bus",
         "status": "done"
     }
 ]

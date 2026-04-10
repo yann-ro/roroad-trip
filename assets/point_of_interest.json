@@ -378,5 +378,35 @@
         "description": "Sources d'eau chaudes perdues dans la montagne. Endroit assez incroyable de detente où les locaux viennent se détendre et soigner leurs douleurs. Certains anciens boivent même l'eau souffrée pour soigner les mots de ventre!",
         "icon": "pool",
         "image": "assets/images/guatemala/fuentes-georgina.jpeg"
+    },
+    {
+        "name": "Giga Breakfast",
+        "coords": [
+            14.831957,
+            -91.517643
+        ],
+        "description": "Après le volcan, un brunch maison bien mérité au kiwi hostel!",
+        "icon": "group",
+        "image": "assets/images/guatemala/xela-brunch.jpeg"
+    },
+    {
+        "name": "Auto Stoppeur: direction le nord",
+        "coords": [
+            14.952158,
+            -91.107512
+        ],
+        "description": "Je dis au revoir aux amigos qui se dirigent vers le nord pendant que moi je me dirige vers le sud. C'est la fin des 3 mousquetaires de Huehuetenango.",
+        "icon": "group",
+        "image": "assets/images/guatemala/auto-stoppeur.jpeg"
+    },
+    {
+        "name": "Chichi Market",
+        "coords": [
+            14.941048,
+            -91.110527
+        ],
+        "description": "Balade dans le labyrithique marché de Chichicastenango. Découverte des rellenitos de plátano (banane plantin x frijoles) et tamales de poulet (riz x poulet dans une feuille de banane)",
+        "icon": "store",
+        "image": "assets/images/guatemala/chichi-market.jpeg"
     }
 ]
