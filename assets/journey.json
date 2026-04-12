@@ -224,7 +224,18 @@
             -90.734507
         ],
         "image": "assets/images/guatemala/antigua.jpeg",
-        "description": "On part à l'assaut du Fuego",
+        "description": "On part à l'assaut du Fuego. Arrivé le soir, la ville est très belle mais beaucoup de commerces américains, de cafés européens. Dans les rues c'est le ballet des patagonias, lunette de vitesse et autre attirail de trekkeur! Je comptais rester plus de temps dans la ville mais je ne resterai qu'une nuit le temps de faire le bivouac du Fuego!",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "El Paredón 🇬🇹",
+        "coords": [
+            13.918508,
+            -91.074542
+        ],
+        "image": "assets/images/guatemala/el-paredon.jpeg",
+        "description": "On part à l'assaut des vagues",
         "transport": "bus",
         "status": "done"
     }

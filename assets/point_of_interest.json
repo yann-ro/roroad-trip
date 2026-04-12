@@ -330,6 +330,56 @@
         "image": "assets/images/guatemala/pickup.gif"
     },
     {
+        "name": "Semuc Champey",
+        "coords": [
+            15.533646,
+            -89.958945
+        ],
+        "description": "Petite aprem avec le groupe de l'hostel (cf colectivo) à la découverte des piscines naturelles! Petites glissades sur les rochers. Lunettes perdues dans l'eau x2 mais retrouvées!",
+        "icon": "group",
+        "image": "assets/images/guatemala/semuc-champey.jpeg"
+    },
+    {
+        "name": "Cuevas de K'anba",
+        "coords": [
+            15.537498,
+            -89.955611
+        ],
+        "description": "Cave que l'on parcours avec des bougies, avec de l'eau fraiche jusqu'au hanches. La résonnance de la cave est parfaitte pour pour chanter le chant des pirates.",
+        "icon": "group",
+        "image": "assets/images/guatemala/cave.jpeg"
+    },
+    {
+        "name": "Cascade",
+        "coords": [
+            15.535936,
+            -89.957081
+        ],
+        "description": "Petit plouf dans l'eau",
+        "icon": "group",
+        "image": "assets/images/guatemala/cascade.jpeg"
+    },
+    {
+        "name": "Saut du Puente Rio Cahabon",
+        "coords": [
+            15.538211,
+            -89.953947
+        ],
+        "description": "Deuxième plouf dans l'eau",
+        "icon": "group",
+        "image": "assets/images/guatemala/jump-bridge.gif"
+    },
+    {
+        "name": "Balaçoire",
+        "coords": [
+            15.537539,
+            -89.955847
+        ],
+        "description": "ça tourne un peu trop et fini en gros splash",
+        "icon": "group",
+        "image": "assets/images/guatemala/jump-rope.gif"
+    },
+    {
         "name": "Santa Maria",
         "coords": [
             14.747744,
@@ -408,5 +458,35 @@
         "description": "Balade dans le labyrithique marché de Chichicastenango. Découverte des rellenitos de plátano (banane plantin x frijoles) et tamales de poulet (riz x poulet dans une feuille de banane)",
         "icon": "store",
         "image": "assets/images/guatemala/chichi-market.jpeg"
+    },
+    {
+        "name": "Fuego de jour",
+        "coords": [
+            14.474791,
+            -90.885583
+        ],
+        "description": "Loooooongue randonnée.. près de 10h (11h-23h) de rando pour faire 12km et 1700m d+ avec un groupe de 40 personnes. Après avoir fait Santa Maria sans guide et en toute tranquilité, ici c'est guide obligatoire et beaucoup de monde au sommet! Mais c'est dans une bonne ambiance que l'on arrive au camp de base situé à 300m du sommet de l'acatenango que l'on peut observer le volcan en activité.",
+        "icon": "volcano",
+        "image": "assets/images/guatemala/fuego-jour.jpeg"
+    },
+    {
+        "name": "Fuego de nuit",
+        "coords": [
+            14.473401,
+            -90.876858
+        ],
+        "description": "On enchaine la nuit pour appercevoir le Fuego de plus près! Et quel spectacle!! La montée a été très longue car énormément de groupes qui piétinent. Petit groupes qui chantent Wonderwall pour mettre de l'ambiance!",
+        "icon": "volcano",
+        "image": "assets/images/guatemala/fuego-nuit.jpeg"
+    },
+    {
+        "name": "Yann sur le sommet de l'Acatenango",
+        "coords": [
+            14.504246,
+            -90.877274
+        ],
+        "description": "Levé à 3h du matin après la rando qui finissait la veille à 23h, cette photo immortalise un reveil difficile pour arriver au sommet de l'Acatenango avec le Fuego dans le dos.",
+        "icon": "hiking",
+        "image": "assets/images/guatemala/fuego-yann.jpeg"
     }
 ]
