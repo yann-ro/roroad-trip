@@ -238,5 +238,203 @@
         "description": "On part à l'assaut des vagues",
         "transport": "bus",
         "status": "done"
+    },
+    {
+        "name": "El Tunco 🇸🇻",
+        "coords": [
+            13.493550,
+            -89.386116
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Lago de Coatepeque 🇸🇻",
+        "coords": [
+            13.879055,
+            -89.563887
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Sonsonate 🇸🇻",
+        "coords": [
+            13.719177,
+            -89.723017
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Nahuizalco 🇸🇻",
+        "coords": [
+            13.776606,
+            -89.739068
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Salcoatitan 🇸🇻",
+        "coords": [
+            13.831138,
+            -89.758222
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Juayúa 🇸🇻",
+        "coords": [
+            13.841319,
+            -89.743992
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Apaneca 🇸🇻",
+        "coords": [
+            13.860703,
+            -89.804960
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Ataco 🇸🇻",
+        "coords": [
+            13.868967,
+            -89.850429
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Ahuachapán 🇸🇻",
+        "coords": [
+            13.923326,
+            -89.844498
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "San Salvador 🇸🇻",
+        "coords": [
+            13.683647,
+            -89.207419
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "La Unión 🇸🇻",
+        "coords": [
+            13.341289,
+            -87.850843
+        ],
+        "image": "assets/images/salvador/.jpeg",
+        "description": "",
+        "transport": "ferry",
+        "status": "done"
+    },
+    {
+        "name": "Potosí 🇳🇮",
+        "coords": [
+            13.003939,
+            -87.503191
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Jiquilillo 🇳🇮",
+        "coords": [
+            12.733924,
+            -87.443813
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "León 🇳🇮",
+        "coords": [
+            12.431889,
+            -86.880363
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Poneloya 🇳🇮",
+        "coords": [
+            12.388511,
+            -87.057796
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "Managua 🇳🇮",
+        "coords": [
+            12.146326,
+            -86.245445
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
+    },
+    {
+        "name": "San Jorge 🇳🇮",
+        "coords": [
+            11.459455,
+            -85.790263
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "ferry",
+        "status": "done"
+    },
+    {
+        "name": "Ometepe 🇳🇮",
+        "coords": [
+            11.495802,
+            -85.569730
+        ],
+        "image": "assets/images/nicaragua/.jpeg",
+        "description": "",
+        "transport": "bus",
+        "status": "done"
     }
 ]
