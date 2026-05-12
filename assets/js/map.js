@@ -13,15 +13,17 @@ export class BackgroundMap {
 
         this.map.setView([18.121997, -41.225524], 3);
 
-        L.tileLayer('https://watercolormaps.collection.cooperhewitt.org/tile/watercolor/{z}/{x}/{y}.jpg', {
-            attribution: '© Stamen Design, © OpenStreetMap',
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: '',
         }).addTo(this.map);
 
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png', {
-            attribution: '© CartoDB',
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
             pane: 'shadowPane',
+            opacity: 0.3,
+            transparent: true
         }).addTo(this.map);
     }
+
 
 }
 
