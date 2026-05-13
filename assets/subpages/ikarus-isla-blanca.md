@@ -1,12 +1,12 @@
 ---
 title: IKARUS, Isla Blanca<br>Yucatán, México 🇲🇽
 layout: markdown
-banner: assets/images/ikarus-baner.jpeg
+banner: assets/images/mexico/ikarus-baner.jpeg
 banner_offset: 60%
 ---
 
 <div style="position: absolute; top: 20%; right: 0; width: 30vw;">
-  <img src="/roroad-trip/assets/images/ikarus-board.png" alt="Description of image">
+  <img src="/roroad-trip/assets/images/mexico/ikarus-board.png" alt="Description of image">
 </div>
 
 <div style="text-align: center;">
@@ -81,11 +81,11 @@ On n'oublie pas la présence du trio de dogos inséparables <span class="profile
 Ici c'est la fashion week, Louki nous fait grâce de son outfit of the day:
 <div class="carousel-container" style="height: 30vh;">
   <div class="carousel-slide">
-    <img src="/roroad-trip/assets/images/louki_1.jpeg" class="active">
-    <img src="/roroad-trip/assets/images/louki_2.jpeg">
-    <img src="/roroad-trip/assets/images/louki_3.jpeg">
-    <img src="/roroad-trip/assets/images/louki_4.jpeg">
-    <img src="/roroad-trip/assets/images/louki_5.jpeg">
+    <img src="/roroad-trip/assets/images/mexico/louki_1.jpeg" class="active">
+    <img src="/roroad-trip/assets/images/mexico/louki_2.jpeg">
+    <img src="/roroad-trip/assets/images/mexico/louki_3.jpeg">
+    <img src="/roroad-trip/assets/images/mexico/louki_4.jpeg">
+    <img src="/roroad-trip/assets/images/mexico/louki_5.jpeg">
   </div>
   
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
@@ -102,7 +102,7 @@ Ici c'est la fashion week, Louki nous fait grâce de son outfit of the day:
 ## 🍹 Le bar
 
 <div style="text-align: center;">
-  <img src="/roroad-trip/assets/images/bar-de-frutas.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
+  <img src="/roroad-trip/assets/images/mexico/bar-de-frutas.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
 </div>
 
 <br>
@@ -111,12 +111,12 @@ Les Cocktails:
 <table style="width: 100%; border-collapse: collapse; text-align: center; table-layout: fixed;">
   <tr>
     <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/ikarus-coktail.jpeg" alt="Ikarus" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/ikarus-coktail.jpeg" alt="Ikarus" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Ikarus</b><br>On mixe: 1/4 concombre, 5 feuilles de basilic, 1 shot Bacardi, 4 glaçons</i>
     </td>
     <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/pina-colada.jpeg" alt="Piña Colada" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/pina-colada.jpeg" alt="Piña Colada" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Piña Colada</b><br>On mixe: 100G d'anas gelés, 1 shot de Bacardi, crème de coco</i>
     </td>
@@ -126,7 +126,7 @@ Les Cocktails:
       <i style="font-size: 0.9rem;"><b>Merzcalina</b><br></i>
     </td>
     <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/cerbeza-artesanal.jpeg" alt="Cerbeza Artezanal" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/cerbeza-artesanal.jpeg" alt="Cerbeza Artezanal" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Cerbeza Artezanal</b>Chela Libre - Cerdo Capitaliste $$<br></i>
     </td>
@@ -139,12 +139,12 @@ Mocktails et autres:
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/coco-fresco.jpeg" alt="Coco Fresco" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/coco-fresco.jpeg" alt="Coco Fresco" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Coco Fresco</b><br>Deux coup de couteaux, puis on fait un trou, et hop une paille</i>
     </td>
     <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/acai.jpeg" alt="Açai" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/acai.jpeg" alt="Açai" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Açaí</b><br>On mixe: 1 bannane surgelée, de l'açaí surgelé. Puis on rajoute une bannane coupée, muesli et chocolat</i>
     </td>
@@ -154,7 +154,7 @@ Mocktails et autres:
       <i style="font-size: 0.9rem;"><b>Smoothie</b><br>On mixe: 240g platano/piña/fraise/mangue surgelées un peu d'eau et hop!</i>
     </td>
         <td style="padding: 10px; width: 25%; vertical-align: top;">
-      <img src="/roroad-trip/assets/images/orange-juice.jpeg" alt="Orange juice" width="200" style="max-width: 100%; height: auto;">
+      <img src="/roroad-trip/assets/images/mexico/orange-juice.jpeg" alt="Orange juice" width="200" style="max-width: 100%; height: auto;">
       <br>
       <i style="font-size: 0.9rem;"><b>Orange Juice</b><br>3 oranges et hop</i>
     </td>
@@ -171,7 +171,7 @@ La saison des vents s'étend de novembre à mai principalement mais on peut y na
 
 Nombre de jours de vents moyens par mois:
   <div style="text-align: center;">
-    <img src="/roroad-trip/assets/images/ikarus-windguru.png" alt="Description of image" width="800">
+    <img src="/roroad-trip/assets/images/mexico/ikarus-windguru.png" alt="Description of image" width="800">
   </div>
 
 La plage est dans l'axe Nord-Sud et offre deux setups:
@@ -182,7 +182,7 @@ La plage est dans l'axe Nord-Sud et offre deux setups:
 Donc le plus souvent c'est une aile de 12m2 et quand le vent du nord souffle on prend une 8m2.
 
   <div style="text-align: center;">
-    <img src="/roroad-trip/assets/images/ikarus-school.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
+    <img src="/roroad-trip/assets/images/mexico/ikarus-school.jpeg" alt="Description of image" width="600" style="border-radius: 4px;">
   </div>
 
 Forecast:

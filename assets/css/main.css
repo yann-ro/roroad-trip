@@ -103,23 +103,37 @@ body {
 }
 
 .marker-done {
-    background-color: #10ded7;
-    border: 2px solid white;
+    background-color: white;
     border-radius: 50%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     display: flex;
     overflow: visible !important;
     z-index: 99999 !important;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    width: 12px;
+    height: 12px;
+    margin-left: -6px;
+    margin-top: -6px;
+}
+
+.marker-done.has-image {
+    background-color: #10ded7;
+    border: 2px solid white;
     width: 24px;
     height: 24px;
     margin-left: -12px;
     margin-top: -12px;
 }
 
+
 .marker-done.has-subpages {
     background-color: #ff9800;
+    border: 2px solid white;
     box-shadow: 0 0 8px rgba(255, 152, 0, 0.6);
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    margin-top: -12px;
 }
 
 .marker-done:hover {
@@ -129,29 +143,25 @@ body {
 
 @media (min-aspect-ratio: 1) {
     .marker-done {
+        width: 8px;
+        height: 8px;
+        margin-left: -4px;
+        margin-top: -4px;
+    }
+
+    .marker-done.has-image {
         width: 12px;
         height: 12px;
         margin-left: -6px;
         margin-top: -6px;
     }
-}
 
-.marker-next {
-    background-color: white;
-    border: 1px solid #343333;
-    border-radius: 50%;
-    width: 12px;
-    height: 12px;
-    margin-left: -6px;
-    margin-top: -6px;
-}
 
-@media (min-aspect-ratio: 1) {
-    .marker-next {
-        width: 8px;
-        height: 8px;
-        margin-left: -4px;
-        margin-top: -4px;
+    .marker-done.has-subpages {
+        width: 12px;
+        height: 12px;
+        margin-left: -6px;
+        margin-top: -6px;
     }
 }
 

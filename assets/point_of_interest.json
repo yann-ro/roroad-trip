@@ -488,5 +488,51 @@
         "description": "Levé à 3h du matin après la rando qui finissait la veille à 23h, cette photo immortalise un reveil difficile pour arriver au sommet de l'Acatenango avec le Fuego dans le dos.",
         "icon": "hiking",
         "image": "assets/images/guatemala/fuego-yann.jpeg"
+    },
+    {
+        "name": "Canasson",
+        "coords": [
+            12.395387,
+            -87.067283
+        ],
+        "description": "Première fois sur un canasson super rapdide!",
+        "icon": "pets",
+        "image": "assets/images/nicaragua/canasson-turtle.jpeg"
+    },
+    {
+        "name": "La Paloma Ometepe Airport",
+        "coords": [
+            11.523696,
+            -85.703194
+        ],
+        "icon": "motorcycle",
+        "image": "assets/images/nicaragua/moto-ometepe.jpeg"
+    },
+    {
+        "name": "Kitesurf Ometepe 🤙",
+        "coords": [
+            11.497222,
+            -85.546445
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/nicaragua/kitesurf-ometepe.jpeg"
+    },
+    {
+        "name": "L'envol du bird",
+        "coords": [
+            11.440975,
+            -85.560548
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/jump-ometepe.jpeg"
+    },
+    {
+        "name": "Kayak pour aller voir les caïmans",
+        "coords": [
+            11.479684,
+            -85.561584
+        ],
+        "icon": "kayaking",
+        "image": "assets/images/nicaragua/kayak-caiman.jpeg"
     }
 ]

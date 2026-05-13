@@ -100,17 +100,14 @@ export class JourneyManager {
                     iconAnchor: null,
                     zIndexOffset: 99999,
                 });
-            } else if (stop.status === "next") {
-                markerOptions.icon = L.divIcon({
-                    className: 'marker-next',
-                    iconSize: null,
-                    iconAnchor: null,
-                    zIndexOffset: 0,
-                });
             } else {
                 let extraClass = "";
                 if (stop.subpage_path && stop.subpage_path.length > 0) {
                     extraClass = " has-subpages";
+                } else {
+                    if (stop.image) {
+                        extraClass = " has-image";
+                    }
                 }
 
                 markerOptions.icon = L.divIcon({
