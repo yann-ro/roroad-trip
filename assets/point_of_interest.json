@@ -534,5 +534,14 @@
         ],
         "icon": "kayaking",
         "image": "assets/images/nicaragua/kayak-caiman.jpeg"
+    },
+    {
+        "name": "Finca Mystica",
+        "coords": [
+            11.438150,
+            -85.546551
+        ],
+        "icon": "park",
+        "image": "assets/images/nicaragua/tarzan-ometepe.jpeg"
     }
 ]
