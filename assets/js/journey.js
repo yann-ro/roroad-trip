@@ -5,7 +5,9 @@ const TRANSPORT_ICONS = {
     car: "directions_car",
     ferry: "directions_boat",
     sailing: "sailing",
-    plane: "flight",
+    avion: "flight",
+    autostop: "thumb_up",
+    moto: "motorcycle"
 };
 
 export class JourneyManager {

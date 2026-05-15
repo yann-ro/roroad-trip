@@ -518,6 +518,15 @@
         "image": "assets/images/nicaragua/kitesurf-ometepe.jpeg"
     },
     {
+        "name": "Youp Youp",
+        "coords": [
+            11.523730,
+            -85.528414
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/nicaragua/ometepe-kitesurf.gif"
+    },
+    {
         "name": "L'envol du bird",
         "coords": [
             11.440975,
@@ -536,6 +545,15 @@
         "image": "assets/images/nicaragua/kayak-caiman.jpeg"
     },
     {
+        "name": "Caïmans à fleur de kayak",
+        "coords": [
+            11.481061,
+            -85.558858
+        ],
+        "icon": "kayaking",
+        "image": "assets/images/nicaragua/ometepe-caiman.gif"
+    },
+    {
         "name": "Finca Mystica",
         "coords": [
             11.438150,
@@ -543,5 +561,170 @@
         ],
         "icon": "park",
         "image": "assets/images/nicaragua/tarzan-ometepe.jpeg"
+    },
+    {
+        "name": "Fourmis Porteuse de feuille",
+        "coords": [
+            11.432949,
+            -85.520978
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/ometepe-fourmis.gif"
+    },
+    {
+        "name": "First time moto",
+        "coords": [
+            11.512106,
+            -85.714634
+        ],
+        "description": "Apprentissage de passage des vitesses en moto en vue de devenir le KTM guy.",
+        "icon": "motorcycle",
+        "image": "assets/images/nicaragua/ometepe-moto-1.gif"
+    },
+    {
+        "name": "Plouf",
+        "coords": [
+            11.440816,
+            -85.561102
+        ],
+        "icon": "water",
+        "image": "assets/images/nicaragua/ometepe-jump.gif"
+    },
+    {
+        "name": "Front Roll on sunset 🤘",
+        "coords": [
+            21.325667,
+            -86.833007
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/mexico/ikarus-kitesurf.gif"
+    },
+    {
+        "name": "Passion cailloux",
+        "coords": [
+            21.321149,
+            -86.812796
+        ],
+        "icon": "self_improvement",
+        "image": "assets/images/mexico/ikarus-ricochet.gif"
+    },
+    {
+        "name": "Plouf jambes en vrac",
+        "coords": [
+            13.862744,
+            -89.543323
+        ],
+        "icon": "water",
+        "image": "assets/images/salvador/coatepeque-jump.gif"
+    },
+    {
+        "name": "Santa Ana",
+        "coords": [
+            13.848563,
+            -89.629628
+        ],
+        "icon": "volcano",
+        "image": "assets/images/salvador/santa-ana.jpeg"
+    },
+    {
+        "name": "Las Siete Cascadas",
+        "coords": [
+            13.840766,
+            -89.730831
+        ],
+        "icon": "water",
+        "image": "assets/images/salvador/juayua-7-cascadas.gif"
+    },
+    {
+        "name": "Telica",
+        "coords": [
+            12.604867,
+            -86.840145
+        ],
+        "icon": "hiking",
+        "description": "Super rando: 22km A/R, petit bivouac en tente à 300m du sommet du cratère. La saison des pluies arrive donc il fait très chaud, rando sous 34°C donc pas facile!<br>Bonus: au matin on se retrouve entouré par un troupeau de vache avec des cornes de 50cm de long, ça fait pas les malins.",
+        "image": "assets/images/nicaragua/volcan-telica.jpeg"
+    },
+    {
+        "name": "Bouseux en difficultés",
+        "coords": [
+            12.605707,
+            -86.834240
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/telica-bouseux.gif",
+        "description": "pierre qui roule n'amasse pas mousse: en l'occurence ils sont bloqués!"
+    },
+    {
+        "name": "Batcave",
+        "coords": [
+            12.609560,
+            -86.842737
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/telica-batcave.gif"
+    },
+    {
+        "name": "Le colibri gazouille le matin",
+        "coords": [
+            12.388350,
+            -87.056412
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/poneloya-colibri.gif"
+    },
+    {
+        "name": "Giga gros crapaud en bas des escaliers",
+        "coords": [
+            12.389914,
+            -87.059220
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/surfing-turtle-crapaud.jpeg"
+    },
+    {
+        "name": "Giga gros crabe fait un ptit coucou",
+        "coords": [
+            12.391148,
+            -87.059057
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/poneloya-crabe.gif"
+    },
+    {
+        "name": "Un des plus beaux",
+        "coords": [
+            12.397025,
+            -87.071239
+        ],
+        "icon": "wb_twilight",
+        "image": "assets/images/nicaragua/poneloya-sunset.gif"
+    },
+    {
+        "name": "Collage d'affiches: soirée mousse",
+        "coords": [
+            13.492347,
+            -89.380662
+        ],
+        "icon": "group",
+        "image": "assets/images/salvador/tunco-affiche.jpeg"
+    },
+    {
+        "name": "Chevres de rick: le ptit lait",
+        "coords": [
+            13.843291,
+            -89.707148
+        ],
+        "icon": "pets",
+        "image": "assets/images/salvador/rick-farmstay-cabras.jpeg"
+    },
+    {
+        "name": "Le cochon famillial",
+        "coords": [
+            13.842238,
+            -89.707491
+        ],
+        "icon": "pets",
+        "image": "assets/images/salvador/rick-farmstay-pig.jpeg"
     }
 ]
