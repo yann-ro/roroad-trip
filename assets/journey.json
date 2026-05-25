@@ -236,6 +236,7 @@
             -91.074542
         ],
         "description": "On part à l'assaut des vagues",
+        "image": "assets/images/guatemala/paredon.jpeg",
         "transport": "bus",
         "status": "done"
     },
@@ -245,7 +246,8 @@
             13.493550,
             -89.386116
         ],
-        "description": "",
+        "description": "Aussi appelée surfcity: paradis du grigo en vacaciones",
+        "image": "assets/images/salvador/tunco.jpeg",
         "transport": "bus",
         "status": "done"
     },
@@ -351,6 +353,8 @@
         ],
         "description": "",
         "transport": "ferry",
+        "transport_image": "assets/images/salvador/launcha.jpeg",
+        "transport_description": "Un petit air de Las Vegas Parano",
         "status": "done"
     },
     {
@@ -371,6 +375,7 @@
             -87.443813
         ],
         "description": "",
+        "image": "assets/images/nicaragua/jiqi-sunset.jpeg",
         "transport": "autostop",
         "transport_image": "assets/images/nicaragua/autostop-1.jpeg",
         "status": "done"
@@ -392,6 +397,7 @@
             12.388511,
             -87.057796
         ],
+        "image": "assets/images/nicaragua/poneloya-colibri.gif",
         "description": "",
         "transport": "bus",
         "status": "done"

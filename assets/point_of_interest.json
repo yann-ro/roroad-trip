@@ -665,15 +665,6 @@
         "image": "assets/images/nicaragua/telica-batcave.gif"
     },
     {
-        "name": "Le colibri gazouille le matin",
-        "coords": [
-            12.388350,
-            -87.056412
-        ],
-        "icon": "pets",
-        "image": "assets/images/nicaragua/poneloya-colibri.gif"
-    },
-    {
         "name": "Giga gros crapaud en bas des escaliers",
         "coords": [
             12.389914,
@@ -726,5 +717,23 @@
         ],
         "icon": "pets",
         "image": "assets/images/salvador/rick-farmstay-pig.jpeg"
+    },
+    {
+        "name": "Espiritu de la montaña: jambes dans le vide",
+        "coords": [
+            13.272792,
+            -87.834558
+        ],
+        "icon": "volcano",
+        "image": "assets/images/salvador/espiritu-de-la-montana.jpeg"
+    },
+    {
+        "name": "Espiritu de la montana: setup de camping",
+        "coords": [
+            13.285982,
+            -87.837004
+        ],
+        "icon": "house",
+        "image": "assets/images/salvador/espiritu-2.jpeg"
     }
 ]
