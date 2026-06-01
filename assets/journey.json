@@ -190,7 +190,7 @@
         "description": "Petite escale de 2j dans cette ville perdue au milieu de la jungle guatemaltèque, connue pour les Semuc Champey et ses grottes. Toujours avec le même petit groupe on part en exploration dans les alentours.",
         "transport": "bus",
         "transport_image": "assets/images/guatemala/bus-xela.jpeg",
-        "transport_description": "10h de Bus avec Terry (🇳🇱) et Jerry (🇳🇱)! Un groupe d'anglais qui ont visiblement gagné au bière-pong la veille et travaillent dans la finance cassent la tête à parler super fort rendent le trajet interminable.. 🙃",
+        "transport_description": "10h de Bus avec Tori (🇳🇱) et Jori (🇳🇱)! Un groupe d'anglais a visiblement gagné au bière-pong la veille, casse la tête à parler super fort et rend le trajet interminable.. 🙃",
         "status": "done"
     },
     {
@@ -437,7 +437,21 @@
             11.487082,
             -86.119490
         ],
-        "description": "2nd Volontariat: Cette fois va retaper une maison !!",
+        "image": "assets/images/nicaragua/popoyo.jpeg",
+        "description": "Volontariat N°2: 15j à construire une casita x surfer !!",
+        "transport": "bus",
+        "transport_description": "8h de bus x 4$ de taxe de douane ! Le début de la saison des pluies !! Traversée de gigantesques forêts via la Panaméricaine.",
+        "status": "done",
+        "subpage_path": "assets/subpages/popoyo-casita"
+    },
+    {
+        "name": "San José 🇨🇷",
+        "coords": [
+            9.934807,
+            -84.086525
+        ],
+        "image": "assets/images/costarica/san-jose.jpeg",
+        "description": "La capitale x victoire du PSG (PSRÉ)! On arrive et c'est la douche: giga trombes d'eau. Petit stop de 2 nuits pour faire le marché à gringos et se reposer un peu!",
         "transport": "bus",
         "status": "done"
     }

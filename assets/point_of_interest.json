@@ -735,5 +735,63 @@
         ],
         "icon": "house",
         "image": "assets/images/salvador/espiritu-2.jpeg"
+    },
+    {
+        "name": "Petit tour de pêche avec des locaux",
+        "coords": [
+            11.347385,
+            -86.069672
+        ],
+        "icon": "phishing",
+        "image": "assets/images/nicaragua/fishing.gif"
+    },
+    {
+        "name": "La pêche du jour!",
+        "coords": [
+            11.346333,
+            -86.047553
+        ],
+        "icon": "phishing",
+        "image": "assets/images/nicaragua/fish.jpeg"
+    },
+    {
+        "name": "El remanzo 🫶",
+        "coords": [
+            11.220681,
+            -85.848501
+        ],
+        "icon": "surfing",
+        "image": "assets/images/nicaragua/el-remanzo.jpeg",
+        "description": "Gros coup de coeur pour ce spot! On a pu bien progressé!"
+    },
+    {
+        "name": "Night Monos",
+        "coords": [
+            11.383960,
+            -86.035541
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/monkey-popoyo.gif",
+        "description": "l'heure d'aller au lit"
+    },
+    {
+        "name": "Super arbre",
+        "coords": [
+            9.934702,
+            -84.070436
+        ],
+        "icon": "eco",
+        "image": "assets/images/costarica/tree.jpeg",
+        "description": "Les amoureux de Truffaut en seraient fous"
+    },
+    {
+        "name": "Steet Art",
+        "coords": [
+            9.935670,
+            -84.067165
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/costarica/street-art.jpeg",
+        "description": "Les couleurs sont cools"
     }
 ]

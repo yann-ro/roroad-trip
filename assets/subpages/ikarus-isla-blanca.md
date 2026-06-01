@@ -9,7 +9,7 @@ banner_offset: 60%
   <img src="/roroad-trip/assets/images/mexico/ikarus-board.png" alt="Description of image">
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center;align-items: center;">
   <a href="https://www.instagram.com/ikaruskiteboarding/">
     @ikaruskiteboarding
   </a>, 
