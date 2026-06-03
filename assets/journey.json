@@ -453,6 +453,19 @@
         "image": "assets/images/costarica/san-jose.jpeg",
         "description": "La capitale x victoire du PSG (PSRÉ)! On arrive et c'est la douche: giga trombes d'eau. Petit stop de 2 nuits pour faire le marché à gringos et se reposer un peu!",
         "transport": "bus",
+        "transport_image": "assets/images/costarica/bus-pv.jpeg",
+        "transport_description": "5h de bus ~11€, errintant",
+        "status": "done"
+    },
+    {
+        "name": "Puerto Viejo 🇨🇷",
+        "coords": [
+            9.650538,
+            -82.739578
+        ],
+        "image": "assets/images/costarica/puerto-viejo.jpeg",
+        "description": "5j dans un jungle hostel pour chiller un peu et essayer d'observer des animaux",
+        "transport": "bus",
         "status": "done"
     }
 ]

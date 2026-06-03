@@ -793,5 +793,55 @@
         "icon": "format_paint",
         "image": "assets/images/costarica/street-art.jpeg",
         "description": "Les couleurs sont cools"
+    },
+    {
+        "name": "Bernard",
+        "coords": [
+            9.633720,
+            -82.650511
+        ],
+        "icon": "pets",
+        "image": "assets/images/costarica/bernard.jpeg",
+        "description": "Le plus beau de tous les bernards"
+    },
+    {
+        "name": "Capucino",
+        "coords": [
+            9.748351,
+            -82.816112
+        ],
+        "icon": "pets",
+        "image": "assets/images/costarica/capucino.gif",
+        "description": "Ballerina Cappuccina"
+    },
+    {
+        "name": "Pedro le rakoon",
+        "coords": [
+            9.727839,
+            -82.816730
+        ],
+        "icon": "pets",
+        "image": "assets/images/costarica/rakoon.jpeg",
+        "description": "Pedro pedro, ce fou, s'en est allé raqueter le sac d'une petite vieille sur la plage."
+    },
+    {
+        "name": "Paressado",
+        "coords": [
+            9.733042,
+            -82.836609
+        ],
+        "icon": "pets",
+        "image": "assets/images/costarica/sloth.gif",
+        "description": "Egérie de la lenteur, trop content de pouvoir les observer dans le parc national de Cahuita."
+    },
+    {
+        "name": "Tortuga",
+        "coords": [
+            9.703042,
+            -82.809896
+        ],
+        "icon": "pets",
+        "image": "assets/images/costarica/tortuga.gif",
+        "description": "Au sommet de la chaine alimentaire, prédateur féroce aux crocs assérés."
     }
 ]
