@@ -466,6 +466,43 @@
         "image": "assets/images/costarica/puerto-viejo.jpeg",
         "description": "5j dans un jungle hostel pour chiller un peu et essayer d'observer des animaux",
         "transport": "bus",
+        "transport_description": "bus x passage de la frontière à pieds x bus x petite barque",
+        "status": "done"
+    },
+    {
+        "name": "Bocas del Toro 🇵🇦",
+        "coords": [
+            9.339285,
+            -82.237197
+        ],
+        "image": "assets/images/panama/.jpeg",
+        "description": "5j dans l'archipelle",
+        "transport": "bus",
+        "transport_description": "bus de nuit: très technique, arrivée à panama à 3h30 du matin. Je finis l'appel de la forêt en attendant l'ouverture du métro.",
+        "status": "done"
+    },
+    {
+        "name": "Ciudad de Panamá 🇵🇦",
+        "coords": [
+            8.989095,
+            -79.521508
+        ],
+        "image": "assets/images/panama/.jpeg",
+        "description": "2 nuits en attendant le départ en bateau !! J'ai vraiment pas trop aimé la ville.. tout le monde claxonne vraiment tout le temps, que des gros suv pas facile de marcher.. Bonus visite du canal un peu décevante on voit pas grand chose ! aller la suite !!",
+        "transport": "bus",
+        "transport_description": "",
+        "status": "done"
+    },
+    {
+        "name": "Puerto Lindo 🇵🇦",
+        "coords": [
+            9.604576,
+            -79.586428
+        ],
+        "image": "assets/images/panama/.jpeg",
+        "description": "Hopla on saute dans le bateau pour 6j!! Direction carthagène avec un stop aux îles san blas.",
+        "transport": "bus",
+        "transport_description": "",
         "status": "done"
     }
 ]
