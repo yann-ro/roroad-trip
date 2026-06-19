@@ -467,6 +467,7 @@
         "description": "5j dans un jungle hostel pour chiller un peu et essayer d'observer des animaux",
         "transport": "bus",
         "transport_description": "bus x passage de la frontière à pieds x bus x petite barque",
+        "transport_image": "assets/images/panama/bus.jpeg",
         "status": "done"
     },
     {
@@ -475,7 +476,7 @@
             9.339285,
             -82.237197
         ],
-        "image": "assets/images/panama/.jpeg",
+        "image": "assets/images/panama/bocas.jpeg",
         "description": "5j dans l'archipelle",
         "transport": "bus",
         "transport_description": "bus de nuit: très technique, arrivée à panama à 3h30 du matin. Je finis l'appel de la forêt en attendant l'ouverture du métro.",
@@ -487,10 +488,10 @@
             8.989095,
             -79.521508
         ],
-        "image": "assets/images/panama/.jpeg",
+        "image": "assets/images/panama/panama-city.jpeg",
         "description": "2 nuits en attendant le départ en bateau !! J'ai vraiment pas trop aimé la ville.. tout le monde claxonne vraiment tout le temps, que des gros suv pas facile de marcher.. Bonus visite du canal un peu décevante on voit pas grand chose ! aller la suite !!",
         "transport": "bus",
-        "transport_description": "",
+        "transport_description": "2h de petit shuttle à 10 bien serrés sous la pluie ça s'annonce sportif!!",
         "status": "done"
     },
     {
@@ -499,8 +500,44 @@
             9.604576,
             -79.586428
         ],
-        "image": "assets/images/panama/.jpeg",
+        "image": "assets/images/panama/puerto-lindo.jpeg",
         "description": "Hopla on saute dans le bateau pour 6j!! Direction carthagène avec un stop aux îles san blas.",
+        "transport": "sailing",
+        "transport_description": "Petite croisière sur 6j. La petite zone de terre entre le Panama et la colombie (le détroit de Darien) est connu pour être une zone sans routes, seulement des forêts fréquentées par les narcotrafficants. Autant dire, assez infranchissage. C'est donc à bord d'un voilier que nous faisons la traversée.",
+        "status": "done"
+    },
+    {
+        "name": "San Blas 🇵🇦",
+        "coords": [
+            9.586653,
+            -78.692729
+        ],
+        "image": "assets/images/panama/sanblas-one-island.jpeg",
+        "description": "",
+        "transport": "sailing",
+        "transport_description": "2j de navigation, tranquillou on arrive à la grande ville!",
+        "status": "done"
+    },
+    {
+        "name": "Cartagena de Indias 🇨🇴",
+        "coords": [
+            10.390734,
+            -75.486037
+        ],
+        "image": "assets/images/colombia/cartagena.gif",
+        "description": "2j dans le port colombien ! Au programme: matchs de foot, trouver le maillot edition 100ans, se reposer",
+        "transport": "bus",
+        "transport_description": "17h de bus de nuit: on commence à devenir rodé. Pull anti-clim, coussin oreillé et liseuse chargée.",
+        "status": "done"
+    },
+    {
+        "name": "San Gil 🇨🇴",
+        "coords": [
+            6.557802,
+            -73.135864
+        ],
+        "image": "assets/images/columbia/san-gil.jpeg",
+        "description": "15j au plus près du canyon du Chicamocha. Au programme: parapente, randonnée, vélo",
         "transport": "bus",
         "transport_description": "",
         "status": "done"
