@@ -843,5 +843,125 @@
         "icon": "pets",
         "image": "assets/images/costarica/tortuga.gif",
         "description": "Au sommet de la chaine alimentaire, prédateur féroce aux crocs assérés."
+    },
+    {
+        "name": "On a retrouvé Patrick!",
+        "coords": [
+            9.405106,
+            -82.324483
+        ],
+        "icon": "pets",
+        "image": "assets/images/panama/patrick.gif",
+        "description": ""
+    },
+    {
+        "name": "Pas trop vite",
+        "coords": [
+            9.413029,
+            -82.331100
+        ],
+        "icon": "pets",
+        "image": "assets/images/panama/speed.gif",
+        "description": ""
+    },
+    {
+        "name": "Plouf",
+        "coords": [
+            9.587566,
+            -78.880935
+        ],
+        "icon": "water",
+        "image": "assets/images/panama/sanblas-dive.gif",
+        "description": "Après un premier bout de chemin c'est le grand plouf"
+    },
+    {
+        "name": "♠️♥️♣️♦️",
+        "coords": [
+            9.852577,
+            -77.312955
+        ],
+        "icon": "group",
+        "image": "assets/images/panama/sanblas-cards.gif",
+        "description": "Petite soirée à jouer au 'shit head'"
+    },
+    {
+        "name": "Nurse Shark",
+        "coords": [
+            9.580163,
+            -78.721249
+        ],
+        "icon": "pets",
+        "image": "assets/images/panama/nurse-shark.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Au top",
+        "coords": [
+            9.577900,
+            -78.721244
+        ],
+        "icon": "",
+        "image": "assets/images/panama/hamac.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Brasero",
+        "coords": [
+            9.578296,
+            -78.723176
+        ],
+        "icon": "",
+        "image": "assets/images/panama/fire.jpeg",
+        "description": "Dernier feu avant le départ dans la nuit"
+    },
+    {
+        "name": "Best cooker",
+        "coords": [
+            9.561580,
+            -78.827929
+        ],
+        "icon": "restaurant",
+        "image": "assets/images/panama/cook.jpeg",
+        "description": "Pouah les langoustes"
+    },
+    {
+        "name": "Carte Postale",
+        "coords": [
+            9.566566,
+            -78.827575
+        ],
+        "icon": "group",
+        "image": "assets/images/panama/sanblas-swimming-bar.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Cotton-top Tamarin",
+        "coords": [
+            10.422564,
+            -75.547276
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/carta-monkey.gif",
+        "description": "Micro singe à la dégaine madmax 😍"
+    },
+    {
+        "name": "Street painting",
+        "coords": [
+            10.424344,
+            -75.550531
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/colombia/carta-peinture.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Arrivée au petit matin (4h)",
+        "coords": [
+            10.320280,
+            -75.548744
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/cartagena.gif",
+        "description": ""
     }
 ]

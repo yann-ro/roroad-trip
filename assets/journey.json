@@ -504,18 +504,20 @@
         "description": "Hopla on saute dans le bateau pour 6j!! Direction carthagène avec un stop aux îles san blas.",
         "transport": "sailing",
         "transport_description": "Petite croisière sur 6j. La petite zone de terre entre le Panama et la colombie (le détroit de Darien) est connu pour être une zone sans routes, seulement des forêts fréquentées par les narcotrafficants. Autant dire, assez infranchissage. C'est donc à bord d'un voilier que nous faisons la traversée.",
+        "transport_image": "assets/images/panama/boat-sanblas.jpeg",
         "status": "done"
     },
     {
         "name": "San Blas 🇵🇦",
         "coords": [
-            9.586653,
-            -78.692729
+            9.542282,
+            -78.782348
         ],
         "image": "assets/images/panama/sanblas-one-island.jpeg",
         "description": "",
         "transport": "sailing",
         "transport_description": "2j de navigation, tranquillou on arrive à la grande ville!",
+        "transport_image": "assets/images/panama/crew.jpeg",
         "status": "done"
     },
     {
@@ -524,7 +526,7 @@
             10.390734,
             -75.486037
         ],
-        "image": "assets/images/colombia/cartagena.gif",
+        "image": "assets/images/colombia/carta-street.jpeg",
         "description": "2j dans le port colombien ! Au programme: matchs de foot, trouver le maillot edition 100ans, se reposer",
         "transport": "bus",
         "transport_description": "17h de bus de nuit: on commence à devenir rodé. Pull anti-clim, coussin oreillé et liseuse chargée.",
