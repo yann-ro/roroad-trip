@@ -963,5 +963,355 @@
         "icon": "",
         "image": "assets/images/colombia/cartagena.gif",
         "description": ""
+    },
+    {
+        "name": "Mexique - Korea",
+        "coords": [
+            10.416526,
+            -75.541970
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/colombia/cartagena-foot-mexique.jpeg",
+        "description": "Direction le match de foot!"
+    },
+    {
+        "name": "Début apprentissage du parapente!",
+        "coords": [
+            6.643434,
+            -73.095978
+        ],
+        "icon": "paragliding",
+        "image": "assets/images/colombia/sangil-parapente.jpeg",
+        "description": "Ca court entre les colines pour apprendre à gonfler puis voler en parapente! Tout ça sous les instructions de Sergio!"
+    },
+    {
+        "name": "Pente école Bucaramanga",
+        "coords": [
+            7.043094,
+            -73.091172
+        ],
+        "icon": "paragliding",
+        "image": "assets/images/colombia/bucaramanga-parapente.jpeg",
+        "description": "J'enchaîne les décollages/atterissage sur des vols de 3min au dessus de Bucaramanga. Toujours sous la supervisionde Sergio et del Chino."
+    },
+    {
+        "name": "Vol final dans le canyon du Chicamocha !!",
+        "coords": [
+            6.745938,
+            -72.985307
+        ],
+        "icon": "paragliding",
+        "image": "assets/images/colombia/chicamocha-parapente.gif",
+        "description": "Et hop-là on s'envole"
+    },
+    {
+        "name": "Certifié niveau 2 en parapente !!",
+        "coords": [
+            6.749879,
+            -73.005490
+        ],
+        "icon": "paragliding",
+        "image": "assets/images/colombia/chicamocha-diplome.jpeg",
+        "description": "Un grand merci à Sergio et el Chino ils ont été trop coools !!!"
+    },
+    {
+        "name": "Le canyon de Chicamocha",
+        "coords": [
+            6.813913,
+            -72.991032
+        ],
+        "icon": "landscape",
+        "image": "assets/images/colombia/chicamocha-canyon.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Rafting",
+        "coords": [
+            6.448379,
+            -73.307047
+        ],
+        "icon": "kayaking",
+        "image": "assets/images/colombia/sangil-rafting.gif",
+        "description": "On descend le Rio Suarez (niveau 5)! ça bouge"
+    },
+    {
+        "name": "Futsal à sangil!",
+        "coords": [
+            6.554945,
+            -73.153772
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/colombia/sangil-foot.jpeg",
+        "description": "Gringos vs locaux: c'est les gringos qui l'emportent!"
+    },
+    {
+        "name": "Colombie 🇨🇴 - Portugal 🇵🇹",
+        "coords": [
+            6.551386,
+            -73.134388
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/colombia/sangil-colombie-portugal.gif",
+        "description": "Bruit de fou, les colombiens transforment le centre commercial en chaudron!"
+    },
+    {
+        "name": "Arrivé à Villanueva en mtb 🚴",
+        "coords": [
+            6.664517,
+            -73.181553
+        ],
+        "icon": "directions_bike",
+        "image": "assets/images/colombia/villanueva-bike.jpeg",
+        "description": "On s'occupe entre le parapente!"
+    },
+    {
+        "name": "Bike bike",
+        "coords": [
+            6.648116,
+            -73.214095
+        ],
+        "icon": "directions_bike",
+        "image": "assets/images/colombia/barichara-bike.jpeg",
+        "description": "Direction Guane"
+    },
+    {
+        "name": "Rouule",
+        "coords": [
+            6.657297,
+            -73.231442
+        ],
+        "icon": "directions_bike",
+        "image": "assets/images/colombia/barichara-bike2.jpeg",
+        "description": "Petit tour sur le camino real"
+    },
+    {
+        "name": "Barichara",
+        "coords": [
+            6.635381,
+            -73.223409
+        ],
+        "icon": "house",
+        "image": "assets/images/colombia/barichara-maison.jpeg",
+        "description": "Elu plus beau village de Colombie!!"
+    },
+    {
+        "name": "",
+        "coords": [
+            6.418051,
+            -72.354066
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/guican-esperanza.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [
+            6.418740,
+            -72.352859
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/guican-esperanza2.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [
+            6.351937,
+            -72.416121
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/cocuy-arbre.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Autostop avec un cowboy",
+        "coords": [
+            6.379384,
+            -72.425674
+        ],
+        "icon": "thumb_up",
+        "image": "assets/images/colombia/cocuy-autostop-cowboy.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Meuh avec fourure: cute",
+        "coords": [
+            6.407053,
+            -72.433003
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/cocuy-cow.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Une ambiance saloon",
+        "coords": [
+            6.411739,
+            -72.443361
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/cocuy-cowboy.jpeg",
+        "description": "6h du mat'"
+    },
+    {
+        "name": "1/3 couleur de la colombie",
+        "coords": [
+            6.437498,
+            -72.389436
+        ],
+        "icon": "filter_vintage",
+        "image": "assets/images/colombia/cocuy-fleur1.jpeg",
+        "description": "Coincidence ??"
+    },
+    {
+        "name": "2/3 couleur de la colombie",
+        "coords": [
+            6.385829,
+            -72.360165
+        ],
+        "icon": "filter_vintage",
+        "image": "assets/images/colombia/cocuy-fleur2.jpeg",
+        "description": "Coincidence ??"
+    },
+    {
+        "name": "3/3 couleur de la colombie",
+        "coords": [
+            6.306209,
+            -72.392132
+        ],
+        "icon": "filter_vintage",
+        "image": "assets/images/colombia/cocuy-fleur3.jpeg",
+        "description": "Coincidence ??"
+    },
+    {
+        "name": "Granadilla",
+        "coords": [
+            6.298122,
+            -72.381808
+        ],
+        "icon": "nutrition",
+        "image": "assets/images/colombia/cocuy-fruit.jpeg",
+        "description": "Un nouveau fruit! Super bon"
+    },
+    {
+        "name": "Leteria: Transport en commun local",
+        "coords": [
+            6.404542,
+            -72.441727
+        ],
+        "icon": "thumb_up",
+        "image": "assets/images/colombia/cocuy-leteria.jpeg",
+        "description": "Ici la leteria passe 2 fois pas jour pour récupérer le lait que produisent les bergers chaque jours! Il reste un peu de place donc c'ets aussi un transport en commun pour les humains comme pour les moutons"
+    },
+    {
+        "name": "Check reseau dans la leteria",
+        "coords": [
+            6.385845,
+            -72.422036
+        ],
+        "icon": "thumb_up",
+        "image": "assets/images/colombia/cocuy-leteria2.jpeg",
+        "description": "check du score"
+    },
+    {
+        "name": "Selfie à la vallée de los Frailejones",
+        "coords": [
+            6.412470,
+            -72.332009
+        ],
+        "icon": "group",
+        "image": "assets/images/colombia/cocuy-selfie.jpeg",
+        "description": "Selfie avec Sally 🇬🇧."
+    },
+    {
+        "name": "Passager du transport en commun",
+        "coords": [
+            6.403227,
+            -72.441129
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/cocuy-sheep.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Full moumouth",
+        "coords": [
+            6.359844,
+            -72.421226
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/cocuy-sheep2.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Yannus entre les frailejones",
+        "coords": [
+            6.408036,
+            -72.320251
+        ],
+        "icon": "directions_walk",
+        "image": "assets/images/colombia/cocuy-yann.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Yeeee-haww",
+        "coords": [
+            6.418820,
+            -72.356841
+        ],
+        "icon": "domino_mask",
+        "image": "assets/images/colombia/cowboy.jpeg",
+        "description": "Je revets les habits de fermier du coin! Marco un berger très fier des nombreuses médailles de ses bêtes nous présente l'histoire de son Hacienda!"
+    },
+    {
+        "name": "Super cooker",
+        "coords": [
+            6.417329,
+            -72.353149
+        ],
+        "icon": "group",
+        "image": "assets/images/colombia/esperanza-duo.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Sheep Sheep",
+        "coords": [
+            6.420405,
+            -72.347870
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/esperanza-sheep.gif",
+        "description": ""
+    },
+    {
+        "name": "Super Cute",
+        "coords": [
+            6.454859,
+            -72.402925
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/guican-vache.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Old-cowboys et fervents supporters",
+        "coords": [
+            6.463212,
+            -72.411992
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/colombia/guican-foot-colombie-suisse.jpeg",
+        "description": "Le match est nul (colombie-suisse)"
+    },
+    {
+        "name": "Tatou",
+        "coords": [
+            6.378261,
+            -72.435077
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/cocuy-tatou.gif",
+        "description": "Petit tatou fait une boule de feuilles."
     }
 ]

@@ -530,6 +530,7 @@
         "description": "2j dans le port colombien ! Au programme: matchs de foot, trouver le maillot edition 100ans, se reposer",
         "transport": "bus",
         "transport_description": "17h de bus de nuit: on commence à devenir rodé. Pull anti-clim, coussin oreillé et liseuse chargée.",
+        "transport_image": "assets/images/colombia/bus-sangil.jpeg",
         "status": "done"
     },
     {
@@ -538,8 +539,34 @@
             6.557802,
             -73.135864
         ],
-        "image": "assets/images/columbia/san-gil.jpeg",
+        "image": "assets/images/colombia/sangil.gif",
         "description": "15j au plus près du canyon du Chicamocha. Au programme: parapente, randonnée, vélo",
+        "transport": "bus",
+        "transport_description": "Bus de nuit de 9h, tout frais pour démarrer le premier jour de rando dans le parc!",
+        "transport_image": "assets/images/colombia/bus-sangil-cocuy.jpeg",
+        "status": "done"
+    },
+    {
+        "name": "Parque Nacional Natural El Cocuy 🇨🇴",
+        "coords": [
+            6.408408,
+            -72.445605
+        ],
+        "image": "assets/images/colombia/cocuy.jpeg",
+        "description": "Accompagné de 3j à gambader dans le parc national! Premier jour une petite rando jusqu'au lac et ensuite rando sur 2 jour du village del Cocuy à Güicán",
+        "transport": "bus",
+        "transport_description": "25h de bus ☠️ MAIS très beau paysages. Prochaine fois il faudra penser au cable jack pour voir les films du bus!",
+        "transport_image": "assets/images/colombia/bus-guican-medellin.jpeg",
+        "status": "done"
+    },
+    {
+        "name": "Medellín 🇨🇴",
+        "coords": [
+            6.245422,
+            -75.567678
+        ],
+        "image": "assets/images/colombia/medellin.jpeg",
+        "description": "💃 4/5 jour dans cette ville immense: objectif voir France-Maroc et découvrir les environs",
         "transport": "bus",
         "transport_description": "",
         "status": "done"
