@@ -570,5 +570,29 @@
         "transport": "bus",
         "transport_description": "",
         "status": "done"
+    },
+    {
+        "name": "Salento 🇨🇴",
+        "coords": [
+            4.637883,
+            -75.570507
+        ],
+        "image": "assets/images/colombia/salento.jpeg",
+        "description": "",
+        "transport": "bus",
+        "transport_description": "",
+        "status": "done"
+    },
+    {
+        "name": "Calí 🇨🇴",
+        "coords": [
+            3.461701,
+            -76.530937
+        ],
+        "image": "assets/images/colombia/cali.jpeg",
+        "description": "",
+        "transport": "bus",
+        "transport_description": "",
+        "status": "done"
     }
 ]
