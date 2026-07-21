@@ -8,6 +8,7 @@
         "description": "C'est le grand départ ! On dit au revoir à la famille et on est parti pour un peu de train.",
         "transport": "train",
         "transport_description": "Topo, Euskotren, 40min",
+        "distance": 21,
         "status": "done"
     },
     {
@@ -19,6 +20,7 @@
         "description": "Nuit au <a href=\"https://www.colocolo.com\">Colo Colo Hostel</a>, le concept de micro chambre superposée est original et confortable ! A deux pas de la gare c'est parfait pour le départ le lendemain à 4h55!",
         "transport": "train",
         "transport_description": "Renfe, 5h",
+        "distance": 454,
         "status": "done"
     },
     {
@@ -30,6 +32,7 @@
         "description": "",
         "transport": "train",
         "transport_description": "Renfe, 2h50",
+        "distance": 530,
         "status": "done"
     },
     {
@@ -41,6 +44,7 @@
         "description": "",
         "transport": "train",
         "transport_description": "Renfe, 1h50",
+        "distance": 135,
         "status": "done"
     },
     {
@@ -53,6 +57,7 @@
         "transport": "ferry",
         "transport_image": "assets/images/transat-aller/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 26h. Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable séjour linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot. Et on prie pour qu'il y ait un bon fit avec le capitaine!",
+        "distance": 1080,
         "status": "done"
     },
     {
@@ -65,6 +70,7 @@
         "transport": "ferry",
         "transport_image": "assets/images/transat-aller/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 2h. Wah ça commence à être long",
+        "distance": 63,
         "status": "done"
     },
     {
@@ -77,6 +83,7 @@
         "transport": "ferry",
         "transport_image": "assets/images/transat-aller/armas.jpeg",
         "transport_description": "Armas, Ciudad de Valencia: 5h. Aller bientôt arrivé. Premiers échanges whatsapp avec Fabrice, le capitaine, ça a l'air de matcher 😍.",
+        "distance": 176,
         "status": "done"
     },
     {
@@ -91,6 +98,7 @@
         "transport_image": "assets/images/transat-aller/boat-canaries.jpeg",
         "transport_description": "Oceanis 37, 5j de navigation comme prévu ! Premières navigation de nuit (quarts) pour le moussaillon !! La surveillance de Fabrice reste de la partie, il nous laisse prendre nos quarts tout en veillant au grain pour les premières nuits. L'ambiance est bonne, ça chante, ça forme les mousses sur les petits tips cuisine, le niveau en espagnol se décrasse, les pages des livres tournes et les jours passent !",
         "transport_subpage_path": "assets/subpages/transat-1",
+        "distance": 1570,
         "status": "done"
     },
     {
@@ -105,6 +113,7 @@
         "transport_description": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable, les quarts de nuits avec les étoiles, regarder l'AIS pour ne pas foncer sur un cargot, les petites salades de riz, mais très content d'arriver!<br><br>note: Une coque de téléphone étanche avec une visse en moins n'est donc pas une coque étanche; le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent..",
         "transport_image": "assets/images/transat-aller/transat.jpeg",
         "transport_subpage_path": "assets/subpages/transat-2",
+        "distance": 3890,
         "status": "done"
     },
     {
@@ -117,6 +126,7 @@
         "transport": "avion",
         "image": "assets/images/transat-aller/guadeloupe.jpeg",
         "transport_description": "Coup de fil avec, Adriana: Volontariat à Ikarus validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le Yucatán !!",
+        "distance": 2700,
         "status": "done"
     },
     {
@@ -131,6 +141,7 @@
         "status": "done",
         "transport_image": "assets/images/mexico/collectivo-ikarus.jpeg",
         "transport_description": "Aller Hop, on prend le collectivo direction Tulum, c'est 3h et ça passe super vite!",
+        "distance": 158,
         "subpage_path": "assets/subpages/ikarus-isla-blanca"
     },
     {
@@ -141,6 +152,7 @@
         ],
         "description": "Difficile à dire, je n'ai pas vraiment aimé la ville et ses alentours, ça ressemble vraiment à un parc à touristes où tout est payant (accès au parc, à la plage, à l'eau pour Akumal). Clara me rejoint dans l'hostel Mr Pakal 2j pour aller faire du snorkeling avec les raies et tortues. (ça vraiment cool)",
         "transport": "bus",
+        "distance": 253,
         "status": "done"
     },
     {
@@ -153,6 +165,7 @@
         "transport": "bus",
         "transport_image": "assets/images/guatemala/marlin-espadas-1.jpeg",
         "transport_description": "4h de bus, première frontière de passée. Bonus: une amende de 1000 pesos (50€) pour avoir dépasser de 10j la durée écrite par l'immigration.",
+        "distance": 157,
         "status": "done"
     },
     {
@@ -165,6 +178,7 @@
         "transport": "bus",
         "transport_image": "assets/images/guatemala/marlin-espadas-2.jpeg",
         "transport_description": "4h de collectivo supplémentaires direction le Guatemala! Rencontre avec Betty (🇩🇪), Gia (🇺🇸), Mathys (🇫🇷) et Jordan (🇨🇦). Super ambiance sous fond de couché de soleil avec Max Verstappen en conducteur, on papotte à propos de nos plans pour la suite à Flores. Demain ça sera donc rendez-vous à la Rope Swing en bateau pour chiller l'après-midi.",
+        "distance": 219,
         "status": "done"
     },
     {
@@ -178,6 +192,7 @@
         "transport": "bus",
         "transport_description": "8h de Bus! Super ambiance avec l'équipe faite à Flores: Betty (🇩🇪) Ruben (🇬🇧) & Joe (🇬🇧).",
         "transport_image": "assets/images/guatemala/bus-lanquin.jpeg",
+        "distance": 308,
         "status": "done"
     },
     {
@@ -191,6 +206,7 @@
         "transport": "bus",
         "transport_image": "assets/images/guatemala/bus-xela.jpeg",
         "transport_description": "10h de Bus avec Tori (🇳🇱) et Jori (🇳🇱)! Un groupe d'anglais a visiblement gagné au bière-pong la veille, casse la tête à parler super fort et rend le trajet interminable.. 🙃",
+        "distance": 276,
         "status": "done"
     },
     {
@@ -204,6 +220,7 @@
         "transport": "bus",
         "transport_image": "assets/images/guatemala/chicken-bus.jpeg",
         "transport_description": "2h30: combo chicken bus et autostop pour arriver à Chichicastenango",
+        "distance": 92,
         "status": "done"
     },
     {
@@ -215,6 +232,7 @@
         "image": "assets/images/guatemala/chichicastenango.jpeg",
         "description": "1 jour à Chichicastenango pour chiller puis faire le marcher le lendemain matin. Ville super sympa connue pour son marché! Attention à partir de 10h une arrivée massive de gringos pour visiter.",
         "transport": "bus",
+        "distance": 105,
         "status": "done"
     },
     {
@@ -227,6 +245,7 @@
         "description": "On part à l'assaut du Fuego. Arrivé le soir, la ville est très belle mais beaucoup de commerces américains, de cafés européens. Dans les rues c'est le ballet des patagonias, lunette de vitesse et autre attirail de trekkeur! Je comptais rester plus de temps dans la ville mais je ne resterai qu'une nuit le temps de faire le bivouac du Fuego!",
         "transport": "autostop",
         "transport_image": "assets/images/salvador/autostop-3.gif",
+        "distance": 104,
         "status": "done"
     },
     {
@@ -238,6 +257,7 @@
         "description": "On part à l'assaut des vagues",
         "image": "assets/images/guatemala/paredon.jpeg",
         "transport": "bus",
+        "distance": 309,
         "status": "done"
     },
     {
@@ -249,6 +269,7 @@
         "description": "Aussi appelée surfcity: paradis du grigo en vacaciones",
         "image": "assets/images/salvador/tunco.jpeg",
         "transport": "bus",
+        "distance": 85,
         "status": "done"
     },
     {
@@ -261,6 +282,7 @@
         "image": "assets/images/nicaragua/lago-coatepeque.jpeg",
         "transport": "bus",
         "transport_image": "assets/images/salvador/bus-sonsonate.jpeg",
+        "distance": 56,
         "status": "done"
     },
     {
@@ -271,6 +293,7 @@
         ],
         "description": "",
         "transport": "moto",
+        "distance": 9,
         "status": "done"
     },
     {
@@ -281,6 +304,7 @@
         ],
         "description": "",
         "transport": "moto",
+        "distance": 10,
         "status": "done"
     },
     {
@@ -291,6 +315,7 @@
         ],
         "description": "",
         "transport": "moto",
+        "distance": 3,
         "status": "done"
     },
     {
@@ -302,6 +327,7 @@
         "description": "",
         "transport": "moto",
         "transport_image": "assets/images/salvador/ruta-flores-1.gif",
+        "distance": 11,
         "status": "done"
     },
     {
@@ -313,6 +339,7 @@
         "description": "",
         "transport": "moto",
         "transport_image": "assets/images/salvador/ruta-flores-2.gif",
+        "distance": 8,
         "status": "done"
     },
     {
@@ -323,6 +350,7 @@
         ],
         "description": "",
         "transport": "moto",
+        "distance": 13,
         "status": "done"
     },
     {
@@ -333,6 +361,7 @@
         ],
         "description": "",
         "transport": "bus",
+        "distance": 100,
         "status": "done"
     },
     {
@@ -343,6 +372,7 @@
         ],
         "description": "",
         "transport": "bus",
+        "distance": 182,
         "status": "done"
     },
     {
@@ -355,6 +385,7 @@
         "transport": "ferry",
         "transport_image": "assets/images/salvador/launcha.jpeg",
         "transport_description": "Un petit air de Las Vegas Parano",
+        "distance": 52,
         "status": "done"
     },
     {
@@ -366,6 +397,7 @@
         "description": "",
         "transport": "autostop",
         "transport_image": "assets/images/nicaragua/autostop-2.gif",
+        "distance": 47,
         "status": "done"
     },
     {
@@ -378,6 +410,7 @@
         "image": "assets/images/nicaragua/jiqi-sunset.jpeg",
         "transport": "autostop",
         "transport_image": "assets/images/nicaragua/autostop-1.jpeg",
+        "distance": 82,
         "status": "done"
     },
     {
@@ -389,6 +422,7 @@
         "image": "assets/images/nicaragua/leon-stitch.gif",
         "transport": "autostop",
         "transport_image": "assets/images/nicaragua/autostop-1.gif",
+        "distance": 21,
         "status": "done"
     },
     {
@@ -400,6 +434,7 @@
         "image": "assets/images/nicaragua/poneloya-colibri.gif",
         "description": "",
         "transport": "bus",
+        "distance": 117,
         "status": "done"
     },
     {
@@ -409,6 +444,7 @@
             -86.245445
         ],
         "transport": "bus",
+        "distance": 103,
         "status": "done"
     },
     {
@@ -419,6 +455,7 @@
         ],
         "transport": "ferry",
         "transport_image": "assets/images/nicaragua/lancha-ometepe.jpeg",
+        "distance": 13,
         "status": "done"
     },
     {
@@ -429,6 +466,7 @@
         ],
         "description": "",
         "transport": "bus",
+        "distance": 50,
         "status": "done"
     },
     {
@@ -442,6 +480,7 @@
         "transport": "bus",
         "transport_description": "8h de bus x 4$ de taxe de douane ! Le début de la saison des pluies !! Traversée de gigantesques forêts via la Panaméricaine.",
         "status": "done",
+        "distance": 375,
         "subpage_path": "assets/subpages/popoyo-casita"
     },
     {
@@ -455,6 +494,7 @@
         "transport": "bus",
         "transport_image": "assets/images/costarica/bus-pv.jpeg",
         "transport_description": "5h de bus +1h de route coupée = fatigue",
+        "distance": 217,
         "status": "done"
     },
     {
@@ -468,6 +508,7 @@
         "transport": "bus",
         "transport_description": "bus x passage de la frontière à pieds x bus x petite barque",
         "transport_image": "assets/images/panama/bus.jpeg",
+        "distance": 102,
         "status": "done"
     },
     {
@@ -480,6 +521,7 @@
         "description": "5j dans l'archipelle",
         "transport": "bus",
         "transport_description": "bus de nuit: très technique, arrivée à panama à 3h30 du matin. Je finis l'appel de la forêt en attendant l'ouverture du métro.",
+        "distance": 608,
         "status": "done"
     },
     {
@@ -492,6 +534,7 @@
         "description": "2 nuits en attendant le départ en bateau !! J'ai vraiment pas trop aimé la ville.. tout le monde claxonne vraiment tout le temps, que des gros suv pas facile de marcher.. Bonus visite du canal un peu décevante on voit pas grand chose ! aller la suite !!",
         "transport": "bus",
         "transport_description": "2h de petit shuttle à 10 bien serrés sous la pluie ça s'annonce sportif!!",
+        "distance": 112,
         "status": "done"
     },
     {
@@ -505,6 +548,7 @@
         "transport": "sailing",
         "transport_description": "Petite croisière sur 6j. La petite zone de terre entre le Panama et la colombie (le détroit de Darien) est connu pour être une zone sans routes, seulement des forêts fréquentées par les narcotrafficants. Autant dire, assez infranchissage. C'est donc à bord d'un voilier que nous faisons la traversée.",
         "transport_image": "assets/images/panama/boat-sanblas.jpeg",
+        "distance": 92,
         "status": "done"
     },
     {
@@ -518,6 +562,7 @@
         "transport": "sailing",
         "transport_description": "2j de navigation, tranquillou on arrive à la grande ville!",
         "transport_image": "assets/images/panama/crew.jpeg",
+        "distance": 390,
         "status": "done"
     },
     {
@@ -531,6 +576,7 @@
         "transport": "bus",
         "transport_description": "17h de bus de nuit: on commence à devenir rodé. Pull anti-clim, coussin oreillé et liseuse chargée.",
         "transport_image": "assets/images/colombia/bus-sangil.jpeg",
+        "distance": 720,
         "status": "done"
     },
     {
@@ -544,6 +590,7 @@
         "transport": "bus",
         "transport_description": "Bus de nuit de 9h, tout frais pour démarrer le premier jour de rando dans le parc!",
         "transport_image": "assets/images/colombia/bus-sangil-cocuy.jpeg",
+        "distance": 208,
         "status": "done"
     },
     {
@@ -557,6 +604,7 @@
         "transport": "bus",
         "transport_description": "25h de bus ☠️ MAIS très beau paysages. Prochaine fois il faudra penser au cable jack pour voir les films du bus!",
         "transport_image": "assets/images/colombia/bus-guican-medellin.jpeg",
+        "distance": 790,
         "status": "done"
     },
     {
@@ -569,6 +617,7 @@
         "description": "💃 4/5 jour dans cette ville immense: objectif voir France-Maroc et découvrir les environs",
         "transport": "bus",
         "transport_description": "",
+        "distance": 337,
         "status": "done"
     },
     {
@@ -581,6 +630,7 @@
         "description": "",
         "transport": "bus",
         "transport_description": "",
+        "distance": 205,
         "status": "done"
     },
     {
@@ -590,6 +640,19 @@
             -76.530937
         ],
         "image": "assets/images/colombia/cali.jpeg",
+        "description": "",
+        "transport": "bus",
+        "transport_description": "",
+        "distance": 740,
+        "status": "done"
+    },
+    {
+        "name": "Quito 🇪🇨",
+        "coords": [
+            -0.212357,
+            -78.484088
+        ],
+        "image": "assets/images/colombia/quito.jpeg",
         "description": "",
         "transport": "bus",
         "transport_description": "",

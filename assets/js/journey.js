@@ -19,6 +19,19 @@ export class JourneyManager {
             markers: L.layerGroup().addTo(this.map),
             icons: L.layerGroup().addTo(this.map)
         };
+
+        // Create custom Leaflet control at top right
+        this.statsControl = L.control({ position: 'topright' });
+
+        this.statsControl.onAdd = () => {
+            const div = L.DomUtil.create('div', 'journey-stats-card');
+            // Prevent map dragging/zooming when interacting with the card
+            L.DomEvent.disableClickPropagation(div);
+            L.DomEvent.disableScrollPropagation(div);
+            return div;
+        };
+
+        this.statsControl.addTo(this.map);
     }
 
     async load(url) {
@@ -35,6 +48,7 @@ export class JourneyManager {
         this._clearLayers();
         this._drawPaths();
         this._drawStops();
+        this._updateStatsCard();
     }
 
     _clearLayers() {
@@ -224,6 +238,75 @@ export class JourneyManager {
             '',
             stop.transport_subpage_path
         );
+    }
+
+    getTotalDistanceByTransport() {
+        return this.journeyData.reduce((acc, stop) => {
+            if (!stop.transport || typeof stop.distance !== 'number') {
+                return acc;
+            }
+            const mode = stop.transport;
+            acc[mode] = (acc[mode] || 0) + stop.distance;
+
+            return acc;
+        }, {});
+    }
+
+    _updateStatsCard() {
+        const statsContainer = this.statsControl.getContainer();
+        const distances = this.getTotalDistanceByTransport();
+
+        if (Object.keys(distances).length === 0) {
+            statsContainer.style.display = 'none';
+            return;
+        }
+
+        statsContainer.style.display = 'block';
+
+        // 1. Extract unique flag emojis
+        const flagRegex = /\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF]/g;
+        const flagsSet = new Set();
+
+        this.journeyData.forEach(stop => {
+            if (stop.name) {
+                const matches = stop.name.match(flagRegex);
+                if (matches) {
+                    matches.forEach(flag => flagsSet.add(flag));
+                }
+            }
+        });
+
+        const flagsArray = Array.from(flagsSet);
+        const flagsHTML = flagsArray.length > 0
+            ? `<div class="stats-flags">${flagsArray.join('')}</div>`
+            : '';
+
+        // 2. Sort transport modes descending
+        const sortedDistances = Object.entries(distances).sort((a, b) => b[1] - a[1]);
+        const totalDistance = sortedDistances.reduce((sum, [_, dist]) => sum + dist, 0);
+
+        // 3. Build HTML rows
+        let rowsHTML = '';
+        for (const [mode, dist] of sortedDistances) {
+            const iconName = TRANSPORT_ICONS[mode] || 'place';
+            rowsHTML += `
+            <div class="stats-row">
+                <span class="material-icons stats-icon">${iconName}</span>
+                <span class="stats-mode">${mode}</span>
+                <span class="stats-dist">${dist.toLocaleString()} km</span>
+            </div>
+        `;
+        }
+
+        // 4. Render HTML with flags placed at the end
+        statsContainer.innerHTML = `
+        <div class="stats-title">Distance Totale</div>
+        <div class="stats-total">${totalDistance.toLocaleString()} km</div>
+        <div class="stats-list">
+            ${rowsHTML}
+        </div>
+        ${flagsHTML ? `<hr class="stats-divider" />${flagsHTML}` : ''}
+    `;
     }
 };
 
