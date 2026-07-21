@@ -4,7 +4,7 @@ const TRANSPORT_ICONS = {
     train: "train",
     car: "directions_car",
     ferry: "directions_boat",
-    sailing: "sailing",
+    voilier: "sailing",
     avion: "flight",
     autostop: "thumb_up",
     moto: "motorcycle"
