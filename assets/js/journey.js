@@ -56,31 +56,14 @@ export class JourneyManager {
     }
 
     _drawPaths() {
-        const donePoints = this.journeyData.filter(p => p.status === "done");
-        const nextPoints = this.journeyData.filter(p => p.status === "next");
-
         const styles = {
             done: { color: "white", opacity: 0.8, weight: 2, dashArray: "6,6" },
-            next: { color: "white", opacity: 0.8, weight: 2, dashArray: "1,12" }
         };
 
-        // 1. TRACÉ DONE (Strictement les points terminés)
-        const doneCoords = donePoints.map(p => p.coords);
+        // 1. TRACÉ DONE
+        const doneCoords = this.journeyData.map(p => p.coords);
         if (doneCoords.length >= 2) {
             this._drawGeodesicTriple(doneCoords, styles.done);
-        }
-
-        // 2. TRACÉ NEXT + CONNEXION
-        // On prend le dernier point 'done' s'il existe, et on lui ajoute tous les points 'next'
-        let nextPathCoords = nextPoints.map(p => p.coords);
-
-        if (donePoints.length > 0) {
-            const lastDoneCoord = donePoints[donePoints.length - 1].coords;
-            nextPathCoords.unshift(lastDoneCoord); // On ajoute le point de départ au début du tableau
-        }
-
-        if (nextPathCoords.length >= 2) {
-            this._drawGeodesicTriple(nextPathCoords, styles.next);
         }
     }
 

@@ -1313,5 +1313,132 @@
         "icon": "pets",
         "image": "assets/images/colombia/cocuy-tatou.gif",
         "description": "Petit tatou fait une boule de feuilles."
+    },
+    {
+        "name": "Medellin Party",
+        "coords": [
+            6.208822,
+            -75.567107
+        ],
+        "icon": "celebration",
+        "image": "assets/images/colombia/medellin-party.gif",
+        "description": ""
+    },
+    {
+        "name": "Photo ratée et effet de style",
+        "coords": [
+            6.209040,
+            -75.572070
+        ],
+        "icon": "group",
+        "image": "assets/images/colombia/medellin-chill.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Communa 13 foot",
+        "coords": [
+            6.248140,
+            -75.622307
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/colombia/medellin-foot.jpeg",
+        "description": "chill"
+    },
+    {
+        "name": "Guatape",
+        "coords": [
+            6.232689,
+            -75.158587
+        ],
+        "icon": "landscape",
+        "image": "assets/images/colombia/guatape.gif",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/salento-cocora.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Cancha De Tejo Los Amigos",
+        "coords": [
+            4.639551,
+            -75.569563
+        ],
+        "icon": "",
+        "image": "assets/images/colombia/salento-tejo.jpeg",
+        "description": "Jeu spécialement colombien qui ressemble au palet breton mais le jeu utilise des explosifs 🧨"
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-cooking.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-copains.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-dogs.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-primavera.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-selfie.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/colombia/nevados-tente.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-museo.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-stickers.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-tag.jpeg",
+        "description": ""
+    },
+    {
+        "name": "",
+        "coords": [],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-zero.jpeg",
+        "description": ""
     }
 ]
