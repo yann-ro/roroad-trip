@@ -628,7 +628,20 @@
             -78.024512
         ],
         "image": "assets/images/ecuador/punanti.jpeg",
-        "description": "Go chiller avec les lamas pour préparer le Cayamabe (5.790m).",
+        "description": "4 jours à chill avec les lamas, initiation à l'escalade sur rocher, petites randos.",
+        "transport": "bus",
+        "transport_description": "Là c'est la galère: je perds ma ptite gourde dans un bus. En voulant aller vérifier au terminal s'il l'on trouvé, j'oublie mes sous et ma cb dans un autre bus.. Y'a des jours sans 😭😭",
+        "transport_image": "assets/images/ecuador/punanti-bus.jpeg",
+        "distance": 166
+    },
+    {
+        "name": "Cuscungo Cotopaxi 🇪🇨",
+        "coords": [
+            -0.705922,
+            -78.598843
+        ],
+        "image": "assets/images/ecuador/cuscungo.jpeg",
+        "description": "Petit hostel parfaitement situé proche du Cotopaxi. Au programme: test du bikepark et tentative de l'Iliniza Norte (5 126m)!",
         "transport": "bus",
         "transport_description": "",
         "distance": 0

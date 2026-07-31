@@ -1355,9 +1355,12 @@
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Cocora Valley",
+        "coords": [
+            4.646813,
+            -75.485624
+        ],
+        "icon": "group",
         "image": "assets/images/colombia/salento-cocora.jpeg",
         "description": ""
     },
@@ -1367,78 +1370,198 @@
             4.639551,
             -75.569563
         ],
-        "icon": "",
-        "image": "assets/images/colombia/salento-tejo.jpeg",
+        "icon": "group",
+        "image": "assets/images/colombia/salento-tejo.gif",
         "description": "Jeu spécialement colombien qui ressemble au palet breton mais le jeu utilise des explosifs 🧨"
     },
     {
         "name": "",
-        "coords": [],
-        "icon": "",
+        "coords": [
+            4.672285,
+            -75.367777
+        ],
+        "icon": "group",
         "image": "assets/images/colombia/nevados-cooking.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Les randonneurs",
+        "coords": [
+            4.681616,
+            -75.394078
+        ],
+        "icon": "hiking",
         "image": "assets/images/colombia/nevados-copains.jpeg",
+        "description": "Randonnée x bivouac au coeur du parc national de los Nevados"
+    },
+    {
+        "name": "Les dogos",
+        "coords": [
+            4.689096,
+            -75.388503
+        ],
+        "icon": "pets",
+        "image": "assets/images/colombia/nevados-dogs.gif",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
-        "image": "assets/images/colombia/nevados-dogs.jpeg",
-        "description": ""
-    },
-    {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Refuge aux petits oignons",
+        "coords": [
+            4.673068,
+            -75.385502
+        ],
+        "icon": "house",
         "image": "assets/images/colombia/nevados-primavera.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "La redescente avec Julien",
+        "coords": [
+            4.682255,
+            -75.422919
+        ],
+        "icon": "group",
         "image": "assets/images/colombia/nevados-selfie.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Camping",
+        "coords": [
+            4.669649,
+            -75.400296
+        ],
+        "icon": "house",
         "image": "assets/images/colombia/nevados-tente.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Petites peintures",
+        "coords": [
+            -0.221205,
+            -78.514999
+        ],
+        "icon": "palette",
         "image": "assets/images/ecuador/quito-museo.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Le plus beau stickers",
+        "coords": [
+            -0.219630,
+            -78.504283
+        ],
+        "icon": "palette",
         "image": "assets/images/ecuador/quito-stickers.jpeg",
-        "description": ""
+        "description": "La gourde sera perdue dans un bus par la suite 😭"
     },
     {
-        "name": "",
-        "coords": [],
-        "icon": "",
+        "name": "Bike bike",
+        "coords": [
+            -0.208687,
+            -78.503824
+        ],
+        "icon": "palette",
         "image": "assets/images/ecuador/quito-tag.jpeg",
         "description": ""
     },
     {
-        "name": "",
-        "coords": [],
+        "name": "Mitad del Mundo",
+        "coords": [
+            -0.002285,
+            -78.455869
+        ],
         "icon": "",
         "image": "assets/images/ecuador/quito-zero.jpeg",
         "description": ""
+    },
+    {
+        "name": "Ecuador",
+        "coords": [
+            0.790408,
+            -77.902624
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/ecuador.jpeg",
+        "description": "let's go!"
+    },
+    {
+        "name": "Les lamas à punanti",
+        "coords": [
+            0.109694,
+            -78.022716
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/punanti-lama.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Volcán Pichincha",
+        "coords": [
+            -0.170853,
+            -78.612630
+        ],
+        "icon": "volcano",
+        "image": "assets/images/ecuador/quito-guagua-pichincha.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Ruccu Pichincha",
+        "coords": [
+            -0.163127,
+            -78.566827
+        ],
+        "icon": "volcano",
+        "image": "assets/images/ecuador/quito-ruccu-pichincha-summit.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Integral de las Pichinchas",
+        "coords": [
+            -0.181333,
+            -78.540610
+        ],
+        "icon": "volcano",
+        "image": "assets/images/ecuador/quito-ruccu-pichincha.jpeg",
+        "description": "Marche depuis l'hostel Secret Garden x TéléferiQo x Intégral de los Pichinchas: 36km 3000d+, sacrée journée dans les pattes."
+    },
+    {
+        "name": "Imbabura (4 609m)",
+        "coords": [
+            0.275368,
+            -78.137424
+        ],
+        "icon": "hiking",
+        "image": "assets/images/ecuador/esperanza-imbabura.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Imbabura dans les nuages",
+        "coords": [
+            0.260447,
+            -78.180790
+        ],
+        "icon": "hiking",
+        "image": "assets/images/ecuador/esperanza-imbabura-summit.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Angureal (4 800m)",
+        "coords": [
+            0.014188,
+            -78.029933
+        ],
+        "icon": "volcano",
+        "image": "assets/images/ecuador/punanti-angureal.jpeg",
+        "description": "Rando jusqu'à l'Angureal avec les dogos, vue sur le Cayambe (5 790m)"
+    },
+    {
+        "name": "RUMI UKU",
+        "coords": [
+            0.122492,
+            -78.025013
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/punanti-escalade.jpeg",
+        "description": "Mur d'escalade: initiation à l'escalade sur rocher, trop cool mais chaussures beaaaaaucoup trop petites"
     }
 ]
