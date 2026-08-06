@@ -1,0 +1,37 @@
+[
+    {
+        "kind": "trek",
+        "color": "#ff7800",
+        "icon": "",
+        "gpx": [
+            "assets/gpx/trek/santa-maria.gpx",
+            "assets/gpx/trek/mirador-santa-maria.gpx",
+            "assets/gpx/trek/fuego.gpx",
+            "assets/gpx/trek/telica.gpx",
+            "assets/gpx/trek/cocuy.gpx",
+            "assets/gpx/trek/nevados.gpx",
+            "assets/gpx/trek/integral-pichincha.gpx",
+            "assets/gpx/trek/imbabura.gpx",
+            "assets/gpx/trek/angureal.gpx",
+            "assets/gpx/trek/iliniza-norte.gpx"
+        ]
+    },
+    {
+        "kind": "paragliding",
+        "color": "#f029df",
+        "icon": "",
+        "gpx": [
+            "assets/gpx/para/bucaramanga.gpx",
+            "assets/gpx/para/chicamocha.gpx"
+        ]
+    },
+    {
+        "kind": "kitesurf",
+        "color": "",
+        "icon": "",
+        "gpx": [
+            "assets/gpx/kite/isla-blanca.gpx",
+            "assets/gpx/kite/ikarus.gpx"
+        ]
+    }
+]

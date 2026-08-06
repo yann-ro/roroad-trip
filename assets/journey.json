@@ -644,6 +644,74 @@
         "description": "Petit hostel parfaitement situé proche du Cotopaxi. Au programme: test du bikepark et tentative de l'Iliniza Norte (5 126m)!",
         "transport": "bus",
         "transport_description": "",
+        "transport_image": "assets/images/ecuador/bus-banos.jpeg",
+        "distance": 113
+    },
+    {
+        "name": "Baños 🇪🇨",
+        "coords": [
+            -1.395703,
+            -78.422413
+        ],
+        "image": "assets/images/ecuador/banos.gif",
+        "description": "Comme le nom l'indique: le paradis de la cascade",
+        "transport": "bus",
+        "distance": 498
+    },
+    {
+        "name": "Montañita 🇪🇨",
+        "coords": [
+            -1.825310,
+            -80.754362
+        ],
+        "image": "assets/images/ecuador/montanita.jpeg",
+        "description": "",
+        "transport": "bus",
+        "distance": 45
+    },
+    {
+        "name": "Puerto Lopez 🇪🇨",
+        "coords": [
+            -1.551872,
+            -80.811567
+        ],
+        "image": "assets/images/ecuador/puerto-lopez.jpeg",
+        "description": "",
+        "transport": "bus",
+        "distance": 412
+    },
+    {
+        "name": "Cuenca 🇪🇨",
+        "coords": [
+            -2.911054,
+            -79.005989
+        ],
+        "image": "assets/images/ecuador/cuenca.jpeg",
+        "description": "",
+        "transport": "bus",
+        "distance": 291
+    },
+    {
+        "name": "Puerto Morana 🇪🇨",
+        "coords": [
+            -2.884230,
+            -77.687677
+        ],
+        "image": "assets/images/ecuador/puerto-morona.jpeg",
+        "description": "2 semaines au coeur de la forêt amazonienne à La loma",
+        "transport": "bus",
+        "distance": 650
+    },
+    {
+        "name": "Máncora 🇵🇪",
+        "coords": [
+            -4.096212,
+            -81.049434
+        ],
+        "image": "assets/images/peru/mancora.jpeg",
+        "description": "2 mois de demi dans le petit paradis de Wild Kite Peru",
+        "transport": "bus",
+        "subpage_path": "assets/subpages/macora",
         "distance": 0
     }
 ]

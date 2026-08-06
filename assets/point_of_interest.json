@@ -1490,7 +1490,7 @@
             0.109694,
             -78.022716
         ],
-        "icon": "",
+        "icon": "pets",
         "image": "assets/images/ecuador/punanti-lama.jpeg",
         "description": ""
     },
@@ -1547,8 +1547,8 @@
     {
         "name": "Angureal (4 800m)",
         "coords": [
-            0.014188,
-            -78.029933
+            0.041738,
+            -78.010338
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/punanti-angureal.jpeg",
@@ -1563,5 +1563,155 @@
         "icon": "",
         "image": "assets/images/ecuador/punanti-escalade.jpeg",
         "description": "Mur d'escalade: initiation à l'escalade sur rocher, trop cool mais chaussures beaaaaaucoup trop petites"
+    },
+    {
+        "name": "Stylé",
+        "coords": [
+            -0.219221,
+            -78.504239
+        ],
+        "icon": "palette",
+        "image": "assets/images/ecuador/quito-tag2.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Dimanche à Quito",
+        "coords": [
+            -0.209480,
+            -78.500502
+        ],
+        "icon": "directions_bike",
+        "image": "assets/images/ecuador/quito-bike.gif",
+        "description": "Les dimanches 60km de rues principales sont bloquées pour laisser les vélo circuler: un régal!!"
+    },
+    {
+        "name": "El Cap Quito Escalade",
+        "coords": [
+            -0.178183,
+            -78.488737
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-block.jpeg",
+        "description": "On attend que la cb soit livrée pendant une ptite semaine donc go s'entrainer au bloc !! (encore débutant mais le 6b+ est passé)"
+    },
+    {
+        "name": "Dimanche à Quito 🪁",
+        "coords": [
+            -0.180194,
+            -78.483598
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/quito-cerfvolant.gif",
+        "description": "Tous le monde est dehors, foot, volley, cerf volant, basket: assez cool à regarder!"
+    },
+    {
+        "name": "Bikepark Cotopaxi",
+        "coords": [
+            -0.690654,
+            -78.580081
+        ],
+        "icon": "directions_bike",
+        "image": "assets/images/ecuador/cotopaxi-bike.jpeg",
+        "description": "Bikepark trop cool mais loc de vélo un peu cher. Du coup pas pu rester trop.."
+    },
+    {
+        "name": "Iliniza Norte (5 126m)",
+        "coords": [
+            -0.649854,
+            -78.719788
+        ],
+        "icon": "volcano",
+        "image": "assets/images/ecuador/iliniza-norte.jpeg",
+        "description": "Première fois à 5000m d'altitude! Gants oublié ça caille de ouf."
+    },
+    {
+        "name": "Dos Dogos en la montaña",
+        "coords": [
+            -0.655579,
+            -78.712583
+        ],
+        "icon": "pets",
+        "image": "assets/images/ecuador/iliniza-dogo.gif",
+        "description": "Deux dogos sortis d'une ferme nous ont suivi tout le long du chemin."
+    },
+    {
+        "name": "Agoyan Cascada",
+        "coords": [
+            -1.402628,
+            -78.368999
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/cascade-1.gif",
+        "description": ""
+    },
+    {
+        "name": "Cascada Manto de la Novia",
+        "coords": [
+            -1.404752,
+            -78.335301
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/cascade-2.gif",
+        "description": ""
+    },
+    {
+        "name": "Cascada Machay",
+        "coords": [
+            -1.401014,
+            -78.282070
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/cascade-3.gif",
+        "description": ""
+    },
+    {
+        "name": "Petite crêpe au soleil",
+        "coords": [
+            -1.830885,
+            -80.750858
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/montanita-restaurant.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Baleines à Bosse 🐋",
+        "coords": [
+            -1.568885,
+            -80.908401
+        ],
+        "icon": "pets",
+        "image": "assets/images/ecuador/puerto-lopez-baleine.gif",
+        "description": "Moment magique, les membres de la petite chaloupe son restés sans voix 😍s"
+    },
+    {
+        "name": "Fous aux pieds bleus",
+        "coords": [
+            -1.290538,
+            -81.053943
+        ],
+        "icon": "pets",
+        "image": "assets/images/ecuador/puerto-lopez-fou.jpeg",
+        "description": "Belles palmes"
+    },
+    {
+        "name": "Fregate des Galapagos",
+        "coords": [
+            -1.255595,
+            -81.079061
+        ],
+        "icon": "pets",
+        "image": "assets/images/ecuador/puerto-lopez-fregate.jpeg",
+        "description": "On bombe le torse pour la photo"
+    },
+    {
+        "name": "Sunset",
+        "coords": [
+            -1.551178,
+            -80.812110
+        ],
+        "icon": "",
+        "image": "assets/images/ecuador/puerto-lopez-sunset.gif",
+        "description": "Parfaitement centré sur la baie: top"
     }
 ]
