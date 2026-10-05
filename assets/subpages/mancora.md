@@ -31,6 +31,13 @@ layout: markdown
   </iframe>
 </div>
 
+Personnages principaux:
+* <span class="profile-trigger">Eline<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/eline.png" class="profile-pic"><span class="flag-overlay">🇳🇱</span></span></span>
+* <span class="profile-trigger">Mazzy<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/mazzy.png" class="profile-pic"><span class="flag-overlay">🇺🇸</span></span></span>
+* <span class="profile-trigger">Carl<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/carl.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>
+* <span class="profile-trigger">Bing<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/bing.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>
+
+
 # Le volontariat
 
 <div class="carousel-container">

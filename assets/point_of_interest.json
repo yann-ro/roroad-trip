@@ -1775,6 +1775,26 @@
         "description": ""
     },
     {
+        "name": "Big boy",
+        "coords": [
+            -2.896578,
+            -79.009549
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/ecuador/cuenca-tag3.jpeg",
+        "description": ""
+    },
+    {
+        "name": "Melancholy Hill",
+        "coords": [
+            -2.899392,
+            -79.000730
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/ecuador/cuenca-tag4.jpeg",
+        "description": ""
+    },
+    {
         "name": "Parque Nacional Cajas",
         "coords": [
             -2.777208,
@@ -1913,5 +1933,65 @@
         "icon": "",
         "image": "assets/images/peru/mancora-thepoint.jpeg",
         "description": "Première nuit avant de commencer le volontariat. Vraiment un 'party hostel' pas des plus funnyfun."
+    },
+    {
+        "name": "Zaigon",
+        "coords": [
+            -4.097849,
+            -81.050162
+        ],
+        "icon": "",
+        "image": "assets/images/peru/mancora-zaigon.gif",
+        "description": "Restaurant 3 étoiles pour son sandwich popoeye le jour et bar à salsa la nuit 🕺🪩"
+    },
+    {
+        "name": "Las Pocitas",
+        "coords": [
+            -4.114724284835225,
+            -81.07997058498077
+        ],
+        "icon": "",
+        "image": "assets/images/peru/mancora-shells.jpeg",
+        "description": "Vendeurs de coquillage"
+    },
+    {
+        "name": "Sunset 🫶",
+        "coords": [
+            -4.096812274528384,
+            -81.05038050993234
+        ],
+        "icon": "",
+        "image": "assets/images/peru/mancora-wkp-socialsunset.jpeg",
+        "description": "Petite bière à wild kite peru"
+    },
+    {
+        "name": "Tortuga",
+        "coords": [
+            -4.101138,
+            -81.053015
+        ],
+        "icon": "pets",
+        "image": "assets/images/peru/mancora-turtle.jpeg",
+        "description": "Petite tortue creuse un trou avec ses pates arrières pour enfouir ses oeufs."
+    },
+    {
+        "name": "Sunset session 🌅",
+        "coords": [
+            -4.096563,
+            -81.053899
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/peru/mancora-kite.gif",
+        "description": ""
+    },
+    {
+        "name": "Beach Volley Mancora 🏐",
+        "coords": [
+            -4.1063130406166755,
+            -81.05804155448376
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/peru/mancora-volleyball.jpeg",
+        "description": "Rendez-vous tous les soirs pour un beachvolley"
     }
 ]
