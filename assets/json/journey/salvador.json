@@ -1,0 +1,211 @@
+[
+    {
+        "name": {
+            "fr": "El Tunco 🇸🇻",
+            "en": "El Tunco 🇸🇻",
+            "es": "El Tunco 🇸🇻"
+        },
+        "coords": [
+            13.493550,
+            -89.386116
+        ],
+        "description": {
+            "fr": "Aussi appelée surfcity: paradis du grigo en vacances",
+            "en": "Also known as Surf City: tourist beach paradise",
+            "es": "También llamada Surf City: paraíso para turistas en vacaciones"
+        },
+        "image": "assets/images/salvador/tunco.jpeg",
+        "transport": "bus",
+        "distance": 85
+    },
+    {
+        "name": {
+            "fr": "Lago de Coatepeque 🇸🇻",
+            "en": "Lake Coatepeque 🇸🇻",
+            "es": "Lago de Coatepeque 🇸🇻"
+        },
+        "coords": [
+            13.879055,
+            -89.563887
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "image": "assets/images/nicaragua/lago-coatepeque.jpeg",
+        "transport": "bus",
+        "transport_image": "assets/images/salvador/bus-sonsonate.jpeg",
+        "distance": 56
+    },
+    {
+        "name": {
+            "fr": "Sonsonate 🇸🇻",
+            "en": "Sonsonate 🇸🇻",
+            "es": "Sonsonate 🇸🇻"
+        },
+        "coords": [
+            13.719177,
+            -89.723017
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "distance": 18
+    },
+    {
+        "name": {
+            "fr": "Nahuizalco 🇸🇻",
+            "en": "Nahuizalco 🇸🇻",
+            "es": "Nahuizalco 🇸🇻"
+        },
+        "coords": [
+            13.776606,
+            -89.739068
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "distance": 55
+    },
+    {
+        "name": {
+            "fr": "Salcoatitan 🇸🇻",
+            "en": "Salcoatitan 🇸🇻",
+            "es": "Salcoatitán 🇸🇻"
+        },
+        "coords": [
+            13.831138,
+            -89.758222
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "distance": 14
+    },
+    {
+        "name": {
+            "fr": "Juayúa 🇸🇻",
+            "en": "Juayúa 🇸🇻",
+            "es": "Juayúa 🇸🇻"
+        },
+        "coords": [
+            13.841319,
+            -89.743992
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "transport_image": "assets/images/salvador/ruta-flores-1.gif",
+        "distance": 46
+    },
+    {
+        "name": {
+            "fr": "Apaneca 🇸🇻",
+            "en": "Apaneca 🇸🇻",
+            "es": "Apaneca 🇸🇻"
+        },
+        "coords": [
+            13.860703,
+            -89.804960
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "transport_image": "assets/images/salvador/ruta-flores-2.gif",
+        "distance": 20
+    },
+    {
+        "name": {
+            "fr": "Ataco 🇸🇻",
+            "en": "Ataco 🇸🇻",
+            "es": "Ataco 🇸🇻"
+        },
+        "coords": [
+            13.868967,
+            -89.850429
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "moto",
+        "distance": 33
+    },
+    {
+        "name": {
+            "fr": "Ahuachapán 🇸🇻",
+            "en": "Ahuachapán 🇸🇻",
+            "es": "Ahuachapán 🇸🇻"
+        },
+        "coords": [
+            13.923326,
+            -89.844498
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 100
+    },
+    {
+        "name": {
+            "fr": "San Salvador 🇸🇻",
+            "en": "San Salvador 🇸🇻",
+            "es": "San Salvador 🇸🇻"
+        },
+        "coords": [
+            13.683647,
+            -89.207419
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 182
+    },
+    {
+        "name": {
+            "fr": "La Unión 🇸🇻",
+            "en": "La Unión 🇸🇻",
+            "es": "La Unión 🇸🇻"
+        },
+        "coords": [
+            13.341289,
+            -87.850843
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "ferry",
+        "transport_image": "assets/images/salvador/launcha.jpeg",
+        "transport_description": {
+            "fr": "Un petit air de Las Vegas Parano",
+            "en": "Fear and Loathing in Las Vegas vibes",
+            "es": "Un toque a Miedo y Asco en Las Vegas"
+        },
+        "distance": 52
+    }
+]

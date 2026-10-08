@@ -1,0 +1,94 @@
+[
+    {
+        "name": {
+            "fr": "Isla blanca 🇲🇽",
+            "en": "Isla Blanca 🇲🇽",
+            "es": "Isla Blanca 🇲🇽"
+        },
+        "coords": [
+            21.330384,
+            -86.797627
+        ],
+        "description": {
+            "fr": "Premier volontariat: Ikarus kitesurfschool eco-hostel! 🏄‍♂️🪁<br><br>Un mois en tant qu'homme à tout faire/barman! Expérience inoubliable!!",
+            "en": "First volunteering: Ikarus kitesurfschool eco-hostel! 🏄‍♂️🪁<br><br>One month working as handyman/bartender! Unforgettable experience!!",
+            "es": "Primer voluntariado: ¡Ikarus kitesurfschool eco-hostel! 🏄‍♂️🪁<br><br>¡Un mes como manitas/bartender! ¡Una experiencia inolvidable!"
+        },
+        "image": "assets/images/mexico/ikarus.jpeg",
+        "transport": "bus",
+        "transport_image": "assets/images/mexico/collectivo-ikarus.jpeg",
+        "transport_description": {
+            "fr": "Aller Hop, on prend le collectivo direction Tulum, c'est 3h et ça passe super vite!",
+            "en": "Hop into the colectivo to Tulum, 3-hour ride that goes by super fast!",
+            "es": "¡Nos subimos al colectivo hacia Tulum, 3 horas que pasan superrápido!"
+        },
+        "distance": 158,
+        "subpage_path": "assets/subpages/ikarus-isla-blanca"
+    },
+    {
+        "name": {
+            "fr": "Tulum 🇲🇽",
+            "en": "Tulum 🇲🇽",
+            "es": "Tulum 🇲🇽"
+        },
+        "coords": [
+            20.209512,
+            -87.456732
+        ],
+        "description": {
+            "fr": "Difficile à dire, je n'ai pas vraiment aimé la ville et ses alentours, ça ressemble vraiment à un parc à touristes où tout est payant (accès au parc, à la plage, à l'eau pour Akumal). Clara me rejoint dans l'hostel Mr Pakal 2j pour aller faire du snorkeling avec les raies et tortues. (ça vraiment cool)",
+            "en": "Hard to say, didn't really enjoy the town and surroundings, felt like a tourist trap where everything costs money (park entry, beach, water in Akumal). Clara joined me at Mr Pakal hostel for 2 days of snorkeling with rays and turtles (that was awesome).",
+            "es": "Difícil de explicar, no me gustó mucho la ciudad ni los alrededores, parece una trampa para turistas donde todo se paga (entrada al parque, playa, agua en Akumal). Clara se unió a mí en el hostel Mr Pakal 2 días para hacer esnórquel con rayas y tortugas (eso sí estuvo genial)."
+        },
+        "transport": "bus",
+        "distance": 253
+    },
+    {
+        "name": {
+            "fr": "Chetumal 🇲🇽",
+            "en": "Chetumal 🇲🇽",
+            "es": "Chetumal 🇲🇽"
+        },
+        "coords": [
+            18.521033,
+            -88.291273
+        ],
+        "description": {
+            "fr": "Arrivé la nuit dans la ville pour repartir le lendemain matin à 7h. Fatigué, courses et direct au lit dans une auberge de jeunesse un peu glauque.",
+            "en": "Arrived at night, leaving next morning at 7am. Tired, quick groceries and straight to bed in a slightly sketchy hostel.",
+            "es": "Llegada de noche para salir a las 7am. Cansado, compras y directo a la cama en un hostal un poco lúgubre."
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/guatemala/marlin-espadas-1.jpeg",
+        "transport_description": {
+            "fr": "4h de bus, première frontière de passée. Bonus: une amende de 1000 pesos (50€) pour avoir dépasser de 10j la durée écrite par l'immigration.",
+            "en": "4h bus ride, first border crossed. Bonus: 1000 pesos fine (€50) for overstaying immigration allowance by 10 days.",
+            "es": "4h de autobús, primera frontera cruzada. Bonus: multa de 1000 pesos (50€) por exceder 10 días el permiso de migración."
+        },
+        "distance": 157
+    },
+    {
+        "name": {
+            "fr": "Belize City 🇧🇿",
+            "en": "Belize City 🇧🇿",
+            "es": "Ciudad de Belice 🇧🇿"
+        },
+        "coords": [
+            17.495758,
+            -88.212411
+        ],
+        "description": {
+            "fr": "De passage uniquement pour 2h le temps de changer de bus, et quel regret !! Le Belize est pays de 400 000 habitants membre du Common Wealth, on y parle donc Anglais mais avec un culture caraïbéenne très présente. Des rastas un peu partout dans les rues, ambiance décrontractée!",
+            "en": "Just passing through for 2h to change buses, such a pity! Belize has 400,000 residents, Commonwealth member speaking English with strong Caribbean vibes. Rastas everywhere, super relaxed atmosphere!",
+            "es": "Solo de paso 2h para cambiar de autobús, ¡qué lástima! Belice tiene 400.000 habitantes, miembro de la Commonwealth, se habla inglés con fuerte cultura caribeña. Rastas por las calles, ¡ambiente superrelajado!"
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/guatemala/marlin-espadas-2.jpeg",
+        "transport_description": {
+            "fr": "4h de collectivo supplémentaires direction le Guatemala! Rencontre avec Betty (🇩🇪), Gia (🇺🇸), Mathys (🇫🇷) et Jordan (🇨🇦). Super ambiance sous fond de couché de soleil avec Max Verstappen en conducteur, on papotte à propos de nos plans pour la suite à Flores. Demain ça sera donc rendez-vous à la Rope Swing en bateau pour chiller l'après-midi.",
+            "en": "Another 4h colectivo ride towards Guatemala! Met Betty (🇩🇪), Gia (🇺🇸), Mathys (🇫🇷) and Jordan (🇨🇦). Great sunset vibes with driver driving like Max Verstappen, chatting plans for Flores. Tomorrow meeting at the Rope Swing by boat for a lazy afternoon.",
+            "es": "¡Otras 4h de colectivo hacia Guatemala! Conocí a Betty (🇩🇪), Gia (🇺🇸), Mathys (🇫🇷) y Jordan (🇨🇦). Gran ambiente al atardecer con un chófer estilo Max Verstappen, hablando sobre los planes en Flores. Mañana quedamos en la Rope Swing en barca para pasar la tarde."
+        },
+        "distance": 219
+    }
+]

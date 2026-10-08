@@ -1,0 +1,145 @@
+[
+    {
+        "name": {
+            "fr": "Potosí 🇳🇮",
+            "en": "Potosí 🇳🇮",
+            "es": "Potosí 🇳🇮"
+        },
+        "coords": [
+            13.003939,
+            -87.503191
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "autostop",
+        "transport_image": "assets/images/nicaragua/autostop-2.gif",
+        "distance": 47
+    },
+    {
+        "name": {
+            "fr": "Jiquilillo 🇳🇮",
+            "en": "Jiquilillo 🇳🇮",
+            "es": "Jiquilillo 🇳🇮"
+        },
+        "coords": [
+            12.733924,
+            -87.443813
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "image": "assets/images/nicaragua/jiqi-sunset.jpeg",
+        "transport": "autostop",
+        "transport_image": "assets/images/nicaragua/autostop-1.jpeg",
+        "distance": 82
+    },
+    {
+        "name": {
+            "fr": "León 🇳🇮",
+            "en": "León 🇳🇮",
+            "es": "León 🇳🇮"
+        },
+        "coords": [
+            12.431889,
+            -86.880363
+        ],
+        "image": "assets/images/nicaragua/leon-stitch.gif",
+        "transport": "autostop",
+        "transport_image": "assets/images/nicaragua/autostop-1.gif",
+        "distance": 21
+    },
+    {
+        "name": {
+            "fr": "Poneloya 🇳🇮",
+            "en": "Poneloya 🇳🇮",
+            "es": "Poneloya 🇳🇮"
+        },
+        "coords": [
+            12.388511,
+            -87.057796
+        ],
+        "image": "assets/images/nicaragua/poneloya-colibri.gif",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 117
+    },
+    {
+        "name": {
+            "fr": "Managua 🇳🇮",
+            "en": "Managua 🇳🇮",
+            "es": "Managua 🇳🇮"
+        },
+        "coords": [
+            12.146326,
+            -86.245445
+        ],
+        "transport": "bus",
+        "distance": 103
+    },
+    {
+        "name": {
+            "fr": "San Jorge 🇳🇮",
+            "en": "San Jorge 🇳🇮",
+            "es": "San Jorge 🇳🇮"
+        },
+        "coords": [
+            11.459455,
+            -85.790263
+        ],
+        "transport": "ferry",
+        "transport_image": "assets/images/nicaragua/lancha-ometepe.jpeg",
+        "distance": 13
+    },
+    {
+        "name": {
+            "fr": "Ometepe 🇳🇮",
+            "en": "Ometepe 🇳🇮",
+            "es": "Ometepe 🇳🇮"
+        },
+        "coords": [
+            11.495802,
+            -85.569730
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 50
+    },
+    {
+        "name": {
+            "fr": "Popoyo 🇳🇮",
+            "en": "Popoyo 🇳🇮",
+            "es": "Popoyo 🇳🇮"
+        },
+        "coords": [
+            11.487082,
+            -86.119490
+        ],
+        "image": "assets/images/nicaragua/popoyo.jpeg",
+        "description": {
+            "fr": "Volontariat N°2: 15j à construire une casita x surfer !!",
+            "en": "Volunteering #2: 15 days building a small house & surfing!!",
+            "es": "Voluntariado Nº2: ¡15 días construyendo una casita y surfear!"
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "8h de bus x 4$ de taxe de douane ! Le début de la saison des pluies !! Traversée de gigantesques forêts via la Panaméricaine.",
+            "en": "8h bus x $4 border fee! Start of rainy season!! Crossing massive forests on the Pan-American highway.",
+            "es": "¡8h de bus y 4$ de tasa fronteriza! ¡Comienzo de la estación lluviosa! Cruzando bosques inmensos por la Panamericana."
+        },
+        "distance": 375,
+        "subpage_path": "assets/subpages/popoyo-casita"
+    }
+]

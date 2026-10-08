@@ -6,10 +6,15 @@ export class POIManager {
         this.layer = L.layerGroup().addTo(this.map);
     }
 
-    async load(url) {
+    async load(urls) {
         try {
-            const response = await fetch(url);
-            const pois = await response.json();
+            const urlList = Array.isArray(urls) ? urls : [urls];
+
+            const responses = await Promise.all(urlList.map(url => fetch(url)));
+            const dataArrays = await Promise.all(responses.map(res => res.json()));
+
+            const pois = dataArrays.flat();
+
             this.render(pois);
         } catch (error) {
             console.error("Erreur chargement POI:", error);

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Encornet",
+        "coords": [
+            20,
+            -21.8
+        ],
+        "description": "Petit passager clandestin à bord du bateau.",
+        "icon": "pets",
+        "image": "assets/images/poi/encornet.jpeg"
+    },
+    {
+        "name": "Cap'tain Cook",
+        "coords": [
+            16.279290,
+            -61.249893
+        ],
+        "description": "Arrivée sur terre",
+        "icon": "",
+        "image": "assets/images/transat-aller/guadeloupe-selfie.jpeg"
+    },
+    {
+        "name": "Racoon",
+        "coords": [
+            16.292388,
+            -61.663670
+        ],
+        "description": "Creuse la terre à la recherche de vers.",
+        "icon": "pets",
+        "image": "assets/images/transat-aller/racoon.jpeg"
+    },
+    {
+        "name": "Coque étanche",
+        "coords": [
+            16.231365,
+            -61.529755
+        ],
+        "description": "téléphone récupéré, coque étanche achetée: fin des petites galères",
+        "icon": "",
+        "image": "assets/images/transat-aller/coque-etanche.gif"
+    },
+    {
+        "name": "Exocet",
+        "coords": [
+            18.162691,
+            -39.104638
+        ],
+        "description": "Aviateur kamikaze qui a terminé sur le ponton",
+        "icon": "pets",
+        "image": "assets/images/poi/exocet.jpeg"
+    },
+    {
+        "name": "Dauphin",
+        "coords": [
+            16.862691,
+            -49.104638
+        ],
+        "description": "Surfeur originel, profitant du passage de bateau pour exhiber ses skills",
+        "icon": "pets",
+        "image": "assets/images/poi/dauphin-at.jpeg"
+    }
+]

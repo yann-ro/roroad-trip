@@ -1,0 +1,204 @@
+[
+    {
+        "name": {
+            "fr": "Quito 🇪🇨",
+            "en": "Quito 🇪🇨",
+            "es": "Quito 🇪🇨"
+        },
+        "coords": [
+            -0.212357,
+            -78.484088
+        ],
+        "image": "assets/images/ecuador/quito.jpeg",
+        "description": {
+            "fr": "Meilleur hostel du monde: Secret Garden. Ultra pas cher, bonne ambiance, super beau ET vend les plus beaux stickers de tout l'Equateur. Que demande le peuple. Endroit idéal pour se reposer un peu, s'acclimater avant de partir sur des randos de petit fou.",
+            "en": "Best hostel ever: Secret Garden. Very cheap, great vibe, beautiful & coolest stickers in Ecuador. Perfect spot to rest and acclimatize before epic treks.",
+            "es": "Mejor hostel del mundo: Secret Garden. Barato, buen ambiente, precioso y vende las mejores pegatinas de Ecuador. Ideal para descansar y aclimatarse antes de trekkings intensos."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport_image": "assets/images/ecuador/esperanza-bus.jpeg",
+        "distance": 128
+    },
+    {
+        "name": {
+            "fr": "Refugio Terra Esperanza 🇪🇨",
+            "en": "Terra Esperanza Refuge 🇪🇨",
+            "es": "Refugio Terra Esperanza 🇪🇨"
+        },
+        "coords": [
+            0.286398,
+            -78.111526
+        ],
+        "image": "assets/images/ecuador/esperanza.jpeg",
+        "description": {
+            "fr": "Petit refuge idéalement placé en bas de l'Imbabura (4 609m): départ de la maison.",
+            "en": "Cozy shelter right at the foot of Imbabura (4,609m): trail starts at the door.",
+            "es": "Acogedor refugio al pie del Imbabura (4.609m): la ruta empieza desde casa."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "distance": 29
+    },
+    {
+        "name": {
+            "fr": "Punanti Cabaña de Montaña 🇪🇨",
+            "en": "Punanti Mountain Lodge 🇪🇨",
+            "es": "Punanti Cabaña de Montaña 🇪🇨"
+        },
+        "coords": [
+            0.107316,
+            -78.024512
+        ],
+        "image": "assets/images/ecuador/punanti.jpeg",
+        "description": {
+            "fr": "4 jours à chill avec les lamas, initiation à l'escalade sur rocher, petites randos.",
+            "en": "4 days chilling with llamas, intro to rock climbing, short hikes.",
+            "es": "4 días de relax con llamas, iniciación a la escalada en roca y caminatas."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "Là c'est la galère: je perds ma ptite gourde dans un bus. En voulant aller vérifier au terminal s'il l'on trouvé, j'oublie mes sous et ma cb dans un autre bus.. Y'a des jours sans 😭😭",
+            "en": "Total nightmare: lost my water bottle in a bus. Checked station terminal, then left my cash & credit card in another bus.. Bad day 😭😭",
+            "es": "Un desastre: perdí la cantimplora en un bus. Fui a la terminal y olvidé el dinero y la tarjeta en otro bus.. Días malos 😭😭"
+        },
+        "transport_image": "assets/images/ecuador/punanti-bus.jpeg",
+        "distance": 166
+    },
+    {
+        "name": {
+            "fr": "Cuscungo Cotopaxi 🇪🇨",
+            "en": "Cuscungo Cotopaxi 🇪🇨",
+            "es": "Cuscungo Cotopaxi 🇪🇨"
+        },
+        "coords": [
+            -0.705922,
+            -78.598843
+        ],
+        "image": "assets/images/ecuador/cuscungo.jpeg",
+        "description": {
+            "fr": "Petit hostel parfaitement situé proche du Cotopaxi. Au programme: test du bikepark et tentative de l'Iliniza Norte (5 126m)!",
+            "en": "Great little hostel near Cotopaxi. Program: bikepark session & Iliniza Norte summit attempt (5,126m)!",
+            "es": "Hostel genial cerca del Cotopaxi. Plan: probar el bikepark y intento al Iliniza Norte (5.126m)."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport_image": "assets/images/ecuador/bus-banos.jpeg",
+        "distance": 113
+    },
+    {
+        "name": {
+            "fr": "Baños 🇪🇨",
+            "en": "Baños 🇪🇨",
+            "es": "Baños 🇪🇨"
+        },
+        "coords": [
+            -1.395703,
+            -78.422413
+        ],
+        "image": "assets/images/ecuador/banos.gif",
+        "description": {
+            "fr": "Comme le nom l'indique: le paradis de la cascade",
+            "en": "As the name suggests: waterfall paradise",
+            "es": "Como el nombre indica: el paraíso de las cascadas"
+        },
+        "transport": "bus",
+        "distance": 498
+    },
+    {
+        "name": {
+            "fr": "Montañita 🇪🇨",
+            "en": "Montañita 🇪🇨",
+            "es": "Montañita 🇪🇨"
+        },
+        "coords": [
+            -1.825310,
+            -80.754362
+        ],
+        "image": "assets/images/ecuador/montanita.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 45
+    },
+    {
+        "name": {
+            "fr": "Puerto Lopez 🇪🇨",
+            "en": "Puerto López 🇪🇨",
+            "es": "Puerto López 🇪🇨"
+        },
+        "coords": [
+            -1.551872,
+            -80.811567
+        ],
+        "image": "assets/images/ecuador/puerto-lopez.jpeg",
+        "description": {
+            "fr": "4 jours pour chiller et observer les baleines. Petit groupe cool et raconte nos vies autour de pizza avec Arthur 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Maria 🇧🇷 et Julie 🇫🇷",
+            "en": "4 days chilling and whale watching. Cool crew sharing stories over pizza with Arthur 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Maria 🇧🇷 & Julie 🇫🇷",
+            "es": "4 días de relax y avistamiento de ballenas. Buen grupo compartiendo historias comiendo pizza con Arthur 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Maria 🇧🇷 y Julie 🇫🇷"
+        },
+        "transport": "bus",
+        "distance": 412
+    },
+    {
+        "name": {
+            "fr": "Cuenca 🇪🇨",
+            "en": "Cuenca 🇪🇨",
+            "es": "Cuenca 🇪🇨"
+        },
+        "coords": [
+            -2.911054,
+            -79.005989
+        ],
+        "image": "assets/images/ecuador/cuenca.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/ecuador/bus-morona.jpeg",
+        "transport_description": {
+            "fr": "Pire transport depuis le début de mon parcours. Pendant 2h le chauffeur diffuse The Call, un film où le personnage principal passe son temps à crier séquestrer à l'arrière d'une voiture (actuellement ma pire note senscritique). Le son était beauuuucoup trop fort x conduite type grand prix. Mais bon, le positif: arrivé en vie au bout du monde !!",
+            "en": "Worst ride of the whole trip. Driver played 'The Call' for 2 hours with endless screaming on full volume + Grand Prix driving style. Bright side: made it alive!!",
+            "es": "El peor transporte del viaje. El chófer puso 'The Call' durante 2h con gritos constantes a todo volumen + conducción de Fórmula 1. ¡Pero llegué vivo!"
+        },
+        "distance": 291
+    },
+    {
+        "name": {
+            "fr": "Puerto Morona 🇪🇨",
+            "en": "Puerto Morona 🇪🇨",
+            "es": "Puerto Morona 🇪🇨"
+        },
+        "coords": [
+            -2.885250,
+            -77.704773
+        ],
+        "image": "assets/images/ecuador/puerto-morona.jpeg",
+        "description": {
+            "fr": "2 semaines au coeur de la forêt amazonienne à La loma un centre de conservation de la biodiversité.",
+            "en": "2 weeks deep in the Amazon rainforest at La Loma biodiversity conservation center.",
+            "es": "2 semanas en el corazón de la selva amazónica en La Loma, centro de conservación de biodiversidad."
+        },
+        "subpage_path": "assets/subpages/morona",
+        "transport": "bus",
+        "transport_image": "assets/images/ecuador/bus-mancora.jpeg",
+        "distance": 650
+    }
+]

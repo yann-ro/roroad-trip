@@ -1,0 +1,52 @@
+[
+    {
+        "name": {
+            "fr": "San José 🇨🇷",
+            "en": "San José 🇨🇷",
+            "es": "San José 🇨🇷"
+        },
+        "coords": [
+            9.934807,
+            -84.086525
+        ],
+        "image": "assets/images/costarica/san-jose.jpeg",
+        "description": {
+            "fr": "La capitale x victoire du PSG (PSRÉ)! On arrive et c'est la douche: giga trombes d'eau. Petit stop de 2 nuits pour faire le marché à gringos et se reposer un peu!",
+            "en": "Capital city & PSG win! Heavy downpours upon arrival. 2 nights stay to check the tourist market and rest!",
+            "es": "¡Capital y victoria del PSG! Tormentas gigantes nada más llegar. Parada de 2 noches para ir al mercado y descansar."
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/costarica/bus-pv.jpeg",
+        "transport_description": {
+            "fr": "5h de bus +1h de route coupée = fatigue",
+            "en": "5h bus ride + 1h road blockage = exhausted",
+            "es": "5h de bus + 1h de carretera cortada = cansancio"
+        },
+        "distance": 217
+    },
+    {
+        "name": {
+            "fr": "Puerto Viejo 🇨🇷",
+            "en": "Puerto Viejo 🇨🇷",
+            "es": "Puerto Viejo 🇨🇷"
+        },
+        "coords": [
+            9.650538,
+            -82.739578
+        ],
+        "image": "assets/images/costarica/puerto-viejo.jpeg",
+        "description": {
+            "fr": "5j dans un jungle hostel pour chiller un peu et essayer d'observer des animaux",
+            "en": "5 days in a jungle hostel chilling and spotting wildlife",
+            "es": "5 días en un hostel en la selva descansando y buscando animales"
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "bus x passage de la frontière à pieds x bus x petite barque",
+            "en": "bus x walking across border x bus x small boat",
+            "es": "autobús x cruzando la frontera a pie x autobús x barca"
+        },
+        "transport_image": "assets/images/panama/bus.jpeg",
+        "distance": 102
+    }
+]

@@ -10,10 +10,73 @@ const TRANSPORT_ICONS = {
     moto: "motorcycle"
 };
 
+// Translations for UI elements
+const UI_TRANSLATIONS = {
+    fr: {
+        totalDistance: "Distance Totale",
+        moreDetails: "Plus de détails..",
+        transport: {
+            walk: "À pied",
+            bus: "Bus",
+            train: "Train",
+            car: "Voiture",
+            ferry: "Ferry",
+            voilier: "Voilier",
+            avion: "Avion",
+            autostop: "Autostop",
+            moto: "Moto"
+        }
+    },
+    en: {
+        totalDistance: "Total Distance",
+        moreDetails: "More details..",
+        transport: {
+            walk: "Walking",
+            bus: "Bus",
+            train: "Train",
+            car: "Car",
+            ferry: "Ferry",
+            voilier: "Sailboat",
+            avion: "Flight",
+            autostop: "Hitchhiking",
+            moto: "Motorcycle"
+        }
+    },
+    es: {
+        totalDistance: "Distancia Total",
+        moreDetails: "Más detalles..",
+        transport: {
+            walk: "A pie",
+            bus: "Autobús",
+            train: "Tren",
+            car: "Coche",
+            ferry: "Ferry",
+            voilier: "Velero",
+            avion: "Avión",
+            autostop: "Autostop",
+            moto: "Moto"
+        }
+    }
+};
+
+/**
+ * Helper to safely extract text based on selected language
+ */
+function getLangText(field, lang = 'fr') {
+    if (!field) return '';
+    if (typeof field === 'string') return field;
+    if (typeof field === 'object') {
+        return field[lang] || field['fr'] || Object.values(field)[0] || '';
+    }
+    return '';
+}
+
 export class JourneyManager {
     constructor(map) {
         this.map = map;
         this.journeyData = [];
+        this.currentLang = localStorage.getItem('user-lang') || 'fr';
+
         this.layers = {
             paths: L.layerGroup().addTo(this.map),
             markers: L.layerGroup().addTo(this.map),
@@ -25,19 +88,33 @@ export class JourneyManager {
 
         this.statsControl.onAdd = () => {
             const div = L.DomUtil.create('div', 'journey-stats-card');
-            // Prevent map dragging/zooming when interacting with the card
             L.DomEvent.disableClickPropagation(div);
             L.DomEvent.disableScrollPropagation(div);
             return div;
         };
 
         this.statsControl.addTo(this.map);
+
+        // Listen for language change events dispatched by the language selector
+        window.addEventListener('languageChanged', (e) => {
+            this.setLanguage(e.detail?.lang || localStorage.getItem('user-lang') || 'fr');
+        });
     }
 
-    async load(url) {
+    setLanguage(lang) {
+        this.currentLang = lang;
+        this.render();
+    }
+
+    async load(urls) {
         try {
-            const response = await fetch(url);
-            this.journeyData = await response.json();
+            const urlList = Array.isArray(urls) ? urls : [urls];
+
+            const responses = await Promise.all(urlList.map(url => fetch(url)));
+            const dataArrays = await Promise.all(responses.map(res => res.json()));
+
+            this.journeyData = dataArrays.flat();
+
             this.render();
         } catch (error) {
             console.error("Error loading the journey data:", error);
@@ -60,7 +137,6 @@ export class JourneyManager {
             done: { color: "white", opacity: 0.8, weight: 2, dashArray: "6,6" },
         };
 
-        // 1. TRACÉ DONE
         const doneCoords = this.journeyData.map(p => p.coords);
         if (doneCoords.length >= 2) {
             this._drawGeodesicTriple(doneCoords, styles.done);
@@ -103,14 +179,12 @@ export class JourneyManager {
                 let extraClass = "";
                 if (stop.subpage_path && stop.subpage_path.length > 0) {
                     extraClass = " has-subpages";
-                } else {
-                    if (stop.image) {
-                        extraClass = " has-image";
-                    }
+                } else if (stop.image) {
+                    extraClass = " has-image";
                 }
 
                 markerOptions.icon = L.divIcon({
-                    className: 'marker-done' + extraClass, // Deviendra 'marker-done has-subpages'
+                    className: 'marker-done' + extraClass,
                     iconSize: null,
                     iconAnchor: null,
                     zIndexOffset: 99999
@@ -148,27 +222,22 @@ export class JourneyManager {
         if (!iconName) return;
 
         try {
-            // Création de la ligne géodésique temporaire
             const tempLine = L.geodesic([currentStop.coords, nextStop.coords], {
                 steps: 50,
                 wrap: false
             });
 
-            // Récupération sécurisée des points
             let latlngs = tempLine.getLatLngs();
 
-            // Leaflet.Geodesic peut renvoyer [ [latlng, latlng...] ] au lieu de [latlng, latlng...]
             if (Array.isArray(latlngs[0])) {
                 latlngs = latlngs[0];
             }
 
             if (!latlngs || latlngs.length === 0) return;
 
-            //  Calcul du point milieu
             const midIndex = Math.floor(latlngs.length / 2);
             const midPoint = latlngs[midIndex];
 
-            // Création de l'icône
             const icon = L.divIcon({
                 className: "transport-icons",
                 html: `<span class="material-icons" style="color: white; text-shadow: 0 0 2px black;">${iconName}</span>`,
@@ -177,7 +246,6 @@ export class JourneyManager {
                 zIndexOffset: 0,
             });
 
-            // Ajout sur les 3 mondes
             [0, 360, -360].forEach(offset => {
                 const marker = L.marker([midPoint.lat, midPoint.lng + offset], {
                     icon: icon,
@@ -198,28 +266,37 @@ export class JourneyManager {
     }
 
     _getPopupContentStop(stop, stepNumber) {
+        const title = getLangText(stop.name, this.currentLang);
+        const description = getLangText(stop.description, this.currentLang);
+
         return generatePolaroidHTML(
             stop.image,
-            stop.name,
-            stop.description,
+            title,
+            description,
             `${stepNumber}. `,
-            stop.subpage_path
+            stop.subpage_path,
+            this.currentLang
         );
     }
 
     _getPopupContentTransport(stop) {
         const icon = TRANSPORT_ICONS[stop.transport] || 'place';
+        const translatedTransport = UI_TRANSLATIONS[this.currentLang]?.transport[stop.transport] || stop.transport;
+
         const titleWithIcon = `
             <span class="material-icons" style="font-size: 14px; vertical-align: middle; margin-right: 5px;">
                 ${icon}
-            </span> ${stop.transport}`;
+            </span> ${translatedTransport}`;
+
+        const transportDescription = getLangText(stop.transport_description, this.currentLang);
 
         return generatePolaroidHTML(
             stop.transport_image,
             titleWithIcon,
-            stop.transport_description,
+            transportDescription,
             '',
-            stop.transport_subpage_path
+            stop.transport_subpage_path,
+            this.currentLang
         );
     }
 
@@ -246,13 +323,13 @@ export class JourneyManager {
 
         statsContainer.style.display = 'block';
 
-        // 1. Extract unique flag emojis
         const flagRegex = /\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF]/g;
         const flagsSet = new Set();
 
         this.journeyData.forEach(stop => {
-            if (stop.name) {
-                const matches = stop.name.match(flagRegex);
+            const stopName = getLangText(stop.name, this.currentLang);
+            if (stopName) {
+                const matches = stopName.match(flagRegex);
                 if (matches) {
                     matches.forEach(flag => flagsSet.add(flag));
                 }
@@ -264,26 +341,27 @@ export class JourneyManager {
             ? `<div class="stats-flags">${flagsArray.join('')}</div>`
             : '';
 
-        // 2. Sort transport modes descending
         const sortedDistances = Object.entries(distances).sort((a, b) => b[1] - a[1]);
         const totalDistance = sortedDistances.reduce((sum, [_, dist]) => sum + dist, 0);
 
-        // 3. Build HTML rows
+        const langUI = UI_TRANSLATIONS[this.currentLang] || UI_TRANSLATIONS.fr;
+
         let rowsHTML = '';
         for (const [mode, dist] of sortedDistances) {
             const iconName = TRANSPORT_ICONS[mode] || 'place';
+            const translatedMode = langUI.transport[mode] || mode;
+
             rowsHTML += `
             <div class="stats-row">
                 <span class="material-icons stats-icon">${iconName}</span>
-                <span class="stats-mode">${mode}</span>
+                <span class="stats-mode">${translatedMode}</span>
                 <span class="stats-dist">${dist.toLocaleString()} km</span>
             </div>
         `;
         }
 
-        // 4. Render HTML with flags placed at the end
         statsContainer.innerHTML = `
-        <div class="stats-title">Distance Totale</div>
+        <div class="stats-title">${langUI.totalDistance}</div>
         <div class="stats-total">${totalDistance.toLocaleString()} km</div>
         <div class="stats-list">
             ${rowsHTML}
@@ -291,14 +369,16 @@ export class JourneyManager {
         ${flagsHTML ? `<hr class="stats-divider" />${flagsHTML}` : ''}
     `;
     }
-};
+}
 
-export function generatePolaroidHTML(image, title, description, badge = '', linkPath = '') {
+export function generatePolaroidHTML(image, title, description, badge = '', linkPath = '', lang = 'fr') {
     const imageBlock = image ? `
         <div class="polaroid-image-wrapper">
             <img src="${image}" alt="${title}">
         </div>
     ` : '';
+
+    const moreDetailsText = UI_TRANSLATIONS[lang]?.moreDetails || UI_TRANSLATIONS.fr.moreDetails;
 
     return `
         <div class="polaroid-card">
@@ -315,7 +395,7 @@ export function generatePolaroidHTML(image, title, description, badge = '', link
 
                 ${linkPath ? `
                     <div class="polaroid-link-container">
-                        <a href="${linkPath}.html" class="polaroid-link">Plus de détails..</a>
+                        <a href="${linkPath}.html" class="polaroid-link">${moreDetailsText}</a>
                     </div>
                 ` : ''}
             </div>

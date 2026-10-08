@@ -1,0 +1,150 @@
+[
+    {
+        "name": {
+            "fr": "Cartagena de Indias 🇨🇴",
+            "en": "Cartagena de Indias 🇨🇴",
+            "es": "Cartagena de Indias 🇨🇴"
+        },
+        "coords": [
+            10.390734,
+            -75.486037
+        ],
+        "image": "assets/images/colombia/carta-street.jpeg",
+        "description": {
+            "fr": "2j dans le port colombien ! Au programme: matchs de foot, trouver le maillot edition 100ans, se reposer",
+            "en": "2 days in Colombian port city! Program: football matches, finding centenary edition jersey, resting.",
+            "es": "¡2 días en el puerto colombiano! Plan: ver fútbol, buscar la camiseta edición 100 años y descansar."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "17h de bus de nuit: on commence à devenir rodé. Pull anti-clim, coussin oreillé et liseuse chargée.",
+            "en": "17h overnight bus: getting used to it. AC sweater, pillow and charged e-reader.",
+            "es": "17h de autobús nocturno: ya somos expertos. Jersey para el A/C, almohada y e-reader cargado."
+        },
+        "transport_image": "assets/images/colombia/bus-sangil.jpeg",
+        "distance": 720
+    },
+    {
+        "name": {
+            "fr": "San Gil 🇨🇴",
+            "en": "San Gil 🇨🇴",
+            "es": "San Gil 🇨🇴"
+        },
+        "coords": [
+            6.557802,
+            -73.135864
+        ],
+        "image": "assets/images/colombia/sangil.gif",
+        "description": {
+            "fr": "15j au plus près du canyon du Chicamocha. Au programme: parapente, randonnée, vélo",
+            "en": "15 days near Chicamocha Canyon. Program: paragliding, hiking, cycling.",
+            "es": "15 días junto al cañón del Chicamocha. Plan: parapente, senderismo y bici."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "Bus de nuit de 9h, tout frais pour démarrer le premier jour de rando dans le parc!",
+            "en": "9h overnight bus, fresh and ready for day 1 park trek!",
+            "es": "¡Autobús nocturno de 9h, frescos para arrancar el primer día de caminata en el parque!"
+        },
+        "transport_image": "assets/images/colombia/bus-sangil-cocuy.jpeg",
+        "distance": 208
+    },
+    {
+        "name": {
+            "fr": "Parque Nacional Natural El Cocuy 🇨🇴",
+            "en": "El Cocuy National Park 🇨🇴",
+            "es": "Parque Nacional Natural El Cocuy 🇨🇴"
+        },
+        "coords": [
+            6.408408,
+            -72.445605
+        ],
+        "image": "assets/images/colombia/cocuy.jpeg",
+        "description": {
+            "fr": "Accompagné de 3j à gambader dans le parc national! Premier jour une petite rando jusqu'au lac et ensuite rando sur 2 jour du village del Cocuy à Güicán",
+            "en": "3 days exploring the National Park! Day 1 hike to lake, then 2-day trek from El Cocuy village to Güicán.",
+            "es": "¡3 días recorriendo el Parque Nacional! Día 1 caminata a la laguna, luego trek de 2 días desde el pueblo del Cocuy hasta Güicán."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "25h de bus ☠️ MAIS très beau paysages. Prochaine fois il faudra penser au cable jack pour voir les films du bus!",
+            "en": "25h bus ride ☠️ BUT stunning scenery. Next time remember aux cable for bus movies!",
+            "es": "25h de autobús ☠️ PERO paisajes preciosos. ¡La próxima vez llevar cable de audio para las películas!"
+        },
+        "transport_image": "assets/images/colombia/bus-guican-medellin.jpeg",
+        "distance": 790
+    },
+    {
+        "name": {
+            "fr": "Medellín 🇨🇴",
+            "en": "Medellín 🇨🇴",
+            "es": "Medellín 🇨🇴"
+        },
+        "coords": [
+            6.245422,
+            -75.567678
+        ],
+        "image": "assets/images/colombia/medellin.gif",
+        "description": {
+            "fr": "💃 4/5 jour dans cette ville immense: objectif voir France-Maroc et découvrir les environs",
+            "en": "💃 4/5 days in this huge city: goal to watch France-Morocco match and explore surroundings",
+            "es": "💃 4/5 días en esta enorme ciudad: objetivo ver Francia-Marruecos y explorar los alrededores"
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "distance": 337
+    },
+    {
+        "name": {
+            "fr": "Salento 🇨🇴",
+            "en": "Salento 🇨🇴",
+            "es": "Salento 🇨🇴"
+        },
+        "coords": [
+            4.637883,
+            -75.570507
+        ],
+        "image": "assets/images/colombia/salento.jpeg",
+        "description": {
+            "fr": "L'espagne nous met 2-0 on est pas au top..",
+            "en": "Spain beats us 2-0, not feeling great..",
+            "es": "España nos gana 2-0, bajón total.."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "distance": 205
+    },
+    {
+        "name": {
+            "fr": "Calí 🇨🇴",
+            "en": "Cali 🇨🇴",
+            "es": "Cali 🇨🇴"
+        },
+        "coords": [
+            3.461701,
+            -76.530937
+        ],
+        "image": "assets/images/colombia/cali.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/colombia/transipiales.jpeg",
+        "transport_description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "distance": 740
+    }
+]

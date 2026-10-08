@@ -48,6 +48,18 @@ layout: none
         <img src="assets/images/header/rose-des-vents.png" class="header-rdv">
         <img src="assets/images/header/loutre.png" class="header-loutre">
     </div>
+
+<div class="lang-selector">
+  <button class="lang-btn" id="lang-btn" aria-label="Changer de langue">
+    <span class="lang-flag" id="current-flag">🇫🇷</span>
+    <span class="lang-arrow">▾</span>
+  </button>
+  <ul class="lang-dropdown" id="lang-dropdown">
+    <li data-lang="fr"><span class="flag">🇫🇷</span> Français</li>
+    <li data-lang="en"><span class="flag">🇬🇧</span> English</li>
+    <li data-lang="es"><span class="flag">🇪🇸</span> Español</li>
+  </ul>
+</div>
 </header>
 
 <div id="map">

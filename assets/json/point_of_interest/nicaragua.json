@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Canasson",
+        "coords": [
+            12.395387,
+            -87.067283
+        ],
+        "description": "Première fois sur un canasson super rapdide!",
+        "icon": "pets",
+        "image": "assets/images/nicaragua/canasson-turtle.jpeg"
+    },
+    {
+        "name": "La Paloma Ometepe Airport",
+        "coords": [
+            11.523696,
+            -85.703194
+        ],
+        "icon": "motorcycle",
+        "image": "assets/images/nicaragua/moto-ometepe.jpeg"
+    },
+    {
+        "name": "Kitesurf Ometepe 🤙",
+        "coords": [
+            11.497222,
+            -85.546445
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/nicaragua/kitesurf-ometepe.jpeg"
+    },
+    {
+        "name": "Youp Youp",
+        "coords": [
+            11.523730,
+            -85.528414
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/nicaragua/ometepe-kitesurf.gif"
+    },
+    {
+        "name": "L'envol du bird",
+        "coords": [
+            11.440975,
+            -85.560548
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/jump-ometepe.jpeg"
+    },
+    {
+        "name": "Kayak pour aller voir les caïmans",
+        "coords": [
+            11.479684,
+            -85.561584
+        ],
+        "icon": "kayaking",
+        "image": "assets/images/nicaragua/kayak-caiman.jpeg"
+    },
+    {
+        "name": "Caïmans à fleur de kayak",
+        "coords": [
+            11.481061,
+            -85.558858
+        ],
+        "icon": "kayaking",
+        "image": "assets/images/nicaragua/ometepe-caiman.gif"
+    },
+    {
+        "name": "Finca Mystica",
+        "coords": [
+            11.438150,
+            -85.546551
+        ],
+        "icon": "park",
+        "image": "assets/images/nicaragua/tarzan-ometepe.jpeg"
+    },
+    {
+        "name": "Fourmis Porteuse de feuille",
+        "coords": [
+            11.432949,
+            -85.520978
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/ometepe-fourmis.gif"
+    },
+    {
+        "name": "First time moto",
+        "coords": [
+            11.512106,
+            -85.714634
+        ],
+        "description": "Apprentissage de passage des vitesses en moto en vue de devenir le KTM guy.",
+        "icon": "motorcycle",
+        "image": "assets/images/nicaragua/ometepe-moto-1.gif"
+    },
+    {
+        "name": "Plouf",
+        "coords": [
+            11.440816,
+            -85.561102
+        ],
+        "icon": "water",
+        "image": "assets/images/nicaragua/ometepe-jump.gif"
+    },
+    {
+        "name": "Telica",
+        "coords": [
+            12.604867,
+            -86.840145
+        ],
+        "icon": "hiking",
+        "description": "Super rando: 22km A/R, petit bivouac en tente à 300m du sommet du cratère. La saison des pluies arrive donc il fait très chaud, rando sous 34°C donc pas facile!<br>Bonus: au matin on se retrouve entouré par un troupeau de vache avec des cornes de 50cm de long, ça fait pas les malins.",
+        "image": "assets/images/nicaragua/volcan-telica.jpeg"
+    },
+    {
+        "name": "Bouseux en difficultés",
+        "coords": [
+            12.605707,
+            -86.834240
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/telica-bouseux.gif",
+        "description": "pierre qui roule n'amasse pas mousse: en l'occurence ils sont bloqués!"
+    },
+    {
+        "name": "Batcave",
+        "coords": [
+            12.609560,
+            -86.842737
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/telica-batcave.gif"
+    },
+    {
+        "name": "Giga gros crapaud en bas des escaliers",
+        "coords": [
+            12.389914,
+            -87.059220
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/surfing-turtle-crapaud.jpeg"
+    },
+    {
+        "name": "Giga gros crabe fait un ptit coucou",
+        "coords": [
+            12.391148,
+            -87.059057
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/poneloya-crabe.gif"
+    },
+    {
+        "name": "Un des plus beaux",
+        "coords": [
+            12.397025,
+            -87.071239
+        ],
+        "icon": "wb_twilight",
+        "image": "assets/images/nicaragua/poneloya-sunset.gif"
+    },
+    {
+        "name": "Petit tour de pêche avec des locaux",
+        "coords": [
+            11.347385,
+            -86.069672
+        ],
+        "icon": "phishing",
+        "image": "assets/images/nicaragua/fishing.gif"
+    },
+    {
+        "name": "La pêche du jour!",
+        "coords": [
+            11.346333,
+            -86.047553
+        ],
+        "icon": "phishing",
+        "image": "assets/images/nicaragua/fish.jpeg"
+    },
+    {
+        "name": "El remanzo 🫶",
+        "coords": [
+            11.220681,
+            -85.848501
+        ],
+        "icon": "surfing",
+        "image": "assets/images/nicaragua/el-remanzo.jpeg",
+        "description": "Gros coup de coeur pour ce spot! On a pu bien progresser!"
+    },
+    {
+        "name": "Night Monos",
+        "coords": [
+            11.383960,
+            -86.035541
+        ],
+        "icon": "pets",
+        "image": "assets/images/nicaragua/monkey-popoyo.gif",
+        "description": "l'heure d'aller au lit"
+    }
+]

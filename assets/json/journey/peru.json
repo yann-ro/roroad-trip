@@ -1,0 +1,22 @@
+[
+    {
+        "name": {
+            "fr": "Máncora 🇵🇪",
+            "en": "Máncora 🇵🇪",
+            "es": "Máncora 🇵🇪"
+        },
+        "coords": [
+            -4.104700,
+            -81.046840
+        ],
+        "image": "assets/images/peru/mancora.gif",
+        "description": {
+            "fr": "2 mois de demi dans le petit paradis de Wild Kite Peru",
+            "en": "2 and a half months in the little paradise of Wild Kite Peru",
+            "es": "2 meses y medio en el pequeño paraíso de Wild Kite Peru"
+        },
+        "subpage_path": "assets/subpages/mancora",
+        "transport": "bus",
+        "distance": 0
+    }
+]

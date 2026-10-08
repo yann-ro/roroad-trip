@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Plouf jambes en vrac",
+        "coords": [
+            13.862744,
+            -89.543323
+        ],
+        "icon": "water",
+        "image": "assets/images/salvador/coatepeque-jump.gif"
+    },
+    {
+        "name": "Santa Ana",
+        "coords": [
+            13.848563,
+            -89.629628
+        ],
+        "icon": "volcano",
+        "image": "assets/images/salvador/santa-ana.jpeg"
+    },
+    {
+        "name": "Las Siete Cascadas",
+        "coords": [
+            13.840766,
+            -89.730831
+        ],
+        "icon": "water",
+        "image": "assets/images/salvador/juayua-7-cascadas.gif"
+    }
+]

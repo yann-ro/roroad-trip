@@ -1,0 +1,268 @@
+[
+    {
+        "name": {
+            "fr": "Morlaàs 🇫🇷",
+            "en": "Morlaàs 🇫🇷",
+            "es": "Morlaàs 🇫🇷"
+        },
+        "coords": [
+            43.343897,
+            -0.259039
+        ],
+        "description": {
+            "fr": "Derniers petits préparatifs: préparation du sac, on met tout ce dont on a besoin et hop un petit tour en montagne avant de se lancer dans l'aventure!",
+            "en": "Final preparations: packing the bag, putting in everything we need, and off for a quick mountain hike before starting the adventure!",
+            "es": "Últimos preparativos: hacer la mochila, poner todo lo necesario y ¡una excursión por la montaña antes de empezar la aventura!"
+        },
+        "transport": "car",
+        "image": "assets/images/transat-aller/morlaas.jpeg",
+        "distance": 151
+    },
+    {
+        "name": {
+            "fr": "Hendaye 🇫🇷",
+            "en": "Hendaye 🇫🇷",
+            "es": "Hendaye 🇫🇷"
+        },
+        "coords": [
+            43.3594,
+            -1.7661
+        ],
+        "description": {
+            "fr": "C'est le grand départ ! On dit au revoir à la famille et on est parti pour un peu de train.",
+            "en": "It's the big departure! Saying goodbye to the family and taking the train.",
+            "es": "¡Es la gran salida! Nos despedimos de la familia y tomamos el tren."
+        },
+        "transport": "train",
+        "image": "assets/images/transat-aller/depart.jpeg",
+        "transport_image": "assets/images/transat-aller/euskotren.jpeg",
+        "transport_description": {
+            "fr": "Topo, Euskotren, 40min",
+            "en": "Topo, Euskotren, 40min",
+            "es": "Topo, Euskotren, 40min"
+        },
+        "distance": 21
+    },
+    {
+        "name": {
+            "fr": "San Sebastián 🇪🇸",
+            "en": "San Sebastián 🇪🇸",
+            "es": "San Sebastián 🇪🇸"
+        },
+        "coords": [
+            43.3183,
+            -1.9812
+        ],
+        "description": {
+            "fr": "Nuit au Colo Colo Hostel, le concept de micro chambre superposée est original et confortable ! A deux pas de la gare c'est parfait pour le départ le lendemain à 4h55!",
+            "en": "Night at Colo Colo Hostel, the bunk micro-room concept is original and comfortable! Right next to the station, perfect for the departure the next day at 4:55 AM!",
+            "es": "Noche en Colo Colo Hostel, ¡el concepto de microhabitación litera es original y cómodo! Muy cerca de la estación, perfecto para salir al día siguiente a las 4:55."
+        },
+        "image": "assets/images/poi/coloco.gif",
+        "transport": "train",
+        "transport_description": {
+            "fr": "Renfe, 5h",
+            "en": "Renfe, 5h",
+            "es": "Renfe, 5h"
+        },
+        "transport_image": "assets/images/transat-aller/renfe.jpeg",
+        "distance": 454
+    },
+    {
+        "name": {
+            "fr": "Madrid 🇪🇸",
+            "en": "Madrid 🇪🇸",
+            "es": "Madrid 🇪🇸"
+        },
+        "coords": [
+            40.4165,
+            -3.7026
+        ],
+        "description": {
+            "fr": "5h de transition entre le 2nd et le 3e train. Chill dans la gare, petit sandwich et petit livre sur la liseuse 💭",
+            "en": "5-hour layover between the 2nd and 3rd train. Chilling in the station, quick sandwich and reading an e-book 💭",
+            "es": "Transición de 5 horas entre el segundo y el tercer tren. Descanso en la estación, bocadillo y libro en el e-reader 💭"
+        },
+        "image": "assets/images/transat-aller/estacion-atocha.jpeg",
+        "transport": "train",
+        "transport_description": {
+            "fr": "Renfe, 2h50",
+            "en": "Renfe, 2h50",
+            "es": "Renfe, 2h50"
+        },
+        "transport_image": "assets/images/transat-aller/renfe.jpeg",
+        "distance": 530
+    },
+    {
+        "name": {
+            "fr": "Sevilla 🇪🇸",
+            "en": "Seville 🇪🇸",
+            "es": "Sevilla 🇪🇸"
+        },
+        "coords": [
+            37.3891,
+            -5.9845
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "image": "assets/images/transat-aller/sevilla.jpeg",
+        "transport": "train",
+        "transport_image": "assets/images/transat-aller/renfe.jpeg",
+        "transport_description": {
+            "fr": "Renfe, 1h50",
+            "en": "Renfe, 1h50",
+            "es": "Renfe, 1h50"
+        },
+        "distance": 135
+    },
+    {
+        "name": {
+            "fr": "Cádiz 🇪🇸",
+            "en": "Cádiz 🇪🇸",
+            "es": "Cádiz 🇪🇸"
+        },
+        "coords": [
+            36.5271,
+            -6.2886
+        ],
+        "description": {
+            "fr": "Début de l'aventure en mer, départ du ferry au port de Cádiz!",
+            "en": "Start of the sea adventure, ferry departure at the port of Cádiz!",
+            "es": "¡Comienzo de la aventura en el mar, salida del ferry en el puerto de Cádiz!"
+        },
+        "transport": "ferry",
+        "transport_image": "assets/images/transat-aller/armas.jpeg",
+        "transport_description": {
+            "fr": "Armas, Ciudad de Valencia: 26h. Rencontre de David 🇪🇸 qui va se trouver avoir un rôle important dans la suite de l'aventure: il a déjà trouvé une embarcation. Ses skills en espagnol permettent de transformer la traversée en véritable séjour linguistique pour tout l'équipage. Clou du specatacle il leur manque une 4e personne suite à l'annulation last minute de son collègue. La bonne fortune semblant être de mon côté je saisi l'occasion illicot. Et on prie pour qu'il y ait un bon fit avec le capitaine!",
+            "en": "Armas, Ciudad de Valencia: 26h. Met David 🇪🇸 who turns out to play a key role in the journey: he already found a boat. His Spanish skills turn the crossing into a language trip for the whole crew. Highlights: they were missing a 4th person after a last-minute cancellation. Fortune being on my side, I jump at the chance right away. Fingers crossed for a good fit with the captain!",
+            "es": "Armas, Ciudad de Valencia: 26h. Conozco a David 🇪🇸, que tendrá un papel importante en la aventura: ya encontró embarcación. Sus conocimientos de español transforman la travesía en una estancia lingüística para toda la tripulación. Lo mejor: les falta una 4ª persona tras una cancelación de última hora. Como la suerte está de mi lado, aprovecho la oportunidad de inmediato. ¡Y rezamos para encajar bien con el capitán!"
+        },
+        "distance": 1080
+    },
+    {
+        "name": {
+            "fr": "Arrecife 🇮🇨",
+            "en": "Arrecife 🇮🇨",
+            "es": "Arrecife 🇮🇨"
+        },
+        "coords": [
+            28.9635,
+            -13.5477
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "ferry",
+        "transport_image": "assets/images/transat-aller/armas.jpeg",
+        "transport_description": {
+            "fr": "Armas, Ciudad de Valencia: 2h. Wah ça commence à être long",
+            "en": "Armas, Ciudad de Valencia: 2h. Wow, starting to feel long",
+            "es": "Armas, Ciudad de Valencia: 2h. Uf, empieza a hacerse largo"
+        },
+        "distance": 63
+    },
+    {
+        "name": {
+            "fr": "Puerto del Rosario 🇮🇨",
+            "en": "Puerto del Rosario 🇮🇨",
+            "es": "Puerto del Rosario 🇮🇨"
+        },
+        "coords": [
+            28.5008,
+            -13.8627
+        ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "ferry",
+        "transport_image": "assets/images/transat-aller/armas.jpeg",
+        "transport_description": {
+            "fr": "Armas, Ciudad de Valencia: 5h. Aller bientôt arrivé. Premiers échanges whatsapp avec Fabrice, le capitaine, ça a l'air de matcher 😍.",
+            "en": "Armas, Ciudad de Valencia: 5h. Almost there. First WhatsApp messages with Fabrice, the captain, looks like a great match 😍.",
+            "es": "Armas, Ciudad de Valencia: 5h. Casi llegamos. Primeros mensajes de WhatsApp con Fabrice, el capitán, ¡pinta genial! 😍"
+        },
+        "distance": 176
+    },
+    {
+        "name": {
+            "fr": "Las Palmas (Gran Canaria) 🇮🇨",
+            "en": "Las Palmas (Gran Canaria) 🇮🇨",
+            "es": "Las Palmas (Gran Canaria) 🇮🇨"
+        },
+        "coords": [
+            28.1248,
+            -15.43
+        ],
+        "description": {
+            "fr": "Rencontre avec Fabrice et Annie, deux bretons propriétaires d'un petit bateau de 37 pieds (~12m), en vadrouille en direction de la guadeoupe. Après des cafés au port, un petit tour de check et de disucssions tout se passe bien et on se lance pour la suite de l'aventure! ⛵️",
+            "en": "Meeting Fabrice and Annie, two sailors from Brittany owning a 37-foot (~12m) sailboat heading to Guadeloupe. After coffee at the port, a quick check-up, and talks, everything goes smoothly and off we go! ⛵️",
+            "es": "Encuentro con Fabrice y Annie, dos bretones propietarios de un velero de 37 pies (~12m) rumbo a Guadalupe. Tras unos cafés en el puerto, revisiones y charlas, ¡todo va sobre ruedas y nos lanzamos a la aventura! ⛵️"
+        },
+        "image": "assets/images/transat-aller/palmas.jpeg",
+        "transport": "voilier",
+        "transport_image": "assets/images/transat-aller/boat-canaries.jpeg",
+        "transport_description": {
+            "fr": "Oceanis 37, 5j de navigation comme prévu ! Premières navigation de nuit (quarts) for le moussaillon !! La surveillance de Fabrice reste de la partie, il nous laisse prendre nos quarts tout en veillant au grain pour les premières nuits. L'ambiance est bonne, ça chante, ça forme les mousses sur les petits tips cuisine, le niveau en espagnol se décrasse, les pages des livres tournes et les jours passent !",
+            "en": "Oceanis 37, 5 days sailing as planned! First night shifts (watches) for the deckhand!! Fabrice stays watchful, letting us take turns while keeping an eye out for the first nights. Atmosphere is great, singing, cooking tips, brushing up Spanish, turning book pages as days fly by!",
+            "es": "Oceanis 37, ¡5 días de navegación según lo previsto! Primeras guardias nocturnas para el grumete. Fabrice nos vigila atentamente las primeras noches. Buen ambiente, canciones, trucos de cocina, practicando español, devorando libros ¡y los días pasan volando!"
+        },
+        "distance": 1570
+    },
+    {
+        "name": {
+            "fr": "Cap-Vert 🇨🇻",
+            "en": "Cape Verde 🇨🇻",
+            "es": "Cabo Verde 🇨🇻"
+        },
+        "coords": [
+            16.8802,
+            -24.98
+        ],
+        "description": {
+            "fr": "Quatre jours d'escale le temps de fixer un peu d'électronique, faire le plein de courses, louer une aile de kite sur une demi journée et c'est reparti! On loupe le carnaval de Mindello de peu, la ville en pleine préparation reste quand même super sympa et très vivante !!",
+            "en": "Four days stopover to fix electronics, restock groceries, rent a kite for half a day and off again! Barely missed Mindelo carnival, but the city preparing for it was super nice and lively!!",
+            "es": "Cuatro días de escala para reparar electrónica, hacer compras, alquilar una cometa de kite media jornada y ¡listos! Nos perdimos el carnaval de Mindelo por poco, pero la ciudad en preparativos estaba genial y muy animada."
+        },
+        "transport": "voilier",
+        "image": "assets/images/transat-aller/cap-vert.jpeg",
+        "transport_description": {
+            "fr": "On continue sur l'océanis pour 16j de voile !!<br>On s'est bien fait secouer au début, pas mal de vent pas mal de houle. Traversée inroyable, les quarts de nuits avec les étoiles, regarder l'AIS pour ne pas foncer sur un cargot, les petites salades de riz, mais très content d'arriver!<br><br>note: Une coque de téléphone étanche avec une visse en moins n'est donc pas une coque étanche; le téléphone a pris l'eau pendant la traversée, les photos qui s'envolent..",
+            "en": "Continuing on the Oceanis for 16 days of sailing!!<br>Got shaken up at first with good wind and swell. Incredible crossing, starry night watches, watching AIS to avoid cargo ships, rice salads, but so happy to arrive!<br><br>note: A waterproof phone case missing a screw is not waterproof; phone got water damaged during the trip, lost photos..",
+            "es": "¡Continuamos en el Oceanis durante 16 días de navegación!<br>Al principio hubo bastante viento y olas. Una travesía increíble: guardias de noche bajo las estrellas, revisar el AIS para no chocar con cargueros, ensaladas de arroz... ¡pero muy contento de llegar!<br><br>nota: Una funda de teléfono impermeable a la que le falta un tornillo NO es impermeable; el teléfono se mojó y se perdieron fotos.."
+        },
+        "transport_image": "assets/images/transat-aller/transat.jpeg",
+        "distance": 3890
+    },
+    {
+        "name": {
+            "fr": "Guadeloupe 🇬🇵",
+            "en": "Guadeloupe 🇬🇵",
+            "es": "Guadalupe 🇬🇵"
+        },
+        "coords": [
+            16.265,
+            -61.551
+        ],
+        "description": {
+            "fr": "La terre ferme !! Bien creuvé du périple, sieste, grasse mat, toute forme de flânerie est de la partie. 4j pour visiter l'île! Premier Ti' punch d'arrivée",
+            "en": "Dry land!! Exhausted from the journey: naps, sleeping in, total relaxation. 4 days to explore the island! First welcoming Ti' punch",
+            "es": "¡Tierra firme! Exhausto del viaje: siestas, dormir hasta tarde y descanso total. ¡4 días para explorar la isla! Primer Ti' punch de bienvenida"
+        },
+        "transport": "avion",
+        "image": "assets/images/transat-aller/guadeloupe.jpeg",
+        "transport_description": {
+            "fr": "Coup de fil avec, Adriana: Volontariat à Ikarus au Mexique validé!<br><br>La période des vents n'étant pas extensible, je saute dans un avion direction le Yucatán !!",
+            "en": "Phone call with Adriana: Volunteering at Ikarus in Mexico confirmed!<br><br>Wind season won't wait, jumping on a plane to Yucatán!!",
+            "es": "Llamada con Adriana: ¡Voluntariado en Ikarus en México confirmado!<br><br>La temporada de viento no dura siempre, ¡así que me subo a un avión rumbo a Yucatán!"
+        },
+        "transport_image": "assets/images/transat-aller/aeroport-pp.jpeg",
+        "distance": 2700
+    }
+]

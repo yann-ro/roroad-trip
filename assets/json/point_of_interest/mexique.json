@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Iguana",
+        "coords": [
+            21.333,
+            -86.797
+        ],
+        "description": "Petite rencontre avec l'iguane local du spot d'Ikarus. En l'absence de vent il prend un petit bail de soleil sur les roches brûlantes.",
+        "icon": "pets",
+        "image": "assets/images/poi/iguana.jpeg"
+    },
+    {
+        "name": "Pelican",
+        "coords": [
+            21.35,
+            -86.791
+        ],
+        "description": "Pelicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau. Son air est menaçant mais il s'avère être assez sympathique.",
+        "icon": "pets",
+        "image": "assets/images/poi/pelican.jpeg"
+    },
+    {
+        "name": "Coati",
+        "coords": [
+            21.143247,
+            -86.838161
+        ],
+        "description": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement dans jardin Ecológico Kabah. C'est une espèce endémique d'Amérique latinequi ressemble à un mélange entre un suricat et un raton laveur.",
+        "icon": "pets",
+        "image": "assets/images/poi/coati.jpeg"
+    },
+    {
+        "name": "Canard Musque",
+        "coords": [
+            21.333,
+            -86.795
+        ],
+        "description": "Locataire de Ikarus et grand aviateur, il aime se poser sur le toit des voitures pour profiter de la vue.",
+        "icon": "pets",
+        "image": "assets/images/poi/canard-musque.jpeg"
+    },
+    {
+        "name": "Mue de Limule",
+        "coords": [
+            21.35,
+            -86.789
+        ],
+        "description": "Elles jonchent le rivage du spot d'Ikarus, je n'ai jamais pu les appercevoir de leur vivant. Leur apparence assez originale évoque à la fois des périodes préhistoriques, des tableaux comme ceux de Ruedi Gigger ou des films de science fictions. Dôté d'un sang bleu aux propriétés particulières, cet animal est très prisé par le monde du biomédical.",
+        "icon": "pets",
+        "image": "assets/images/poi/limule.jpeg"
+    },
+    {
+        "name": "Fedeeeerico",
+        "coords": [
+            21.320143,
+            -86.809245
+        ],
+        "description": "Globetrotter et prof de kite, c'est le mec stylé du spot! 🇮🇹 Il m'a donné de super conseils pour sauter plus haut et pas mals de tricks: Grazie Mille!!🤌",
+        "icon": "group",
+        "image": "assets/images/poi/federico.jpeg"
+    },
+    {
+        "name": "Mangrove",
+        "coords": [
+            21.35,
+            -86.793
+        ],
+        "description": "Ecosystem présent tout le long de la réserve naturelle de Chacmuchuch. L'arbre principal sont les étranges Palétuviers, dont les racines grandissent par leur branches qui forment des sortes d'échasse (similitude très forte à la forme finale d'Eren Jaeger) qui s'enracinent dans le sol. Par sa densité il forme un rempart de protections pour beaucoup d'espèces vivantes. J'ai un souvenir d'enfance d'avoir eu un jeu pour ordinateur qui donnait beaucoup d'informations sur cet écosysteme mais je n'arrive pas à me souvenir du nom (et visiblement c'est pas marine malice)L",
+        "icon": "eco",
+        "image": "assets/images/poi/mangrove.jpeg"
+    },
+    {
+        "name": "Tortue",
+        "coords": [
+            20.850263,
+            -86.871296
+        ],
+        "description": "Grâce incarnée, toujours très émouvant de faire sa rencontre sous l'eau, en bord de plage publique.",
+        "icon": "pets",
+        "image": "assets/images/poi/tortue_mx.jpeg"
+    },
+    {
+        "name": "Raie",
+        "coords": [
+            20.845571,
+            -86.869258
+        ],
+        "description": "Nageur hors pair, voltigeur aerien au dard qui laisse des souvenirs. Toujours un plaisir de nager avec lui, mais désormais au courant des dommages qu'il peut infliger, je concerve mes distances.",
+        "icon": "pets",
+        "image": "assets/images/poi/raie_mx.jpeg"
+    },
+    {
+        "name": "Singe Araignée",
+        "coords": [
+            20.845055,
+            -86.896551
+        ],
+        "description": "En direction du Jardín Botanico Dr. Alfredo Barrera Marín, cherchant à rencontrer ce primate, j'ai pu l'apperçevoir le long de la route. Ironiquement dans le parc, impossible de l'appercevoir, il devait faire la grasse mat.",
+        "icon": "pets",
+        "image": "assets/images/poi/singe_araignee.jpeg"
+    },
+    {
+        "name": "Agouti",
+        "coords": [
+            20.844618,
+            -86.903002
+        ],
+        "description": "Petit rongeur, difficile à se faire prendre en photo sans zoom, on peut le répérer assez facilement au bruit qu'il fait dans les feuilles mortes.",
+        "icon": "pets",
+        "image": "assets/images/poi/agouti.jpeg"
+    },
+    {
+        "name": "Renard Gris",
+        "coords": [
+            21.306262,
+            -86.813521
+        ],
+        "description": "Animal discret et difficile à prendre en photo. Apperçu le long de la route en attendant le colectivo. J'ai cru dans un premier temps qu'il s'agissait du mythique coyotte mais son physique est un peu plus petit.",
+        "icon": "pets",
+        "image": "assets/images/poi/renard_gris.jpeg"
+    },
+    {
+        "name": "Crocodile",
+        "coords": [
+            20.852450,
+            -86.887696
+        ],
+        "description": "Pas encore apperçu.. Le long de la route de 2km, je chercher à appercevoir ce mythique prédateur au travers des mangrove et marécage qui longent la route. Seuls les paneaux attestent de sa présence.",
+        "icon": "pets",
+        "image": "assets/images/poi/croco_mx.jpeg"
+    },
+    {
+        "name": "Punta Mosquito",
+        "coords": [
+            21.552801,
+            -87.347841
+        ],
+        "description": "Petite promenade matinale dans un décors proche du fond d'écran windows. Randonnée sur la plage avec des passage de longe côte sportive sur des bancs de sables un peu plus au large.",
+        "icon": "group",
+        "image": "assets/images/trips/holbox/team.jpeg"
+    },
+    {
+        "name": "Holbox Volleyball",
+        "coords": [
+            21.527273,
+            -87.377650
+        ],
+        "description": "Je dépose le sac de courses qui me sert de sac de voyage et je rejoins ensuite le groupe de volontaires de l'hostel rencontré quelques minutes auparavant direction de terrain de volley. Le terrain est un peu le lieu social où pas mal de jeunes se rejoingnent à partir de 17h30. Grand mix que ce soit des tourristes, locaux qui travaillent pour les écoles de plongées ou volontaires des hostels.  Assis sur une barque retournée en guise de tribune, ça papote, ça regarde le coucher du soleil et ça joue. Celui qui gagne reste donc une ambiance détendue sous fond de compétition!",
+        "icon": "group",
+        "image": "assets/images/trips/holbox/volley.jpeg"
+    },
+    {
+        "name": "Mayan Monkey",
+        "coords": [
+            21.215827,
+            -86.725826
+        ],
+        "description": "Jour de repos: quizz de culture générale, farniente les pieds dans l'eau avec un maillot oublié à la maison.",
+        "icon": "group",
+        "image": "assets/images/trips/isla-mujeres/mayan-monkey.jpeg"
+    },
+    {
+        "name": "Nilu party",
+        "coords": [
+            21.259233,
+            -86.747556
+        ],
+        "description": "Les pieds dans le sable on profite de la musique 🎶",
+        "icon": "group",
+        "image": "assets/images/trips/isla-mujeres/nilu.jpeg"
+    },
+    {
+        "name": "Tulum la street",
+        "coords": [
+            20.205466,
+            -87.464560
+        ],
+        "description": "",
+        "icon": "group",
+        "image": "assets/images/trips/tulum/clara.jpeg"
+    },
+    {
+        "name": "Tortue x Raies",
+        "coords": [
+            20.219683,
+            -87.410213
+        ],
+        "description": "Danse avec la tortue et les raies en face des ruines maya de Tulum.<br><br>L'envers du décors c'est que le rivage est couvert d'un quantité astronomique de sargasse.",
+        "icon": "pets",
+        "image": "assets/images/trips/tulum/tortue-tulum.gif"
+    },
+    {
+        "name": "Front Roll on sunset 🤘",
+        "coords": [
+            21.325667,
+            -86.833007
+        ],
+        "icon": "kitesurfing",
+        "image": "assets/images/mexico/ikarus-kitesurf.gif"
+    },
+    {
+        "name": "Passion cailloux",
+        "coords": [
+            21.321149,
+            -86.812796
+        ],
+        "icon": "self_improvement",
+        "image": "assets/images/mexico/ikarus-ricochet.gif"
+    }
+]

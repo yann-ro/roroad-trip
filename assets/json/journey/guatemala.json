@@ -1,0 +1,135 @@
+[
+    {
+        "name": {
+            "fr": "Flores 🇬🇹",
+            "en": "Flores 🇬🇹",
+            "es": "Flores 🇬🇹"
+        },
+        "coords": [
+            16.921120,
+            -89.895616
+        ],
+        "image": "assets/images/guatemala/flores.jpeg",
+        "description": {
+            "fr": "Arrivé au Guatemala: c'est incroyable!<br>L'ambiance backpacker de la ville est super cool, toute la vie s'organise autour du lac! On mange des tacos/burritos/quesadilla pour 20 Quetzal (2.3€).<br>Au programme: chiller à la jumping rope, visite des ruines maya du Tikal, s'auter du ponton, jeux de sociétés.",
+            "en": "Arrived in Guatemala: incredible!<br>Backpacker vibe in town is amazing, life revolves around the lake! Eating tacos/burritos/quesadillas for 20 Quetzales (€2.3).<br>On the menu: rope swing chill, visiting Tikal Maya ruins, dock jumping, board games.",
+            "es": "Llegada a Guatemala: ¡increíble!<br>El ambiente mochilero es genial, ¡la vida gira en torno al lago! Comemos tacos/burritos/quesadillas por 20 Quetzales (2,3€).<br>Plan: descanso en la cuerda de salto, visita a las ruinas mayas de Tikal, saltos al agua y juegos de mesa."
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "8h de Bus! Super ambiance avec l'équipe faite à Flores: Betty (🇩🇪) Ruben (🇬🇧) & Joe (🇬🇧).",
+            "en": "8h Bus! Great atmosphere with the squad from Flores: Betty (🇩🇪) Ruben (🇬🇧) & Joe (🇬🇧).",
+            "es": "¡8h de bus! Excelente ambiente con el grupo de Flores: Betty (🇩🇪) Ruben (🇬🇧) y Joe (🇬🇧)."
+        },
+        "transport_image": "assets/images/guatemala/bus-lanquin.jpeg",
+        "distance": 308
+    },
+    {
+        "name": {
+            "fr": "Lanquìn 🇬🇹",
+            "en": "Lanquìn 🇬🇹",
+            "es": "Lanquìn 🇬🇹"
+        },
+        "coords": [
+            15.576002,
+            -89.980107
+        ],
+        "image": "assets/images/guatemala/lanquin.jpeg",
+        "description": {
+            "fr": "Petite escale de 2j dans cette ville perdue au milieu de la jungle guatemaltèque, connue pour les Semuc Champey et ses grottes. Toujours avec le même petit groupe on part en exploration dans les alentours.",
+            "en": "2-day stop in this remote town amid Guatemalan jungle, famous for Semuc Champey and its caves. Exploring surroundings with the same squad.",
+            "es": "Escala de 2 días en esta ciudad en mitad de la selva guatemalteca, conocida por Semuc Champey y sus cuevas. Explorando con el mismo grupo."
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/guatemala/bus-xela.jpeg",
+        "transport_description": {
+            "fr": "10h de Bus avec Tori (🇳🇱) et Jori (🇳🇱)! Un groupe d'anglais a visiblement gagné au bière-pong la veille, casse la tête à parler super fort et rend le trajet interminable.. 🙃",
+            "en": "10h Bus with Tori (🇳🇱) and Jori (🇳🇱)! A group of Brits clearly won beer pong last night, talking super loud and making the ride endless.. 🙃",
+            "es": "¡10h de bus con Tori (🇳🇱) y Jori (🇳🇱)! Un grupo de británicos ganó al beer pong anoche, hablan a gritos y hacen el viaje eterno.. 🙃"
+        },
+        "distance": 276
+    },
+    {
+        "name": {
+            "fr": "Xela (Quetzaltenango) 🇬🇹",
+            "en": "Xela (Quetzaltenango) 🇬🇹",
+            "es": "Xela (Quetzaltenango) 🇬🇹"
+        },
+        "coords": [
+            14.855165,
+            -91.527350
+        ],
+        "image": "assets/images/guatemala/xela.jpeg",
+        "description": {
+            "fr": "5 jours à Xela avec pour objectif de partir à l'assaut des volcans! La ville est située à 2300m, assez paisible, moins toursitique que sa voisine Antigua ou que le lac Antitlan mais avec beaucoup de charme! Arrivé au Kiwi Hostel ce sera le point de départ pour plusieurs aventures.",
+            "en": "5 days in Xela to tackle volcanoes! City sits at 2300m, peaceful, less touristic than Antigua or Lake Atitlán, but charming! Kiwi Hostel is our basecamp.",
+            "es": "5 días en Xela para subir volcanes. Ciudad a 2300m, tranquila, menos turística que Antigua o el lago Atitlán pero con mucho encanto. Kiwi Hostel será el campamento base."
+        },
+        "transport": "bus",
+        "transport_image": "assets/images/guatemala/chicken-bus.jpeg",
+        "transport_description": {
+            "fr": "2h30: combo chicken bus et autostop pour arriver à Chichicastenango",
+            "en": "2h30: combo chicken bus and hitchhiking to reach Chichicastenango",
+            "es": "2h30: mezcla de chicken bus y autostop para llegar a Chichicastenango"
+        },
+        "distance": 92
+    },
+    {
+        "name": {
+            "fr": "Chichicastenango 🇬🇹",
+            "en": "Chichicastenango 🇬🇹",
+            "es": "Chichicastenango 🇬🇹"
+        },
+        "coords": [
+            14.943513,
+            -91.110236
+        ],
+        "image": "assets/images/guatemala/chichicastenango.jpeg",
+        "description": {
+            "fr": "1 jour à Chichicastenango pour chiller puis faire le marcher le lendemain matin. Ville super sympa connue pour son marché! Attention à partir de 10h une arrivée massive de gringos pour visiter.",
+            "en": "1 day in Chichicastenango chilling, visiting market next morning. Lovely town famous for its market! Note: huge influx of tourists starting around 10am.",
+            "es": "1 día en Chichicastenango descansando y mercado a la mañana siguiente. ¡Ciudad bonita famosa por su mercado! Ojo: avalancha de turistas a partir de las 10am."
+        },
+        "transport": "bus",
+        "distance": 105
+    },
+    {
+        "name": {
+            "fr": "Antigua 🇬🇹",
+            "en": "Antigua 🇬🇹",
+            "es": "Antigua 🇬🇹"
+        },
+        "coords": [
+            14.556485,
+            -90.734507
+        ],
+        "image": "assets/images/guatemala/antigua.jpeg",
+        "description": {
+            "fr": "On part à l'assaut du Fuego. Arrivé le soir, la ville est très belle mais beaucoup de commerces américains, de cafés européens. Dans les rues c'est le ballet des patagonias, lunette de vitesse et autre attirail de trekkeur! Je comptais rester plus de temps dans la ville mais je ne resterai qu'une nuit le temps de faire le bivouac du Fuego!",
+            "en": "Tackling Fuego volcano. Arrived at night, beautiful town but very westernized (US shops, European cafes). Streets full of hikers with Patagonia jackets and speed sunglasses! Planned to stay longer but stayed only 1 night for the Fuego overnight hike!",
+            "es": "A la conquista de Fuego. Llegada de noche, ciudad muy bonita pero muy occidentalizada. Calles llenas de montañeros con ropa de marca y gafas rápidas. Pensaba quedarme más tiempo, pero solo me quedo una noche para el acampada en Fuego."
+        },
+        "transport": "autostop",
+        "transport_image": "assets/images/salvador/autostop-3.gif",
+        "distance": 104
+    },
+    {
+        "name": {
+            "fr": "El Paredón 🇬🇹",
+            "en": "El Paredón 🇬🇹",
+            "es": "El Paredón 🇬🇹"
+        },
+        "coords": [
+            13.918508,
+            -91.074542
+        ],
+        "description": {
+            "fr": "On part à l'assaut des vagues",
+            "en": "Ready to hit the waves",
+            "es": "Rumbo a surfear las olas"
+        },
+        "image": "assets/images/guatemala/paredon.jpeg",
+        "transport": "bus",
+        "distance": 309
+    }
+]

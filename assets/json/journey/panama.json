@@ -1,0 +1,100 @@
+[
+    {
+        "name": {
+            "fr": "Bocas del Toro 🇵🇦",
+            "en": "Bocas del Toro 🇵🇦",
+            "es": "Bocas del Toro 🇵🇦"
+        },
+        "coords": [
+            9.339285,
+            -82.237197
+        ],
+        "image": "assets/images/panama/bocas.jpeg",
+        "description": {
+            "fr": "5j dans l'archipelle",
+            "en": "5 days in the archipelago",
+            "es": "5 días en el archipiélago"
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "bus de nuit: très technique, arrivée à panama à 3h30 du matin. Je finis l'appel de la forêt en attendant l'ouverture du métro.",
+            "en": "night bus: tricky, arrived in Panama City at 3:30 AM. Finishing 'The Call of the Wild' while waiting for subway to open.",
+            "es": "autobús nocturno: técnico, llegada a Panamá a las 3:30 AM. Terminando 'La llamada de la selva' esperando a que abra el metro."
+        },
+        "distance": 608
+    },
+    {
+        "name": {
+            "fr": "Ciudad de Panamá 🇵🇦",
+            "en": "Panama City 🇵🇦",
+            "es": "Ciudad de Panamá 🇵🇦"
+        },
+        "coords": [
+            8.989095,
+            -79.521508
+        ],
+        "image": "assets/images/panama/panama-city.jpeg",
+        "description": {
+            "fr": "2 nuits en attendant le départ en bateau !! J'ai vraiment pas trop aimé la ville.. tout le monde claxonne vraiment tout le temps, que des gros suv pas facile de marcher.. Bonus visite du canal un peu décevante on voit pas grand chose ! aller la suite !!",
+            "en": "2 nights waiting for boat departure! Didn't really like the city... endless honking, big SUVs, hard to walk around.. Canal visit was a bit underwhelming. Next stop!!",
+            "es": "¡2 noches esperando la salida en barco! No me gustó mucho la ciudad... bocinas todo el tiempo, SUVs gigantes, difícil caminar. La visita al canal algo decepcionante. ¡A lo siguiente!"
+        },
+        "transport": "bus",
+        "transport_description": {
+            "fr": "2h de petit shuttle à 10 bien serrés sous la pluie ça s'annonce sportif!!",
+            "en": "2h small shuttle squeezed with 10 people in rainy weather, adventurous!!",
+            "es": "2h de furgoneta apretados 10 personas bajo la lluvia, ¡toda una aventura!"
+        },
+        "distance": 112
+    },
+    {
+        "name": {
+            "fr": "Puerto Lindo 🇵🇦",
+            "en": "Puerto Lindo 🇵🇦",
+            "es": "Puerto Lindo 🇵🇦"
+        },
+        "coords": [
+            9.604576,
+            -79.586428
+        ],
+        "image": "assets/images/panama/puerto-lindo.jpeg",
+        "description": {
+            "fr": "Hopla on saute dans le bateau pour 6j!! Direction carthagène avec un stop aux îles san blas.",
+            "en": "Hopping onto the boat for 6 days!! Heading to Cartagena with San Blas islands stop.",
+            "es": "¡Al barco 6 días! Rumbo a Cartagena con escala en las islas San Blas."
+        },
+        "transport": "voilier",
+        "transport_description": {
+            "fr": "Petite croisière sur 6j. La petite zone de terre entre le Panama et la colombie (le détroit de Darien) est connu pour être une zone sans routes, seulement des forêts fréquentées par les narcotrafficants. Autant dire, assez infranchissage. C'est donc à bord d'un voilier que nous faisons la traversée.",
+            "en": "6-day sailboat trip. The land gap between Panama and Colombia (Darien Gap) has no roads, just jungle. Quite impassable by land, so crossing by sailboat is the way.",
+            "es": "Crucero de 6 días. La franja de tierra entre Panamá y Colombia (Tapón del Darién) no tiene carreteras, solo selva. Imposible ir por tierra, así que cruzamos en velero."
+        },
+        "transport_image": "assets/images/panama/boat-sanblas.jpeg",
+        "distance": 92
+    },
+    {
+        "name": {
+            "fr": "San Blas 🇵🇦",
+            "en": "San Blas 🇵🇦",
+            "es": "San Blas 🇵🇦"
+        },
+        "coords": [
+            9.542282,
+            -78.782348
+        ],
+        "image": "assets/images/panama/sanblas-one-island.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "voilier",
+        "transport_description": {
+            "fr": "2j de navigation, tranquillou on arrive à la grande ville!",
+            "en": "2 days smooth sailing, reaching the big city!",
+            "es": "¡2 días de navegación tranquila llegando a la gran ciudad!"
+        },
+        "transport_image": "assets/images/panama/crew.jpeg",
+        "distance": 390
+    }
+]
