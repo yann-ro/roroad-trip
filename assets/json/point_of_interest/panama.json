@@ -1,92 +1,164 @@
 [
     {
-        "name": "On a retrouvé Patrick!",
+        "name": {
+            "fr": "On a retrouvé Patrick!",
+            "en": "Found Patrick Star!",
+            "es": "¡Encontramos a Patricio!"
+        },
         "coords": [
             9.405106,
             -82.324483
         ],
         "icon": "pets",
         "image": "assets/images/panama/patrick.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Pas trop vite",
+        "name": {
+            "fr": "Pas trop vite",
+            "en": "Not too fast",
+            "es": "Sin prisa"
+        },
         "coords": [
             9.413029,
             -82.331100
         ],
         "icon": "pets",
         "image": "assets/images/panama/speed.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Plouf",
+        "name": {
+            "fr": "Plouf",
+            "en": "Splash",
+            "es": "Chof"
+        },
         "coords": [
             9.587566,
             -78.880935
         ],
         "icon": "water",
         "image": "assets/images/panama/sanblas-dive.gif",
-        "description": "Après un premier bout de chemin c'est le grand plouf"
+        "description": {
+            "fr": "Après un premier bout de chemin c'est le grand plouf",
+            "en": "After the first leg of the trip, time for a big dive",
+            "es": "Tras la primera parte del trayecto, ¡al agua!"
+        }
     },
     {
-        "name": "♠️♥️♣️♦️",
+        "name": {
+            "fr": "♠️♥️♣️♦️",
+            "en": "♠️♥️♣️♦️",
+            "es": "♠️♥️♣️♦️"
+        },
         "coords": [
             9.852577,
             -77.312955
         ],
         "icon": "group",
         "image": "assets/images/panama/sanblas-cards.gif",
-        "description": "Petite soirée à jouer au 'shit head'"
+        "description": {
+            "fr": "Petite soirée à jouer au 'shit head'",
+            "en": "Fun evening playing 'Shit Head'",
+            "es": "Noche de juegos jugando al 'Shit Head'"
+        }
     },
     {
-        "name": "Nurse Shark",
+        "name": {
+            "fr": "Nurse Shark",
+            "en": "Nurse Shark",
+            "es": "Tiburón nodriza"
+        },
         "coords": [
             9.580163,
             -78.721249
         ],
         "icon": "pets",
         "image": "assets/images/panama/nurse-shark.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Au top",
+        "name": {
+            "fr": "Au top",
+            "en": "On top of the world",
+            "es": "De maravilla"
+        },
         "coords": [
             9.577900,
             -78.721244
         ],
         "icon": "",
         "image": "assets/images/panama/hamac.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Brasero",
+        "name": {
+            "fr": "Brasero",
+            "en": "Bonfire",
+            "es": "Hoguera"
+        },
         "coords": [
             9.578296,
             -78.723176
         ],
         "icon": "",
         "image": "assets/images/panama/fire.jpeg",
-        "description": "Dernier feu avant le départ dans la nuit"
+        "description": {
+            "fr": "Dernier feu avant le départ dans la nuit",
+            "en": "Final campfire before setting off into the night",
+            "es": "Última fogata antes de salir por la noche"
+        }
     },
     {
-        "name": "Best cooker",
+        "name": {
+            "fr": "Best cooker",
+            "en": "Best cook",
+            "es": "El mejor cocinero"
+        },
         "coords": [
             9.561580,
             -78.827929
         ],
         "icon": "restaurant",
         "image": "assets/images/panama/cook.jpeg",
-        "description": "Pouah les langoustes"
+        "description": {
+            "fr": "Pouah les langoustes",
+            "en": "Wow, those lobsters",
+            "es": "Menudas langostas"
+        }
     },
     {
-        "name": "Carte Postale",
+        "name": {
+            "fr": "Carte Postale",
+            "en": "Postcard view",
+            "es": "Postal"
+        },
         "coords": [
             9.566566,
             -78.827575
         ],
         "icon": "group",
         "image": "assets/images/panama/sanblas-swimming-bar.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     }
 ]

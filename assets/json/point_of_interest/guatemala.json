@@ -1,271 +1,487 @@
 [
     {
-        "name": "Cat hostel Don Cenobio",
+        "name": {
+            "fr": "Cat hostel Don Cenobio",
+            "en": "Don Cenobio Hostel Cat",
+            "es": "Gato del hostal Don Cenobio"
+        },
         "coords": [
             16.931161,
             -89.890047
         ],
-        "description": "Le chat le plus fluffy de toute la région",
+        "description": {
+            "fr": "Le chat le plus fluffy de toute la région",
+            "en": "The fluffiest cat in the entire region",
+            "es": "El gato más peludo de toda la región"
+        },
         "icon": "pets",
         "image": "assets/images/guatemala/cat-flores.jpeg"
     },
     {
-        "name": "Ceiba",
+        "name": {
+            "fr": "Ceiba",
+            "en": "Ceiba tree",
+            "es": "Ceiba"
+        },
         "coords": [
             17.224309,
             -89.614614
         ],
-        "description": "Arbre national de 60m de haut et de plus de 200 ans. Le guide nous raconte qu'il a pour les anciens Mayas le rôle de boussole du monde (Yaxché): des racines du monde des morts au tronc des vivants à celui des branches pour rejoindre le monde divin.",
+        "description": {
+            "fr": "Arbre national de 60m de haut et de plus de 200 ans. Le guide nous raconte qu'il a pour les anciens Mayas le rôle de boussole du monde (Yaxché): des racines du monde des morts au tronc des vivants à celui des branches pour rejoindre le monde divin.",
+            "en": "National tree 60m tall and over 200 years old. The guide tells us that for ancient Mayas it acted as the world's compass (Yaxché): roots in the underworld, trunk in the living world, branches joining the divine realm.",
+            "es": "Árbol nacional de 60m de altura y más de 200 años. El guía nos cuenta que para los antiguos mayas representaba el eje del mundo (Yaxché): raíces en el inframundo, tronco en el mundo vivo y ramas hacia lo divino."
+        },
         "icon": "eco",
         "image": "assets/images/guatemala/ceiba.jpeg"
     },
     {
-        "name": "Tikal",
+        "name": {
+            "fr": "Tikal",
+            "en": "Tikal",
+            "es": "Tikal"
+        },
         "coords": [
             17.223874,
             -89.627862
         ],
-        "description": "Ancienne ville Maya qui a son apogée aurait acceuillie près de 400 000 habitants. Le site est exceptionnel complètement caché dans la forêt dense, on y croise des singes araignées, des singes hurleurs (en vrai leur cri on dirait vraiment des T-Rex énormes dans Jurassic parcs, ça fou les chocottes), des mignons ptits coaties. On a cherché les toucans mais ils n'ont pas souhaité nous recevoir. Le temple le plus haut s'élève à 70m de haut et offre une vue panoramique sur toute la jungle.",
+        "description": {
+            "fr": "Ancienne ville Maya qui a son apogée aurait accueilli près de 400 000 habitants. Le site est exceptionnel complètement caché dans la forêt dense, on y croise des singes araignées, des singes hurleurs (en vrai leur cri on dirait vraiment des T-Rex énormes dans Jurassic Park, ça fout les chocottes), des mignons ptits coaties. On a cherché les toucans mais ils n'ont pas souhaité nous recevoir. Le temple le plus haut s'élève à 70m de haut et offre une vue panoramique sur toute la jungle.",
+            "en": "Ancient Maya city that hosted up to 400,000 residents at its peak. Exceptional site hidden in dense jungle with spider monkeys, howler monkeys (their roars literally sound like T-Rex in Jurassic Park, pretty terrifying), cute coaties. We looked for toucans but no luck. Highest temple rises to 70m with panoramic jungle views.",
+            "es": "Antigua ciudad maya que en su apogeo albergó a casi 400.000 habitantes. El sitio es increíble, oculto en la selva densa con monos araña, monos aulladores (su grito parece de T-Rex de Jurassic Park, asusta bastante) y coatíes. Buscamos tucanes pero no aparecieron. El templo más alto mide 70m con vista panorámica de la selva."
+        },
         "icon": "fort",
         "image": "assets/images/guatemala/tikal.gif"
     },
     {
-        "name": "Jorge's Rope Swing",
+        "name": {
+            "fr": "Jorge's Rope Swing",
+            "en": "Jorge's Rope Swing",
+            "es": "Jorge's Rope Swing"
+        },
         "coords": [
             16.933308,
             -89.877405
         ],
-        "description": "Aprem chill dans le lac, baignade et jeux de sociétés avec l'équipe du colectivo 🚌",
+        "description": {
+            "fr": "Aprem chill dans le lac, baignade et jeux de sociétés avec l'équipe du colectivo 🚌",
+            "en": "Chilly afternoon at the lake, swimming and board games with the colectivo squad 🚌",
+            "es": "Tarde de relax en el lago, natación y juegos de mesa con el grupo del colectivo 🚌"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/jumping-rope.gif"
     },
     {
-        "name": "Cards",
+        "name": {
+            "fr": "Cards",
+            "en": "Card game",
+            "es": "Juego de cartas"
+        },
         "coords": [
             16.933560,
             -89.877802
         ],
-        "description": "j'ai perdu",
+        "description": {
+            "fr": "j'ai perdu",
+            "en": "I lost",
+            "es": "perdí"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/cards.gif"
     },
     {
-        "name": "English guy in a english bar",
+        "name": {
+            "fr": "English guy in a english bar",
+            "en": "English guy in an English bar",
+            "es": "Chico inglés en un bar inglés"
+        },
         "coords": [
             16.931283,
             -89.892334
         ],
-        "description": "Afterwork avec mr Ruben (🇬🇧)",
+        "description": {
+            "fr": "Afterwork avec mr Ruben (🇬🇧)",
+            "en": "Afterwork drink with Mr Ruben (🇬🇧)",
+            "es": "Cerveza de tarde con Ruben (🇬🇧)"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/pint.jpeg"
     },
     {
-        "name": "Ronaldinho",
+        "name": {
+            "fr": "Ronaldinho",
+            "en": "Ronaldinho",
+            "es": "Ronaldinho"
+        },
         "coords": [
             15.474590,
             -90.386422
         ],
-        "description": "Après près de 6h de bumpyride dans le colectivo, pause imposée au macdo avec Betty",
+        "description": {
+            "fr": "Après près de 6h de bumpyride dans le colectivo, pause imposée au macdo avec Betty",
+            "en": "After nearly 6 hours on a bumpy colectivo ride, mandatory McDonald's pitstop with Betty",
+            "es": "Tras casi 6h de viaje bacheado en colectivo, parada obligatoria en McDonald's con Betty"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/ronaldinho.jpeg"
     },
     {
-        "name": "Spider Monkey",
+        "name": {
+            "fr": "Spider Monkey",
+            "en": "Spider Monkey",
+            "es": "Mono araña"
+        },
         "coords": [
             17.219604,
             -89.616295
         ],
-        "description": "Tout est dans le nom",
+        "description": {
+            "fr": "Tout est dans le nom",
+            "en": "Name says it all",
+            "es": "El nombre lo dice todo"
+        },
         "icon": "pets",
         "image": "assets/images/guatemala/spider-monkey.gif"
     },
     {
-        "name": "Singes Hurleurs (Alouates)",
+        "name": {
+            "fr": "Singes Hurleurs (Alouates)",
+            "en": "Howler Monkeys",
+            "es": "Monos aulladores"
+        },
         "coords": [
             17.217653,
             -89.625264
         ],
-        "description": "Le cri de ces singes sont vraiment super effrayants. En se baladant dans la forêt, on dirait qu'il y a un T-Rex tout droit sorti de Jurassic Park caché derrière les arbres",
+        "description": {
+            "fr": "Le cri de ces singes sont vraiment super effrayants. En se baladant dans la forêt, on dirait qu'il y a un T-Rex tout droit sorti de Jurassic Park caché derrière les arbres",
+            "en": "The roar of these monkeys is genuinely terrifying. Walking through the woods, it sounds like a T-Rex straight out of Jurassic Park hiding behind the trees",
+            "es": "El rugido de estos monos da bastante miedo. Paseando por la selva parece que hay un T-Rex de Jurassic Park escondido tras los árboles"
+        },
         "icon": "pets",
         "image": "assets/images/guatemala/singe-hurleur.gif"
     },
     {
-        "name": "Famille Coati (Pizote)",
+        "name": {
+            "fr": "Famille Coati (Pizote)",
+            "en": "Coati Family (Pizote)",
+            "es": "Familia de coatíes (Pizote)"
+        },
         "coords": [
             17.227478,
             -89.636230
         ],
-        "description": "Toujours en train de chiller en gang",
+        "description": {
+            "fr": "Toujours en train de chiller en gang",
+            "en": "Always hanging out in gangs",
+            "es": "Siempre de relax en pandilla"
+        },
         "icon": "pets",
         "image": "assets/images/guatemala/tikal-coaties.gif"
     },
     {
-        "name": "Bumpy Ride en Pickup",
+        "name": {
+            "fr": "Bumpy Ride en Pickup",
+            "en": "Bumpy pickup truck ride",
+            "es": "Viaje bacheado en pickup"
+        },
         "coords": [
             15.580204,
             -89.950511
         ],
-        "description": "Taxi local avec toit ouvrant",
+        "description": {
+            "fr": "Taxi local avec toit ouvrant",
+            "en": "Local taxi with open roof",
+            "es": "Taxi local con techo panorámico"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/pickup.gif"
     },
     {
-        "name": "Semuc Champey",
+        "name": {
+            "fr": "Semuc Champey",
+            "en": "Semuc Champey",
+            "es": "Semuc Champey"
+        },
         "coords": [
             15.533646,
             -89.958945
         ],
-        "description": "Petite aprem avec le groupe de l'hostel (cf colectivo) à la découverte des piscines naturelles! Petites glissades sur les rochers. Lunettes perdues dans l'eau x2 mais retrouvées!",
+        "description": {
+            "fr": "Petite aprem avec le groupe de l'hostel (cf colectivo) à la découverte des piscines naturelles! Petites glissades sur les rochers. Lunettes perdues dans l'eau x2 mais retrouvées!",
+            "en": "Fun afternoon with hostel squad discovering natural pools! Sliding down rocks. Lost sunglasses in water twice but found them!",
+            "es": "Tarde divertida con el grupo del hostel descubriendo las piscinas naturales. Toboganes en la roca. Gafas perdidas en el agua x2 ¡pero recuperadas!"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/semuc-champey.jpeg"
     },
     {
-        "name": "Cuevas de K'anba",
+        "name": {
+            "fr": "Cuevas de K'anba",
+            "en": "K'anba Caves",
+            "es": "Cuevas de K'anba"
+        },
         "coords": [
             15.537498,
             -89.955611
         ],
-        "description": "Cave que l'on parcours avec des bougies, avec de l'eau fraiche jusqu'au hanches. La résonnance de la cave est parfaitte pour pour chanter le chant des pirates.",
+        "description": {
+            "fr": "Cave que l'on parcours avec des bougies, avec de l'eau fraiche jusqu'au hanches. La résonnance de la cave est parfaite pour chanter le chant des pirates.",
+            "en": "Exploring caves by candlelight with waist-deep cool water. Cave acoustics were perfect for singing pirate songs.",
+            "es": "Recorriendo cuevas con velas y agua fresca hasta la cintura. La resonancia de la cueva era perfecta para cantar canciones piratas."
+        },
         "icon": "group",
         "image": "assets/images/guatemala/cave.jpeg"
     },
     {
-        "name": "Cascade",
+        "name": {
+            "fr": "Cascade",
+            "en": "Waterfall",
+            "es": "Cascada"
+        },
         "coords": [
             15.535936,
             -89.957081
         ],
-        "description": "Petit plouf dans l'eau",
+        "description": {
+            "fr": "Petit plouf dans l'eau",
+            "en": "Quick dip in the water",
+            "es": "Un rápido chapuzón"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/cascade.jpeg"
     },
     {
-        "name": "Saut du Puente Rio Cahabon",
+        "name": {
+            "fr": "Saut du Puente Rio Cahabon",
+            "en": "Bridge jump over Rio Cahabon",
+            "es": "Salto desde el puente del Río Cahabón"
+        },
         "coords": [
             15.538211,
             -89.953947
         ],
-        "description": "Deuxième plouf dans l'eau",
+        "description": {
+            "fr": "Deuxième plouf dans l'eau",
+            "en": "Second splash in the water",
+            "es": "Segundo chapuzón al agua"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/jump-bridge.gif"
     },
     {
-        "name": "Balaçoire",
+        "name": {
+            "fr": "Balançoire",
+            "en": "Rope Swing",
+            "es": "Columpio de cuerda"
+        },
         "coords": [
             15.537539,
             -89.955847
         ],
-        "description": "ça tourne un peu trop et fini en gros splash",
+        "description": {
+            "fr": "ça tourne un peu trop et fini en gros splash",
+            "en": "spun a bit too much and ended in a big splash",
+            "es": "giró demasiado y terminó en un gran chapuzón"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/jump-rope.gif"
     },
     {
-        "name": "Santa Maria",
+        "name": {
+            "fr": "Santa Maria",
+            "en": "Santa María Volcano",
+            "es": "Volcán Santa María"
+        },
         "coords": [
             14.747744,
             -91.573191
         ],
-        "description": "tentative 1: Dans les nuages avec Ségolène (🇫🇷) pour tenter d'apercevoir l'éruption du volcan Santiguito depuis le sommet du Santa Maria. <br>Départ à 4h30 du matin, 2500m-3780m sur 10km et 2h30 de montée droit dans la pente!!<br> Rencontrés via les Français au Guatemala, on cherchait à éviter de passer par des guides pour faire la rando 🐀. On a emmené avec nous deux bulgares et un anglais de l'hostel qui souhaitaient faire la rando mais qui n'ont pas été très bavards!",
+        "description": {
+            "fr": "tentative 1: Dans les nuages avec Ségolène (🇫🇷) pour tenter d'apercevoir l'éruption du volcan Santiguito depuis le sommet du Santa Maria. <br>Départ à 4h30 du matin, 2500m-3780m sur 10km et 2h30 de montée droit dans la pente!!<br> Rencontrés via les Français au Guatemala, on cherchait à éviter de passer par des guides pour faire la rando 🐀. On a emmené avec nous deux bulgares et un anglais de l'hostel qui souhaitaient faire la rando mais qui n'ont pas été très bavards!",
+            "en": "Attempt 1: Lost in clouds with Ségolène (🇫🇷) attempting to view Santiaguito volcano eruption from Santa María summit. <br>4:30 AM start, 2500m to 3780m elevation over 10km and 2.5h steep uphill climb!!<br>Met through French in Guatemala group, avoiding tour guides 🐀. Brought along two Bulgarians and an Englishman from the hostel who weren't very talkative!",
+            "es": "Intento 1: En las nubes con Ségolène (🇫🇷) intentando ver la erupción del volcán Santiaguito desde la cumbre del Santa María. <br>Salida 4:30 AM, 2500m a 3780m en 10km y 2h30 de subida directa.<br>Nos conocimos por el grupo de franceses en Guatemala, evitando pagar guías 🐀. ¡Nos acompañaron dos búlgaros y un inglés del hostel no muy habladores!"
+        },
         "icon": "hiking",
         "image": "assets/images/guatemala/santa-maria.jpeg"
     },
     {
-        "name": "Mirador Santiguito",
+        "name": {
+            "fr": "Mirador Santiguito",
+            "en": "Santiaguito Viewpoint",
+            "es": "Mirador Santiaguito"
+        },
         "coords": [
             14.759537,
             -91.566724
         ],
-        "description": "tentative 2: On revient le surlendemain accompagné de Leonardo (🇪🇸) pour appercevoir le Santiguito en éruption! Nouveau réveil à 4h du matin et nouveau chemin direction le mirador!",
+        "description": {
+            "fr": "tentative 2: On revient le surlendemain accompagné de Leonardo (🇪🇸) pour appercevoir le Santiguito en éruption! Nouveau réveil à 4h du matin et nouveau chemin direction le mirador!",
+            "en": "Attempt 2: Returning two days later with Leonardo (🇪🇸) to catch the erupting Santiaguito! Another 4 AM alarm and new path toward the viewpoint!",
+            "es": "Intento 2: Volvemos dos días después con Leonardo (🇪🇸) para ver el Santiaguito en erupción. ¡Otro madrugón a las 4 AM y nuevo camino hacia el mirador!"
+        },
         "icon": "hiking",
         "image": "assets/images/guatemala/mirador-santiguito.jpeg"
     },
     {
-        "name": "Eruption Santiguito",
+        "name": {
+            "fr": "Eruption Santiguito",
+            "en": "Santiaguito Eruption",
+            "es": "Erupción Santiaguito"
+        },
         "coords": [
             14.737394,
             -91.567880
         ],
-        "description": "Un grand boum!",
+        "description": {
+            "fr": "Un grand boum!",
+            "en": "A big boom!",
+            "es": "¡Un gran boom!"
+        },
         "icon": "volcano",
         "image": "assets/images/guatemala/santiguito.gif"
     },
     {
-        "name": "Mini dogo du santa maria",
+        "name": {
+            "fr": "Mini dogo du santa maria",
+            "en": "Little Santa María doggo",
+            "es": "Perrito del Santa María"
+        },
         "coords": [
             14.774210,
             -91.554266
         ],
-        "description": "Fidèle guide pour mener les randonneurs ou réconforter après une longue journée",
+        "description": {
+            "fr": "Fidèle guide pour mener les randonneurs ou réconforter après une longue journée",
+            "en": "Faithful guide leading hikers and comforting them after a long day",
+            "es": "Guía fiel guiando a los senderistas o reconfortando tras un largo día"
+        },
         "icon": "pets",
         "image": "assets/images/guatemala/dog-santa-maria.jpeg"
     },
     {
-        "name": "Fuetes Georgina",
+        "name": {
+            "fr": "Fuentes Georginas",
+            "en": "Fuentes Georginas",
+            "es": "Fuentes Georginas"
+        },
         "coords": [
             14.749757,
             -91.480250
         ],
-        "description": "Sources d'eau chaudes perdues dans la montagne. Endroit assez incroyable de detente où les locaux viennent se détendre et soigner leurs douleurs. Certains anciens boivent même l'eau souffrée pour soigner les mots de ventre!",
+        "description": {
+            "fr": "Sources d'eau chaudes perdues dans la montagne. Endroit assez incroyable de détente où les locaux viennent se détendre et soigner leurs douleurs. Certains anciens boivent même l'eau soufrée pour soigner les maux de ventre!",
+            "en": "Hot springs hidden in the mountains. Incredible relaxing spot where locals unwind and heal ailments. Some elders even drink sulfur water to cure stomach aches!",
+            "es": "Aguas termales escondidas en la montaña. Lugar increíble de relax donde los locales vienen a curar dolores. ¡Algunos ancianos incluso beben agua azufrada para el dolor de estómago!"
+        },
         "icon": "pool",
         "image": "assets/images/guatemala/fuentes-georgina.jpeg"
     },
     {
-        "name": "Giga Breakfast",
+        "name": {
+            "fr": "Giga Breakfast",
+            "en": "Giga Breakfast",
+            "es": "Giga desayuno"
+        },
         "coords": [
             14.831957,
             -91.517643
         ],
-        "description": "Après le volcan, un brunch maison bien mérité au kiwi hostel!",
+        "description": {
+            "fr": "Après le volcan, un brunch maison bien mérité au kiwi hostel!",
+            "en": "After the volcano, a well deserved homemade brunch at Kiwi hostel!",
+            "es": "Tras el volcán, ¡brunch casero muy merecido en el Kiwi hostel!"
+        },
         "icon": "group",
         "image": "assets/images/guatemala/xela-brunch.jpeg"
     },
     {
-        "name": "Auto Stoppeur: direction le nord",
+        "name": {
+            "fr": "Auto Stoppeur: direction le nord",
+            "en": "Hitchhiker: northbound",
+            "es": "Autostopista: rumbo al norte"
+        },
         "coords": [
             14.952158,
             -91.107512
         ],
-        "description": "Je dis au revoir aux amigos qui se dirigent vers le nord pendant que moi je me dirige vers le sud. C'est la fin des 3 mousquetaires de Huehuetenango.",
+        "description": {
+            "fr": "Je dis au revoir aux amigos qui se dirigent vers le nord pendant que moi je me dirige vers le sud. C'est la fin des 3 mousquetaires de Huehuetenango.",
+            "en": "Saying goodbye to friends heading north while I head south. End of the 3 Musketeers of Huehuetenango.",
+            "es": "Me despido de los amigos que van al norte mientras yo voy al sur. Fin de los 3 mosqueteros de Huehuetenango."
+        },
         "icon": "group",
         "image": "assets/images/guatemala/auto-stoppeur.jpeg"
     },
     {
-        "name": "Chichi Market",
+        "name": {
+            "fr": "Chichi Market",
+            "en": "Chichi Market",
+            "es": "Mercado de Chichi"
+        },
         "coords": [
             14.941048,
             -91.110527
         ],
-        "description": "Balade dans le labyrithique marché de Chichicastenango. Découverte des rellenitos de plátano (banane plantin x frijoles) et tamales de poulet (riz x poulet dans une feuille de banane)",
+        "description": {
+            "fr": "Balade dans le labyrinthique marché de Chichicastenango. Découverte des rellenitos de plátano (banane plantain x frijoles) et tamales de poulet (riz x poulet dans une feuille de banane)",
+            "en": "Wandering through the labyrinthine Chichicastenango market. Tried rellenitos de plátano (plantain x beans) and chicken tamales (rice x chicken in banana leaf)",
+            "es": "Paseo por el laberíntico mercado de Chichicastenango. Probando rellenitos de plátano (plátano con frijoles) y tamales de pollo (arroz y pollo en hoja de plátano)"
+        },
         "icon": "store",
         "image": "assets/images/guatemala/chichi-market.jpeg"
     },
     {
-        "name": "Fuego de jour",
+        "name": {
+            "fr": "Fuego de jour",
+            "en": "Fuego volcano by day",
+            "es": "Volcán de Fuego de día"
+        },
         "coords": [
             14.474791,
             -90.885583
         ],
-        "description": "Loooooongue randonnée.. près de 10h (11h-23h) de rando pour faire 12km et 1700m d+ avec un groupe de 40 personnes. Après avoir fait Santa Maria sans guide et en toute tranquilité, ici c'est guide obligatoire et beaucoup de monde au sommet! Mais c'est dans une bonne ambiance que l'on arrive au camp de base situé à 300m du sommet de l'acatenango que l'on peut observer le volcan en activité.",
+        "description": {
+            "fr": "Loooooongue randonnée.. près de 10h (11h-23h) de rando pour faire 12km et 1700m d+ avec un groupe de 40 personnes. Après avoir fait Santa Maria sans guide et en toute tranquilité, ici c'est guide obligatoire et beaucoup de monde au sommet! Mais c'est dans une bonne ambiance que l'on arrive au camp de base situé à 300m du sommet de l'acatenango que l'on peut observer le volcan en activité.",
+            "en": "Looooong hike.. nearly 10 hours (11am-11pm) to do 12km and 1700m elevation gain with 40 people. After doing Santa Maria without guide, here guides are mandatory and crowded! Great atmosphere reaching basecamp 300m from Acatenango summit to watch active eruptions.",
+            "es": "Laaaaarga caminata.. casi 10h (11am-11pm) para 12km y 1700m desnivel con 40 personas. Tras el Santa María sin guía, aquí guía obligatorio y mucha gente. Pero gran ambiente al llegar al campamento base a 300m de la cumbre para ver el volcán activo."
+        },
         "icon": "volcano",
         "image": "assets/images/guatemala/fuego-jour.jpeg"
     },
     {
-        "name": "Fuego de nuit",
+        "name": {
+            "fr": "Fuego de nuit",
+            "en": "Fuego volcano by night",
+            "es": "Volcán de Fuego de noche"
+        },
         "coords": [
             14.473401,
             -90.876858
         ],
-        "description": "On enchaine la nuit pour appercevoir le Fuego de plus près! Et quel spectacle!! La montée a été très longue car énormément de groupes qui piétinent. Petit groupes qui chantent Wonderwall pour mettre de l'ambiance!",
+        "description": {
+            "fr": "On enchaine la nuit pour appercevoir le Fuego de plus près! Et quel spectacle!! La montée a été très longue car énormément de groupes qui piétinent. Petit groupes qui chantent Wonderwall pour mettre de l'ambiance!",
+            "en": "Pushing through the night to view Fuego up close! What a show!! Slow climb due to crowds. Small group singing Wonderwall to keep spirits high!",
+            "es": "¡Continuamos de noche para ver el Fuego más de cerca! ¡¡Qué espectáculo!! Subida lenta por la multitud. ¡Grupo cantando Wonderwall para dar ambiente!"
+        },
         "icon": "volcano",
         "image": "assets/images/guatemala/fuego-nuit.jpeg"
     },
     {
-        "name": "Yann sur le sommet de l'Acatenango",
+        "name": {
+            "fr": "Yann sur le sommet de l'Acatenango",
+            "en": "Yann at Acatenango summit",
+            "es": "Yann en la cumbre del Acatenango"
+        },
         "coords": [
             14.504246,
             -90.877274
         ],
-        "description": "Levé à 3h du matin après la rando qui finissait la veille à 23h, cette photo immortalise un reveil difficile pour arriver au sommet de l'Acatenango avec le Fuego dans le dos.",
+        "description": {
+            "fr": "Levé à 3h du matin après la rando qui finissait la veille à 23h, cette photo immortalise un reveil difficile pour arriver au sommet de l'Acatenango avec le Fuego dans le dos.",
+            "en": "Waking up at 3 AM after finishing previous hike at 11 PM, this photo captures a tough morning reaching Acatenango summit with Fuego erupting behind.",
+            "es": "Despertar a las 3 AM tras terminar la ruta previa a las 23h, foto que inmortaliza un despertar duro llegando a la cumbre con el Fuego a la espalda."
+        },
         "icon": "hiking",
         "image": "assets/images/guatemala/fuego-yann.jpeg"
     }

@@ -1,29 +1,56 @@
 [
     {
-        "name": "Plouf jambes en vrac",
+        "name": {
+            "fr": "Plouf jambes en vrac",
+            "en": "Clumsy leg splash",
+            "es": "Salto al agua piernas locas"
+        },
         "coords": [
             13.862744,
             -89.543323
         ],
         "icon": "water",
-        "image": "assets/images/salvador/coatepeque-jump.gif"
+        "image": "assets/images/salvador/coatepeque-jump.gif",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Santa Ana",
+        "name": {
+            "fr": "Santa Ana",
+            "en": "Santa Ana Volcano",
+            "es": "Volcán de Santa Ana"
+        },
         "coords": [
             13.848563,
             -89.629628
         ],
         "icon": "volcano",
-        "image": "assets/images/salvador/santa-ana.jpeg"
+        "image": "assets/images/salvador/santa-ana.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Las Siete Cascadas",
+        "name": {
+            "fr": "Las Siete Cascadas",
+            "en": "The Seven Waterfalls",
+            "es": "Las Siete Cascadas"
+        },
         "coords": [
             13.840766,
             -89.730831
         ],
         "icon": "water",
-        "image": "assets/images/salvador/juayua-7-cascadas.gif"
+        "image": "assets/images/salvador/juayua-7-cascadas.gif",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     }
 ]

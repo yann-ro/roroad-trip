@@ -1,502 +1,902 @@
 [
     {
-        "name": "Cotton-top Tamarin",
+        "name": {
+            "fr": "Cotton-top Tamarin",
+            "en": "Cotton-top Tamarin",
+            "es": "Tamarino de cabellera blanca"
+        },
         "coords": [
             10.422564,
             -75.547276
         ],
         "icon": "pets",
         "image": "assets/images/colombia/carta-monkey.gif",
-        "description": "Micro singe à la dégaine madmax 😍"
+        "description": {
+            "fr": "Micro singe à la dégaine madmax 😍",
+            "en": "Micro monkey with a Mad Max look 😍",
+            "es": "Micromono con estilo Mad Max 😍"
+        }
     },
     {
-        "name": "Street painting",
+        "name": {
+            "fr": "Street painting",
+            "en": "Street painting",
+            "es": "Pintura callejera"
+        },
         "coords": [
             10.424344,
             -75.550531
         ],
         "icon": "format_paint",
         "image": "assets/images/colombia/carta-peinture.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Arrivée au petit matin (4h)",
+        "name": {
+            "fr": "Arrivée au petit matin (4h)",
+            "en": "Early morning arrival (4 AM)",
+            "es": "Llegada de madrugada (4 AM)"
+        },
         "coords": [
             10.320280,
             -75.548744
         ],
         "icon": "",
         "image": "assets/images/colombia/cartagena.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Mexique 🇲🇽 - Korea 🇰🇷",
+        "name": {
+            "fr": "Mexique 🇲🇽 - Korea 🇰🇷",
+            "en": "Mexico 🇲🇽 - Korea 🇰🇷",
+            "es": "México 🇲🇽 - Corea 🇰🇷"
+        },
         "coords": [
             10.416526,
             -75.541970
         ],
         "icon": "sports_soccer",
         "image": "assets/images/colombia/cartagena-foot-mexique.jpeg",
-        "description": "Direction le match de foot! Avec les compagnons du bateau: Stephan 🇩🇪x🇲🇽 and Sally 🇬🇧"
+        "description": {
+            "fr": "Direction le match de foot! Avec les compagnons du bateau: Stephan 🇩🇪x🇲🇽 and Sally 🇬🇧",
+            "en": "Off to watch the football match! With boat mates: Stephan 🇩🇪x🇲🇽 and Sally 🇬🇧",
+            "es": "¡Camino al partido de fútbol! Con los compañeros del barco: Stephan 🇩🇪x🇲🇽 y Sally 🇬🇧"
+        }
     },
     {
-        "name": "Début apprentissage du parapente!",
+        "name": {
+            "fr": "Début apprentissage du parapente!",
+            "en": "Started learning paragliding!",
+            "es": "¡Inicio del aprendizaje de parapente!"
+        },
         "coords": [
             6.643434,
             -73.095978
         ],
         "icon": "paragliding",
         "image": "assets/images/colombia/sangil-parapente.jpeg",
-        "description": "Ca court entre les colines pour apprendre à gonfler puis voler en parapente! Tout ça sous les instructions de Sergio!"
+        "description": {
+            "fr": "Ca court entre les colines pour apprendre à gonfler puis voler en parapente! Tout ça sous les instructions de Sergio!",
+            "en": "Running around hills to practice wing inflation and paraglide! All under Sergio's instruction!",
+            "es": "¡Corriendo por las colinas para aprender a inflar y volar en parapente! ¡Todo bajo las instrucciones de Sergio!"
+        }
     },
     {
-        "name": "Pente école Bucaramanga",
+        "name": {
+            "fr": "Pente école Bucaramanga",
+            "en": "Practice slope in Bucaramanga",
+            "es": "Pendiente de práctica en Bucaramanga"
+        },
         "coords": [
             7.043094,
             -73.091172
         ],
         "icon": "paragliding",
         "image": "assets/images/colombia/bucaramanga-parapente.jpeg",
-        "description": "J'enchaîne les décollages/atterissage sur des vols de 3min au dessus de Bucaramanga. Toujours sous la supervisionde Sergio et del Chino."
+        "description": {
+            "fr": "J'enchaîne les décollages/atterissage sur des vols de 3min au dessus de Bucaramanga. Toujours sous la supervisionde Sergio et del Chino.",
+            "en": "Chaining take-offs/landings on 3-minute flights over Bucaramanga. Guided by Sergio and El Chino.",
+            "es": "Encadenando despegues y aterrizajes en vuelos de 3 min sobre Bucaramanga. Bajo la supervisión de Sergio y El Chino."
+        }
     },
     {
-        "name": "Vol final dans le canyon du Chicamocha !!",
+        "name": {
+            "fr": "Vol final dans le canyon du Chicamocha !!",
+            "en": "Final flight in Chicamocha Canyon!!",
+            "es": "¡Vuelo final en el Cañón del Chicamocha!"
+        },
         "coords": [
             6.745938,
             -72.985307
         ],
         "icon": "paragliding",
         "image": "assets/images/colombia/chicamocha-parapente.gif",
-        "description": "Et hop-là on s'envole"
+        "description": {
+            "fr": "Et hop-là on s'envole",
+            "en": "And off we soar",
+            "es": "Y ¡a volar!"
+        }
     },
     {
-        "name": "Certifié niveau 2 en parapente !!",
+        "name": {
+            "fr": "Certifié niveau 2 en parapente !!",
+            "en": "Level 2 paragliding certified!!",
+            "es": "¡Certificado Nivel 2 de parapente!"
+        },
         "coords": [
             6.749879,
             -73.005490
         ],
         "icon": "paragliding",
         "image": "assets/images/colombia/chicamocha-diplome.jpeg",
-        "description": "Un grand merci à Sergio et el Chino ils ont été trop coools !!!"
+        "description": {
+            "fr": "Un grand merci à Sergio et el Chino ils ont été trop coools !!!",
+            "en": "Big thanks to Sergio and El Chino, they were super cool!!!",
+            "es": "¡Muchas gracias a Sergio y El Chino, fueron genialesss!"
+        }
     },
     {
-        "name": "Le canyon de Chicamocha",
+        "name": {
+            "fr": "Le canyon de Chicamocha",
+            "en": "Chicamocha Canyon",
+            "es": "El Cañón del Chicamocha"
+        },
         "coords": [
             6.813913,
             -72.991032
         ],
         "icon": "landscape",
         "image": "assets/images/colombia/chicamocha-canyon.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Rafting",
+        "name": {
+            "fr": "Rafting",
+            "en": "Rafting",
+            "es": "Rafting"
+        },
         "coords": [
             6.448379,
             -73.307047
         ],
         "icon": "kayaking",
         "image": "assets/images/colombia/sangil-rafting.gif",
-        "description": "On descend le Rio Suarez (niveau 5)! ça bouge"
+        "description": {
+            "fr": "On descend le Rio Suarez (niveau 5)! ça bouge",
+            "en": "Rafting down Rio Suarez (Class 5)! Pretty wild",
+            "es": "¡Bajando el Río Suárez (nivel 5)! Mucha acción"
+        }
     },
     {
-        "name": "Futsal à sangil!",
+        "name": {
+            "fr": "Futsal à San Gil!",
+            "en": "Futsal in San Gil!",
+            "es": "Fútbol sala en San Gil"
+        },
         "coords": [
             6.554945,
             -73.153772
         ],
         "icon": "sports_soccer",
         "image": "assets/images/colombia/sangil-foot.jpeg",
-        "description": "Gringos vs locaux: c'est les gringos qui l'emportent!"
+        "description": {
+            "fr": "Gringos vs locaux: c'est les gringos qui l'emportent!",
+            "en": "Gringos vs locals: the gringos take the win!",
+            "es": "Gringos vs locales: ¡ganaron los gringos!"
+        }
     },
     {
-        "name": "Colombie 🇨🇴 - Portugal 🇵🇹",
+        "name": {
+            "fr": "Colombie 🇨🇴 - Portugal 🇵🇹",
+            "en": "Colombia 🇨🇴 - Portugal 🇵🇹",
+            "es": "Colombia 🇨🇴 - Portugal 🇵🇹"
+        },
         "coords": [
             6.551386,
             -73.134388
         ],
         "icon": "sports_soccer",
         "image": "assets/images/colombia/sangil-colombie-portugal.gif",
-        "description": "Bruit de fou, les colombiens transforment le centre commercial en chaudron!"
+        "description": {
+            "fr": "Bruit de fou, les colombiens transforment le centre commercial en chaudron!",
+            "en": "Insane noise, Colombians turned the mall into a stadium cauldron!",
+            "es": "¡Ambiente increíble, los colombianos convirtieron el centro comercial en una caldera!"
+        }
     },
     {
-        "name": "Arrivé à Villanueva en mtb 🚴",
+        "name": {
+            "fr": "Arrivée à Villanueva en mtb 🚴",
+            "en": "Arrived in Villanueva by mountain bike 🚴",
+            "es": "Llegada a Villanueva en BTT 🚴"
+        },
         "coords": [
             6.664517,
             -73.181553
         ],
         "icon": "directions_bike",
         "image": "assets/images/colombia/villanueva-bike.jpeg",
-        "description": "On s'occupe entre le parapente!"
+        "description": {
+            "fr": "On s'occupe entre le parapente!",
+            "en": "Keeping busy between paragliding sessions!",
+            "es": "¡Ocupando el tiempo entre vuelos de parapente!"
+        }
     },
     {
-        "name": "Bike bike",
+        "name": {
+            "fr": "Bike bike",
+            "en": "Bike ride",
+            "es": "Paseo en bici"
+        },
         "coords": [
             6.648116,
             -73.214095
         ],
         "icon": "directions_bike",
         "image": "assets/images/colombia/barichara-bike.jpeg",
-        "description": "Direction Guane"
+        "description": {
+            "fr": "Direction Guane",
+            "en": "Heading to Guane",
+            "es": "Rumbo a Guane"
+        }
     },
     {
-        "name": "Rouule",
+        "name": {
+            "fr": "Rouule",
+            "en": "Keep rolling",
+            "es": "Rodando"
+        },
         "coords": [
             6.657297,
             -73.231442
         ],
         "icon": "directions_bike",
         "image": "assets/images/colombia/barichara-bike2.jpeg",
-        "description": "Petit tour sur le camino real"
+        "description": {
+            "fr": "Petit tour sur le Camino Real",
+            "en": "Quick ride on the Camino Real",
+            "es": "Paseo por el Camino Real"
+        }
     },
     {
-        "name": "Barichara",
+        "name": {
+            "fr": "Barichara",
+            "en": "Barichara",
+            "es": "Barichara"
+        },
         "coords": [
             6.635381,
             -73.223409
         ],
         "icon": "house",
         "image": "assets/images/colombia/barichara-maison.jpeg",
-        "description": "Elu plus beau village de Colombie!!"
+        "description": {
+            "fr": "Elu plus beau village de Colombie!!",
+            "en": "Voted most beautiful village in Colombia!!",
+            "es": "¡Votado el pueblo más bonito de Colombia!"
+        }
     },
     {
-        "name": "",
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "coords": [
             6.418051,
             -72.354066
         ],
         "icon": "",
         "image": "assets/images/colombia/guican-esperanza.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "",
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "coords": [
             6.418740,
             -72.352859
         ],
         "icon": "",
         "image": "assets/images/colombia/guican-esperanza2.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "",
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "coords": [
             6.351937,
             -72.416121
         ],
         "icon": "",
         "image": "assets/images/colombia/cocuy-arbre.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Autostop avec un cowboy",
+        "name": {
+            "fr": "Autostop avec un cowboy",
+            "en": "Hitchhiking with a cowboy",
+            "es": "Autostop con un vaquero"
+        },
         "coords": [
             6.379384,
             -72.425674
         ],
         "icon": "thumb_up",
         "image": "assets/images/colombia/cocuy-autostop-cowboy.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Meuh avec fourure: cute",
+        "name": {
+            "fr": "Meuh avec fourrure: cute",
+            "en": "Fluffy cow: cute",
+            "es": "Vaca peluda: cute"
+        },
         "coords": [
             6.407053,
             -72.433003
         ],
         "icon": "pets",
         "image": "assets/images/colombia/cocuy-cow.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Une ambiance saloon",
+        "name": {
+            "fr": "Une ambiance saloon",
+            "en": "Saloon atmosphere",
+            "es": "Ambiente de cantina"
+        },
         "coords": [
             6.411739,
             -72.443361
         ],
         "icon": "",
         "image": "assets/images/colombia/cocuy-cowboy.jpeg",
-        "description": "6h du mat'"
+        "description": {
+            "fr": "6h du mat'",
+            "en": "6 AM",
+            "es": "6 AM"
+        }
     },
     {
-        "name": "1/3 couleur de la colombie",
+        "name": {
+            "fr": "1/3 couleur de la Colombie",
+            "en": "1/3 color of Colombia",
+            "es": "1/3 color de Colombia"
+        },
         "coords": [
             6.437498,
             -72.389436
         ],
         "icon": "filter_vintage",
         "image": "assets/images/colombia/cocuy-fleur1.jpeg",
-        "description": "Coincidence ??"
+        "description": {
+            "fr": "Coïncidence ??",
+            "en": "Coincidence??",
+            "es": "¿Coincidencia?"
+        }
     },
     {
-        "name": "2/3 couleur de la colombie",
+        "name": {
+            "fr": "2/3 couleur de la Colombie",
+            "en": "2/3 color of Colombia",
+            "es": "2/3 color de Colombia"
+        },
         "coords": [
             6.385829,
             -72.360165
         ],
         "icon": "filter_vintage",
         "image": "assets/images/colombia/cocuy-fleur2.jpeg",
-        "description": "Coincidence ??"
+        "description": {
+            "fr": "Coïncidence ??",
+            "en": "Coincidence??",
+            "es": "¿Coincidencia?"
+        }
     },
     {
-        "name": "3/3 couleur de la colombie",
+        "name": {
+            "fr": "3/3 couleur de la Colombie",
+            "en": "3/3 color of Colombia",
+            "es": "3/3 color de Colombia"
+        },
         "coords": [
             6.306209,
             -72.392132
         ],
         "icon": "filter_vintage",
         "image": "assets/images/colombia/cocuy-fleur3.jpeg",
-        "description": "Coincidence ??"
+        "description": {
+            "fr": "Coïncidence ??",
+            "en": "Coincidence??",
+            "es": "¿Coincidencia?"
+        }
     },
     {
-        "name": "Granadilla",
+        "name": {
+            "fr": "Granadilla",
+            "en": "Granadilla",
+            "es": "Granadilla"
+        },
         "coords": [
             6.298122,
             -72.381808
         ],
         "icon": "",
         "image": "assets/images/colombia/cocuy-fruit.jpeg",
-        "description": "Un nouveau fruit! Super bon"
+        "description": {
+            "fr": "Un nouveau fruit! Super bon",
+            "en": "A new fruit! Super tasty",
+            "es": "¡Una fruta nueva! Riquísima"
+        }
     },
     {
-        "name": "Leteria: Transport en commun local",
+        "name": {
+            "fr": "Lechetería: Transport en commun local",
+            "en": "Milk truck: Local public transport",
+            "es": "La lechería: Transporte público local"
+        },
         "coords": [
             6.404542,
             -72.441727
         ],
         "icon": "thumb_up",
         "image": "assets/images/colombia/cocuy-leteria.jpeg",
-        "description": "Ici la leteria passe 2 fois pas jour pour récupérer le lait que produisent les bergers chaque jours! Il reste un peu de place donc c'ets aussi un transport en commun pour les humains comme pour les moutons"
+        "description": {
+            "fr": "Ici la leteria passe 2 fois pas jour pour récupérer le lait que produisent les bergers chaque jours! Il reste un peu de place donc c'est aussi un transport en commun pour les humains comme pour les moutons",
+            "en": "The milk truck comes twice a day to collect fresh milk from local shepherds! With spare space left, it doubles as public transport for humans and sheep alike",
+            "es": "¡La lechería pasa 2 veces al día a recoger la leche de los pastores! Con sitio de sobra, funciona como transporte público para personas y ovejas"
+        }
     },
     {
-        "name": "Check reseau dans la leteria",
+        "name": {
+            "fr": "Check réseau dans la lechetería",
+            "en": "Checking phone signal in the milk truck",
+            "es": "Revisando cobertura en la lechería"
+        },
         "coords": [
             6.385845,
             -72.422036
         ],
         "icon": "thumb_up",
         "image": "assets/images/colombia/cocuy-leteria2.jpeg",
-        "description": "check du score"
+        "description": {
+            "fr": "check du score",
+            "en": "checking score",
+            "es": "revisando el resultado"
+        }
     },
     {
-        "name": "Selfie à la vallée de los Frailejones",
+        "name": {
+            "fr": "Selfie à la vallée de los Frailejones",
+            "en": "Selfie at Frailejones Valley",
+            "es": "Selfie en el valle de los Frailejones"
+        },
         "coords": [
             6.412470,
             -72.332009
         ],
         "icon": "group",
         "image": "assets/images/colombia/cocuy-selfie.jpeg",
-        "description": "Selfie avec Sally 🇬🇧."
+        "description": {
+            "fr": "Selfie avec Sally 🇬🇧.",
+            "en": "Selfie with Sally 🇬🇧.",
+            "es": "Selfie con Sally 🇬🇧."
+        }
     },
     {
-        "name": "Passager du transport en commun",
+        "name": {
+            "fr": "Passager du transport en commun",
+            "en": "Public transport passenger",
+            "es": "Pasajero del transporte público"
+        },
         "coords": [
             6.403227,
             -72.441129
         ],
         "icon": "pets",
         "image": "assets/images/colombia/cocuy-sheep.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Full moumouth",
+        "name": {
+            "fr": "Full moumouth",
+            "en": "Super fluffy",
+            "es": "Supermullida"
+        },
         "coords": [
             6.359844,
             -72.421226
         ],
         "icon": "pets",
         "image": "assets/images/colombia/cocuy-sheep2.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Yannus entre les frailejones",
+        "name": {
+            "fr": "Yannus entre les frailejones",
+            "en": "Yannus among frailejones",
+            "es": "Yannus entre frailejones"
+        },
         "coords": [
             6.408036,
             -72.320251
         ],
         "icon": "directions_walk",
         "image": "assets/images/colombia/cocuy-yann.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Yeeee-haww",
+        "name": {
+            "fr": "Yeeee-haww",
+            "en": "Yeeee-haww",
+            "es": "Yeeee-haww"
+        },
         "coords": [
             6.418820,
             -72.356841
         ],
         "icon": "",
         "image": "assets/images/colombia/cowboy.jpeg",
-        "description": "Je revets les habits de fermier du coin! Marco un berger très fier des nombreuses médailles de ses bêtes nous présente l'histoire de son Hacienda!"
+        "description": {
+            "fr": "Je revets les habits de fermier du coin! Marco un berger très fier des nombreuses médailles de ses bêtes nous présente l'histoire de son Hacienda!",
+            "en": "Dressed in local farmer clothes! Marco, a shepherd proud of his livestock's medals, shows us around his Hacienda!",
+            "es": "¡Me viste como granjero local! Marco, un pastor muy orgulloso de las medallas de su ganado, nos cuenta la historia de su Hacienda."
+        }
     },
     {
-        "name": "Super cooker",
+        "name": {
+            "fr": "Super cooker",
+            "en": "Super cook",
+            "es": "Supercocinero"
+        },
         "coords": [
             6.417329,
             -72.353149
         ],
         "icon": "group",
         "image": "assets/images/colombia/esperanza-duo.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Sheep Sheep",
+        "name": {
+            "fr": "Sheep Sheep",
+            "en": "Sheep Sheep",
+            "es": "Oveja Oveja"
+        },
         "coords": [
             6.420405,
             -72.347870
         ],
         "icon": "pets",
         "image": "assets/images/colombia/esperanza-sheep.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Super Cute",
+        "name": {
+            "fr": "Super Cute",
+            "en": "Super Cute",
+            "es": "Supermona"
+        },
         "coords": [
             6.454859,
             -72.402925
         ],
         "icon": "pets",
         "image": "assets/images/colombia/guican-vache.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Old-cowboys et fervents supporters",
+        "name": {
+            "fr": "Old-cowboys et fervents supporters",
+            "en": "Old cowboys and die-hard fans",
+            "es": "Viejos vaqueros y fervientes hinchas"
+        },
         "coords": [
             6.463212,
             -72.411992
         ],
         "icon": "sports_soccer",
         "image": "assets/images/colombia/guican-foot-colombie-suisse.jpeg",
-        "description": "Le match est nul (colombie-suisse)"
+        "description": {
+            "fr": "Le match est nul (colombie-suisse)",
+            "en": "Dull match (Colombia-Switzerland)",
+            "es": "Partido aburrido (Colombia-Suiza)"
+        }
     },
     {
-        "name": "Tatou",
+        "name": {
+            "fr": "Tatou",
+            "en": "Armadillo",
+            "es": "Armadillo"
+        },
         "coords": [
             6.378261,
             -72.435077
         ],
         "icon": "pets",
         "image": "assets/images/colombia/cocuy-tatou.gif",
-        "description": "Petit tatou fait une boule de feuilles."
+        "description": {
+            "fr": "Petit tatou fait une boule de feuilles.",
+            "en": "Little armadillo building a leaf ball.",
+            "es": "Pequeño armadillo haciendo una bola de hojas."
+        }
     },
     {
-        "name": "Medellin Party",
+        "name": {
+            "fr": "Medellin Party",
+            "en": "Medellín Party",
+            "es": "Fiesta en Medellín"
+        },
         "coords": [
             6.208822,
             -75.567107
         ],
         "icon": "celebration",
         "image": "assets/images/colombia/medellin-party.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Photo ratée et effet de style",
+        "name": {
+            "fr": "Photo ratée et effet de style",
+            "en": "Failed photo & artistic effect",
+            "es": "Foto fallida y efecto de estilo"
+        },
         "coords": [
             6.209040,
             -75.572070
         ],
         "icon": "group",
         "image": "assets/images/colombia/medellin-chill.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Communa 13 foot",
+        "name": {
+            "fr": "Comuna 13 foot",
+            "en": "Comuna 13 football",
+            "es": "Comuna 13 fútbol"
+        },
         "coords": [
             6.248140,
             -75.622307
         ],
         "icon": "sports_soccer",
         "image": "assets/images/colombia/medellin-foot.jpeg",
-        "description": "chill"
+        "description": {
+            "fr": "chill",
+            "en": "chill",
+            "es": "relax"
+        }
     },
     {
-        "name": "Guatape",
+        "name": {
+            "fr": "Guatapé",
+            "en": "Guatapé",
+            "es": "Guatapé"
+        },
         "coords": [
             6.232689,
             -75.158587
         ],
         "icon": "landscape",
         "image": "assets/images/colombia/guatape.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Cocora Valley",
+        "name": {
+            "fr": "Cocora Valley",
+            "en": "Cocora Valley",
+            "es": "Valle de Cocora"
+        },
         "coords": [
             4.646813,
             -75.485624
         ],
         "icon": "group",
         "image": "assets/images/colombia/salento-cocora.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Cancha De Tejo Los Amigos",
+        "name": {
+            "fr": "Cancha De Tejo Los Amigos",
+            "en": "Cancha De Tejo Los Amigos",
+            "es": "Cancha De Tejo Los Amigos"
+        },
         "coords": [
             4.639551,
             -75.569563
         ],
         "icon": "group",
         "image": "assets/images/colombia/salento-tejo.gif",
-        "description": "Jeu spécialement colombien qui ressemble au palet breton mais le jeu utilise des explosifs 🧨"
+        "description": {
+            "fr": "Jeu spécialement colombien qui ressemble au palet breton mais le jeu utilise des explosifs 🧨",
+            "en": "Traditional Colombian game similar to lawn bowling but using explosives 🧨",
+            "es": "Juego tradicional colombiano parecido a la tusa/petanca pero ¡con explosivos! 🧨"
+        }
     },
     {
-        "name": "",
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "coords": [
             4.672285,
             -75.367777
         ],
         "icon": "group",
         "image": "assets/images/colombia/nevados-cooking.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Les randonneurs",
+        "name": {
+            "fr": "Les randonneurs",
+            "en": "The hikers",
+            "es": "Los senderistas"
+        },
         "coords": [
             4.681616,
             -75.394078
         ],
         "icon": "hiking",
         "image": "assets/images/colombia/nevados-copains.jpeg",
-        "description": "Randonnée x bivouac au coeur du parc national de los Nevados"
+        "description": {
+            "fr": "Randonnée x bivouac au coeur du parc national de los Nevados",
+            "en": "Hike & bivouac in the heart of Los Nevados National Park",
+            "es": "Senderismo y vivaque en el corazón del Parque Nacional Los Nevados"
+        }
     },
     {
-        "name": "Les dogos",
+        "name": {
+            "fr": "Les dogos",
+            "en": "The doggos",
+            "es": "Los perritos"
+        },
         "coords": [
             4.689096,
             -75.388503
         ],
         "icon": "pets",
         "image": "assets/images/colombia/nevados-dogs.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Refuge aux petits oignons",
+        "name": {
+            "fr": "Refuge aux petits oignons",
+            "en": "Top notch mountain shelter",
+            "es": "Refugio de montaña fantástico"
+        },
         "coords": [
             4.673068,
             -75.385502
         ],
         "icon": "house",
         "image": "assets/images/colombia/nevados-primavera.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "La redescente avec Julien",
+        "name": {
+            "fr": "La redescente avec Julien",
+            "en": "Hike down with Julien",
+            "es": "El descenso con Julien"
+        },
         "coords": [
             4.682255,
             -75.422919
         ],
         "icon": "group",
         "image": "assets/images/colombia/nevados-selfie.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Camping",
+        "name": {
+            "fr": "Camping",
+            "en": "Camping",
+            "es": "Camping"
+        },
         "coords": [
             4.669649,
             -75.400296
         ],
         "icon": "house",
         "image": "assets/images/colombia/nevados-tente.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     }
 ]

@@ -1,122 +1,218 @@
 [
     {
-        "name": "Tortuga",
+        "name": {
+            "fr": "Tortuga",
+            "en": "Sea Turtle",
+            "es": "Tortuga"
+        },
         "coords": [
             -4.108255,
             -81.065861
         ],
         "icon": "pets",
         "image": "assets/images/peru/mancora-turtle.gif",
-        "description": "chill"
+        "description": {
+            "fr": "chill",
+            "en": "chilling out",
+            "es": "relax"
+        }
     },
     {
-        "name": "El barco varado",
+        "name": {
+            "fr": "El barco varado",
+            "en": "The stranded boat",
+            "es": "El barco varado"
+        },
         "coords": [
             -4.101485,
             -81.053142
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-boat.jpeg",
-        "description": "Journée de grosse vague, la famille de pêcheurs était à un enterrement, le bateau s'est décroché."
+        "description": {
+            "fr": "Journée de grosses vagues, la famille de pêcheurs était à un enterrement, le bateau s'est décroché.",
+            "en": "Day of big waves, the fisherman family was attending a funeral, and the boat broke loose.",
+            "es": "Día de olas grandes, la familia de pescadores estaba en un entierro y el barco se soltó."
+        }
     },
     {
-        "name": "Wild Kite Peru",
+        "name": {
+            "fr": "Wild Kite Peru",
+            "en": "Wild Kite Peru",
+            "es": "Wild Kite Peru"
+        },
         "coords": [
             -4.098686,
             -81.050775
         ],
         "icon": "kitesurfing",
         "image": "assets/images/peru/mancora-wkp.jpeg",
-        "description": "🤙"
+        "description": {
+            "fr": "🤙",
+            "en": "🤙",
+            "es": "🤙"
+        }
     },
     {
-        "name": "Sunset Lovers",
+        "name": {
+            "fr": "Sunset Lovers",
+            "en": "Sunset Lovers",
+            "es": "Sunset Lovers"
+        },
         "coords": [
             -4.106259,
             -81.060555
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-sunset.jpeg",
-        "description": "Rendez-vous quotidien pour célébrer la de fin de journée."
+        "description": {
+            "fr": "Rendez-vous quotidien pour célébrer la fin de journée.",
+            "en": "Daily gathering spot to celebrate the end of the day.",
+            "es": "Cita diaria para celebrar el final del día."
+        }
     },
     {
-        "name": "Mercado Municial de Mancora",
+        "name": {
+            "fr": "Mercado Municipal de Máncora",
+            "en": "Máncora Municipal Market",
+            "es": "Mercado Municipal de Máncora"
+        },
         "coords": [
             -4.107612,
             -81.050377
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-market.jpeg",
-        "description": "Rendez-vous quotidien pour célébrer la de fin de journée."
+        "description": {
+            "fr": "Marché local haut en couleurs pour trouver fruits frais, poisson et petit-déjeuner local.",
+            "en": "Vibrant local market for fresh fruits, fish, and traditional breakfast.",
+            "es": "Colorido mercado local para comprar fruta fresca, pescado y desayunos típicos."
+        }
     },
     {
-        "name": "The point",
+        "name": {
+            "fr": "The Point",
+            "en": "The Point",
+            "es": "The Point"
+        },
         "coords": [
             -4.101958,
             -81.053218
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-thepoint.jpeg",
-        "description": "Première nuit avant de commencer le volontariat. Vraiment un 'party hostel' pas des plus funnyfun."
+        "description": {
+            "fr": "Première nuit avant de commencer le volontariat. Vraiment un 'party hostel' pas des plus drôles.",
+            "en": "First night before starting volunteering. Truly a party hostel, not the most enjoyable.",
+            "es": "Primera noche antes de empezar el voluntariado. Un hostel de fiesta que no fue del todo de mi agrado."
+        }
     },
     {
-        "name": "Zaigon",
+        "name": {
+            "fr": "Zaigon",
+            "en": "Zaigon",
+            "es": "Zaigon"
+        },
         "coords": [
             -4.097849,
             -81.050162
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-zaigon.gif",
-        "description": "Restaurant 3 étoiles pour son sandwich popoeye le jour et bar à salsa la nuit 🕺🪩"
+        "description": {
+            "fr": "Restaurant 3 étoiles pour son sandwich Popeye le jour et bar à salsa la nuit 🕺🪩",
+            "en": "3-star spot for its Popeye sandwich by day and salsa bar by night 🕺🪩",
+            "es": "Restaurante de 3 estrellas por su sándwich Popeye de día y bar de salsa de noche 🕺🪩"
+        }
     },
     {
-        "name": "Las Pocitas",
+        "name": {
+            "fr": "Las Pocitas",
+            "en": "Las Pocitas",
+            "es": "Las Pocitas"
+        },
         "coords": [
             -4.114724284835225,
             -81.07997058498077
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-shells.jpeg",
-        "description": "Vendeurs de coquillage"
+        "description": {
+            "fr": "Vendeurs de coquillages",
+            "en": "Seashell vendors",
+            "es": "Vendedores de conchas"
+        }
     },
     {
-        "name": "Sunset 🫶",
+        "name": {
+            "fr": "Sunset 🫶",
+            "en": "Sunset 🫶",
+            "es": "Atardecer 🫶"
+        },
         "coords": [
             -4.096812274528384,
             -81.05038050993234
         ],
         "icon": "",
         "image": "assets/images/peru/mancora-wkp-socialsunset.jpeg",
-        "description": "Petite bière à wild kite peru"
+        "description": {
+            "fr": "Petite bière à Wild Kite Peru",
+            "en": "Enjoying a cold beer at Wild Kite Peru",
+            "es": "Una cerveza helada en Wild Kite Peru"
+        }
     },
     {
-        "name": "Tortuga",
+        "name": {
+            "fr": "Tortuga",
+            "en": "Sea Turtle",
+            "es": "Tortuga"
+        },
         "coords": [
             -4.101138,
             -81.053015
         ],
         "icon": "pets",
         "image": "assets/images/peru/mancora-turtle.jpeg",
-        "description": "Petite tortue creuse un trou avec ses pates arrières pour enfouir ses oeufs."
+        "description": {
+            "fr": "Petite tortue creuse un trou avec ses pattes arrières pour enfouir ses œufs.",
+            "en": "Little sea turtle digging a hole with her hind flippers to lay her eggs.",
+            "es": "Pequeña tortuga cavando un nido con sus aletas traseras para enterrar sus huevos."
+        }
     },
     {
-        "name": "Sunset session 🌅",
+        "name": {
+            "fr": "Sunset session 🌅",
+            "en": "Sunset session 🌅",
+            "es": "Sesión al atardecer 🌅"
+        },
         "coords": [
             -4.096563,
             -81.053899
         ],
         "icon": "kitesurfing",
         "image": "assets/images/peru/mancora-kite.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Beach Volley Mancora 🏐",
+        "name": {
+            "fr": "Beach Volley Máncora 🏐",
+            "en": "Máncora Beach Volleyball 🏐",
+            "es": "Vóley playa Máncora 🏐"
+        },
         "coords": [
             -4.1063130406166755,
             -81.05804155448376
         ],
         "icon": "sports_soccer",
         "image": "assets/images/peru/mancora-volleyball.jpeg",
-        "description": "Rendez-vous tous les soirs pour un beachvolley"
+        "description": {
+            "fr": "Rendez-vous tous les soirs pour un beachvolley",
+            "en": "Daily evening gathering for beach volleyball",
+            "es": "Quedada todas las tardes para jugar al vóley playa"
+        }
     }
 ]

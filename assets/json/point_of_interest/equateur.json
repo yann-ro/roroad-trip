@@ -1,412 +1,740 @@
 [
     {
-        "name": "Petites peintures",
+        "name": {
+            "fr": "Petites peintures",
+            "en": "Small paintings",
+            "es": "Pequeñas pinturas"
+        },
         "coords": [
             -0.221205,
             -78.514999
         ],
         "icon": "palette",
         "image": "assets/images/ecuador/quito-museo.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Le plus beau stickers",
+        "name": {
+            "fr": "Le plus beau stickers",
+            "en": "The coolest sticker",
+            "es": "La mejor pegatina"
+        },
         "coords": [
             -0.219630,
             -78.504283
         ],
         "icon": "palette",
         "image": "assets/images/ecuador/quito-stickers.jpeg",
-        "description": "La gourde sera perdue dans un bus par la suite 😭"
+        "description": {
+            "fr": "La gourde sera perdue dans un bus par la suite 😭",
+            "en": "The water bottle was later lost on a bus 😭",
+            "es": "La cantimplora se perdió más tarde en un autobús 😭"
+        }
     },
     {
-        "name": "Bike bike",
+        "name": {
+            "fr": "Bike bike",
+            "en": "Bike ride",
+            "es": "Paseo en bici"
+        },
         "coords": [
             -0.208687,
             -78.503824
         ],
         "icon": "palette",
         "image": "assets/images/ecuador/quito-tag.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Mitad del Mundo",
+        "name": {
+            "fr": "Mitad del Mundo",
+            "en": "Mitad del Mundo",
+            "es": "Mitad del Mundo"
+        },
         "coords": [
             -0.002285,
             -78.455869
         ],
         "icon": "",
         "image": "assets/images/ecuador/quito-zero.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Ecuador",
+        "name": {
+            "fr": "Ecuador",
+            "en": "Ecuador",
+            "es": "Ecuador"
+        },
         "coords": [
             0.790408,
             -77.902624
         ],
         "icon": "",
         "image": "assets/images/ecuador/ecuador.jpeg",
-        "description": "let's go!"
+        "description": {
+            "fr": "let's go!",
+            "en": "let's go!",
+            "es": "¡vamos!"
+        }
     },
     {
-        "name": "Les lamas à punanti",
+        "name": {
+            "fr": "Les lamas à punanti",
+            "en": "Llamas in Punanti",
+            "es": "Las llamas en Punanti"
+        },
         "coords": [
             0.109694,
             -78.022716
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/punanti-lama.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Volcán Pichincha",
+        "name": {
+            "fr": "Volcán Pichincha",
+            "en": "Pichincha Volcano",
+            "es": "Volcán Pichincha"
+        },
         "coords": [
             -0.170853,
             -78.612630
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/quito-guagua-pichincha.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Ruccu Pichincha",
+        "name": {
+            "fr": "Ruccu Pichincha",
+            "en": "Ruccu Pichincha",
+            "es": "Rucu Pichincha"
+        },
         "coords": [
             -0.163127,
             -78.566827
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/quito-ruccu-pichincha-summit.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Integral de las Pichinchas",
+        "name": {
+            "fr": "Integral de las Pichinchas",
+            "en": "Pichinchas Integral Trek",
+            "es": "Integral de las Pichinchas"
+        },
         "coords": [
             -0.181333,
             -78.540610
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/quito-ruccu-pichincha.jpeg",
-        "description": "Marche depuis l'hostel Secret Garden x TéléferiQo x Intégral de los Pichinchas: 36km 3000d+, sacrée journée dans les pattes."
+        "description": {
+            "fr": "Marche depuis l'hostel Secret Garden x TéléferiQo x Intégral de los Pichinchas: 36km 3000d+, sacrée journée dans les pattes.",
+            "en": "Hike from Secret Garden hostel x Teleferico x Integral de los Pichinchas: 36km 3000m elevation gain, huge day for the legs.",
+            "es": "Caminata desde el hostel Secret Garden x Teleférico x Integral de los Pichinchas: 36km 3000m desnivel positivo, paliza para las piernas."
+        }
     },
     {
-        "name": "Imbabura (4 609m)",
+        "name": {
+            "fr": "Imbabura (4 609m)",
+            "en": "Imbabura (4,609m)",
+            "es": "Imbabura (4.609m)"
+        },
         "coords": [
             0.275368,
             -78.137424
         ],
         "icon": "hiking",
         "image": "assets/images/ecuador/esperanza-imbabura.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Imbabura dans les nuages",
+        "name": {
+            "fr": "Imbabura dans les nuages",
+            "en": "Imbabura in the clouds",
+            "es": "Imbabura en las nubes"
+        },
         "coords": [
             0.260447,
             -78.180790
         ],
         "icon": "hiking",
         "image": "assets/images/ecuador/esperanza-imbabura-summit.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Angureal (4 800m)",
+        "name": {
+            "fr": "Angureal (4 800m)",
+            "en": "Angureal (4,800m)",
+            "es": "Angureal (4.800m)"
+        },
         "coords": [
             0.041738,
             -78.010338
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/punanti-angureal.jpeg",
-        "description": "Rando jusqu'à l'Angureal avec les dogos, vue sur le Cayambe (5 790m)"
+        "description": {
+            "fr": "Rando jusqu'à l'Angureal avec les dogos, vue sur le Cayambe (5 790m)",
+            "en": "Hike to Angureal with the dogs, view over Cayambe (5,790m)",
+            "es": "Caminata al Angureal con los perros, vistas al Cayambe (5.790m)"
+        }
     },
     {
-        "name": "RUMI UKU",
+        "name": {
+            "fr": "RUMI UKU",
+            "en": "RUMI UKU",
+            "es": "RUMI UKU"
+        },
         "coords": [
             0.122492,
             -78.025013
         ],
         "icon": "",
         "image": "assets/images/ecuador/punanti-escalade.jpeg",
-        "description": "Mur d'escalade: initiation à l'escalade sur rocher, trop cool mais chaussures beaaaaaucoup trop petites"
+        "description": {
+            "fr": "Mur d'escalade: initiation à l'escalade sur rocher, trop cool mais chaussures beaaaaaucoup trop petites",
+            "en": "Climbing wall: intro to outdoor rock climbing, super cool but shoes wayyyyy too tight",
+            "es": "Muro de escalada: iniciación a la escalada en roca, muy genial pero calzado muuuy pequeño"
+        }
     },
     {
-        "name": "Stylé",
+        "name": {
+            "fr": "Stylé",
+            "en": "Stylish",
+            "es": "Con estilo"
+        },
         "coords": [
             -0.219221,
             -78.504239
         ],
         "icon": "palette",
         "image": "assets/images/ecuador/quito-tag2.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Dimanche à Quito",
+        "name": {
+            "fr": "Dimanche à Quito",
+            "en": "Sunday in Quito",
+            "es": "Domingo en Quito"
+        },
         "coords": [
             -0.209480,
             -78.500502
         ],
         "icon": "directions_bike",
         "image": "assets/images/ecuador/quito-bike.gif",
-        "description": "Les dimanches 60km de rues principales sont bloquées pour laisser les vélo circuler: un régal!!"
+        "description": {
+            "fr": "Les dimanches 60km de rues principales sont bloquées pour laisser les vélo circuler: un régal!!",
+            "en": "On Sundays 60km of main avenues are closed off for cyclists: pure bliss!!",
+            "es": "Los domingos se cortan 60km de avenidas principales para las bicis: ¡una maravilla!"
+        }
     },
     {
-        "name": "El Cap Quito Escalade",
+        "name": {
+            "fr": "El Cap Quito Escalade",
+            "en": "El Cap Quito Bouldering",
+            "es": "El Cap Quito Escalada"
+        },
         "coords": [
             -0.178183,
             -78.488737
         ],
         "icon": "",
         "image": "assets/images/ecuador/quito-block.jpeg",
-        "description": "On attend que la cb soit livrée pendant une ptite semaine donc go s'entrainer au bloc !! (encore débutant mais le 6b+ est passé)"
+        "description": {
+            "fr": "On attend que la cb soit livrée pendant une ptite semaine donc go s'entrainer au bloc !! (encore débutant mais le 6b+ est passé)",
+            "en": "Waiting a week for my credit card delivery, so let's boulder!! (still a beginner but sent a 6b+)",
+            "es": "Esperando el envío de la tarjeta durante una semana, ¡así que a entrenar bloque! (aún principiante pero encadené un 6b+)"
+        }
     },
     {
-        "name": "Dimanche à Quito 🪁",
+        "name": {
+            "fr": "Dimanche à Quito 🪁",
+            "en": "Sunday in Quito 🪁",
+            "es": "Domingo en Quito 🪁"
+        },
         "coords": [
             -0.180194,
             -78.483598
         ],
         "icon": "",
         "image": "assets/images/ecuador/quito-cerfvolant.gif",
-        "description": "Tous le monde est dehors, foot, volley, cerf volant, basket: assez cool à regarder!"
+        "description": {
+            "fr": "Tous le monde est dehors, foot, volley, cerf volant, basket: assez cool à regarder!",
+            "en": "Everyone is outside: football, volleyball, kites, basketball, really nice to watch!",
+            "es": "Todo el mundo fuera: fútbol, voleibol, cometas, baloncesto... ¡muy divertido de ver!"
+        }
     },
     {
-        "name": "Bikepark Cotopaxi",
+        "name": {
+            "fr": "Bikepark Cotopaxi",
+            "en": "Cotopaxi Bike Park",
+            "es": "Bikepark Cotopaxi"
+        },
         "coords": [
             -0.690654,
             -78.580081
         ],
         "icon": "directions_bike",
         "image": "assets/images/ecuador/cotopaxi-bike.jpeg",
-        "description": "Bikepark trop cool mais loc de vélo un peu cher. Du coup pas pu rester trop.."
+        "description": {
+            "fr": "Bikepark trop cool mais loc de vélo un peu cher. Du coup pas pu rester trop..",
+            "en": "Awesome bikepark but bike rental was a bit pricey. Couldn't stay long..",
+            "es": "Bikepark genial pero alquiler de bici algo caro. No pude quedarme mucho.."
+        }
     },
     {
-        "name": "Iliniza Norte (5 126m)",
+        "name": {
+            "fr": "Iliniza Norte (5 126m)",
+            "en": "Iliniza Norte (5,126m)",
+            "es": "Iliniza Norte (5.126m)"
+        },
         "coords": [
             -0.649854,
             -78.719788
         ],
         "icon": "volcano",
         "image": "assets/images/ecuador/iliniza-norte.jpeg",
-        "description": "Première fois à 5000m d'altitude! Gants oublié ça caille de ouf."
+        "description": {
+            "fr": "Première fois à 5000m d'altitude! Gants oublié ça caille de ouf.",
+            "en": "First time at 5,000m elevation! Forgot gloves, freezing cold.",
+            "es": "¡Primera vez a 5.000m de altitud! Olvidé los guantes, frío helador."
+        }
     },
     {
-        "name": "Dos Dogos en la montaña",
+        "name": {
+            "fr": "Dos Dogos en la montaña",
+            "en": "Two mountain dogs",
+            "es": "Dos dogos en la montaña"
+        },
         "coords": [
             -0.655579,
             -78.712583
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/iliniza-dogo.gif",
-        "description": "Deux dogos sortis d'une ferme nous ont suivi tout le long du chemin."
+        "description": {
+            "fr": "Deux dogos sortis d'une ferme nous ont suivi tout le long du chemin.",
+            "en": "Two farm dogs followed us all the way up the path.",
+            "es": "Dos perros de una granja nos siguieron por todo el camino."
+        }
     },
     {
-        "name": "Agoyan Cascada",
+        "name": {
+            "fr": "Agoyan Cascada",
+            "en": "Agoyan Waterfall",
+            "es": "Cascada Agoyán"
+        },
         "coords": [
             -1.402628,
             -78.368999
         ],
         "icon": "",
         "image": "assets/images/ecuador/cascade-1.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Cascada Manto de la Novia",
+        "name": {
+            "fr": "Cascada Manto de la Novia",
+            "en": "Manto de la Novia Waterfall",
+            "es": "Cascada Manto de la Novia"
+        },
         "coords": [
             -1.404752,
             -78.335301
         ],
         "icon": "",
         "image": "assets/images/ecuador/cascade-2.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Cascada Machay",
+        "name": {
+            "fr": "Cascada Machay",
+            "en": "Machay Waterfall",
+            "es": "Cascada Machay"
+        },
         "coords": [
             -1.401014,
             -78.282070
         ],
         "icon": "",
         "image": "assets/images/ecuador/cascade-3.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Petite crêpe au soleil",
+        "name": {
+            "fr": "Petite crêpe au soleil",
+            "en": "Sunny crepe break",
+            "es": "Crepe al sol"
+        },
         "coords": [
             -1.830885,
             -80.750858
         ],
         "icon": "",
         "image": "assets/images/ecuador/montanita-restaurant.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Baleines à Bosse 🐋",
+        "name": {
+            "fr": "Baleines à Bosse 🐋",
+            "en": "Humpback Whales 🐋",
+            "es": "Ballenas Jorobadas 🐋"
+        },
         "coords": [
             -1.568885,
             -80.908401
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/puerto-lopez-baleine.gif",
-        "description": "Moment magique, les membres de la petite chaloupe son restés sans voix 😍s"
+        "description": {
+            "fr": "Moment magique, les membres de la petite chaloupe sont restés sans voix 😍",
+            "en": "Magical moment, everyone on the small boat was left speechless 😍",
+            "es": "Momento mágico, todos en la barca se quedaron sin palabras 😍"
+        }
     },
     {
-        "name": "Fous aux pieds bleus",
+        "name": {
+            "fr": "Fous aux pieds bleus",
+            "en": "Blue-footed Boobies",
+            "es": "Piqueros de patas azules"
+        },
         "coords": [
             -1.290538,
             -81.053943
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/puerto-lopez-fou.jpeg",
-        "description": "Belles palmes"
+        "description": {
+            "fr": "Belles palmes",
+            "en": "Nice webbed feet",
+            "es": "Buenas patas de palmera"
+        }
     },
     {
-        "name": "Fregate des Galapagos",
+        "name": {
+            "fr": "Frégate des Galapagos",
+            "en": "Galapagos Frigatebird",
+            "es": "Fragata de Galápagos"
+        },
         "coords": [
             -1.255595,
             -81.079061
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/puerto-lopez-fregate.jpeg",
-        "description": "On bombe le torse pour la photo"
+        "description": {
+            "fr": "On bombe le torse pour la photo",
+            "en": "Puffing up the chest for the photo",
+            "es": "Sacando pecho para la foto"
+        }
     },
     {
-        "name": "Sunset",
+        "name": {
+            "fr": "Sunset",
+            "en": "Sunset",
+            "es": "Atardecer"
+        },
         "coords": [
             -1.551178,
             -80.812110
         ],
         "icon": "",
         "image": "assets/images/ecuador/puerto-lopez-sunset.gif",
-        "description": "Parfaitement centré sur la baie: top"
+        "description": {
+            "fr": "Parfaitement centré sur la baie: top",
+            "en": "Perfectly centered over the bay: awesome",
+            "es": "Perfectamente centrado en la bahía: de 10"
+        }
     },
     {
-        "name": "Ballenas",
+        "name": {
+            "fr": "Ballenas",
+            "en": "Whales",
+            "es": "Ballenas"
+        },
         "coords": [
             -4.085259,
             -81.101439
         ],
         "icon": "pets",
         "image": "assets/images/peru/mancora-ballenas.gif",
-        "description": "plouf"
+        "description": {
+            "fr": "plouf",
+            "en": "splash",
+            "es": "chof"
+        }
     },
     {
-        "name": "Pacha Mama",
+        "name": {
+            "fr": "Pacha Mama",
+            "en": "Pacha Mama",
+            "es": "Pachamama"
+        },
         "coords": [
             -2.901918,
             -79.004078
         ],
         "icon": "format_paint",
         "image": "assets/images/ecuador/cuenca-tag-1.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Mamita",
+        "name": {
+            "fr": "Mamita",
+            "en": "Mamita",
+            "es": "Mamita"
+        },
         "coords": [
             -2.900020,
             -79.001402
         ],
         "icon": "format_paint",
         "image": "assets/images/ecuador/cuenca-tag-2.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Big boy",
+        "name": {
+            "fr": "Big boy",
+            "en": "Big boy",
+            "es": "Big boy"
+        },
         "coords": [
             -2.896578,
             -79.009549
         ],
         "icon": "format_paint",
         "image": "assets/images/ecuador/cuenca-tag3.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Melancholy Hill",
+        "name": {
+            "fr": "Melancholy Hill",
+            "en": "Melancholy Hill",
+            "es": "Melancholy Hill"
+        },
         "coords": [
             -2.899392,
             -79.000730
         ],
         "icon": "format_paint",
         "image": "assets/images/ecuador/cuenca-tag4.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Parque Nacional Cajas",
+        "name": {
+            "fr": "Parque Nacional Cajas",
+            "en": "Cajas National Park",
+            "es": "Parque Nacional Cajas"
+        },
         "coords": [
             -2.777208,
             -79.218978
         ],
         "icon": "directions_walk",
         "image": "assets/images/ecuador/cajas-1.jpeg",
-        "description": "Petite rando dans le parc national du Cajas. Fraichement arrivé à cuenca, Neev 🇮🇱 propose à moi et à Victor 🇫🇷 de faire le parc nationnal du Cajas avec lui. C'est parti, petit lacs et surtout longue discussions très intéressantes sur son pays. Très ouverts aux débats, il nous explique sa vision de son pays qui vire vers l'extrème. On ne refait pas le monde mais toujours intéressant d'avoir le point de vue de quelqu'un qui vit là-bas et qui s'oppose à son gouvernement."
+        "description": {
+            "fr": "Petite rando dans le parc national du Cajas. Fraichement arrivé à cuenca, Neev 🇮🇱 propose à moi et à Victor 🇫🇷 de faire le parc nationnal du Cajas avec lui. C'est parti, petit lacs et surtout longue discussions très intéressantes sur son pays. Très ouverts aux débats, il nous explique sa vision de son pays qui vire vers l'extrème. On ne refait pas le monde mais toujours intéressant d'avoir le point de vue de quelqu'un qui vit là-bas et qui s'oppose à son gouvernement.",
+            "en": "Day hike in Cajas National Park. Freshly arrived in Cuenca, Neev 🇮🇱 invited Victor 🇫🇷 and me to join him in Cajas. Beautiful lakes and engaging discussions about his country's political situation. Great exchange of perspectives.",
+            "es": "Caminata por el Parque Nacional Cajas. Recién llegado a Cuenca, Neev 🇮🇱 nos propone a Victor 🇫🇷 y a mí ir al parque. Preciosos lagos e interesantes debates sobre la situación de su país."
+        }
     },
     {
-        "name": "Le paysan breton, avec une pointe de sel",
+        "name": {
+            "fr": "Le paysan breton, avec une pointe de sel",
+            "en": "The Breton peasant, salted butter style",
+            "es": "El campesino bretón, con un toque de sal"
+        },
         "coords": [
             -2.778176,
             -79.229646
         ],
         "icon": "directions_walk",
         "image": "assets/images/ecuador/cajas-2.jpeg",
-        "description": "Victor, fervant militant engagé dans la propagande bretonne au travers de son voyage."
+        "description": {
+            "fr": "Victor, fervant militant engagé dans la propagande bretonne au travers de son voyage.",
+            "en": "Victor, fiercely promoting Breton culture throughout his travels.",
+            "es": "Victor, ferviente promotor de la cultura bretona durante su viaje."
+        }
     },
     {
-        "name": "Gousse de Chocolat",
+        "name": {
+            "fr": "Gousse de Chocolat",
+            "en": "Cacao Pod",
+            "es": "Mazorca de Cacao"
+        },
         "coords": [
             -2.873646,
             -77.729068
         ],
         "icon": "eco",
         "image": "assets/images/ecuador/loma-chocolat.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Cochouchou, le coati",
+        "name": {
+            "fr": "Cochouchou, le coati",
+            "en": "Cochouchou, the coati",
+            "es": "Cochouchou, el coatí"
+        },
         "coords": [
             -2.873725,
             -77.723978
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/loma-coati.gif",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Première mission",
+        "name": {
+            "fr": "Première mission",
+            "en": "First mission",
+            "es": "Primera misión"
+        },
         "coords": [
             -2.852076,
             -77.681577
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/loma-crocodile.gif",
-        "description": "Objectif simple: des caïmans envahissent des pisciculture, il faut les capturer puis trouver un moyen efficace pour éviter qu'ils ne reviennent dans les bassins."
+        "description": {
+            "fr": "Objectif simple: des caïmans envahissent des pisciculture, il faut les capturer puis trouver un moyen efficace pour éviter qu'ils ne reviennent dans les bassins.",
+            "en": "Simple goal: caimans invading fish farms need to be relocated and prevented from returning.",
+            "es": "Misión sencilla: caimanes invadiendo piscifactorías; hay que capturarlos y evitar que vuelvan."
+        }
     },
     {
-        "name": "Seconde mission",
+        "name": {
+            "fr": "Seconde mission",
+            "en": "Second mission",
+            "es": "Segunda misión"
+        },
         "coords": [
             -2.865470,
             -77.731292
         ],
         "icon": "eco",
         "image": "assets/images/ecuador/loma-digging.jpeg",
-        "description": "Seconde mission consiste à creuser pour faire des bassins d'exhibition où les animaux aquatiquent peuvent être acceuillis (amphibiens, serpents,..) "
+        "description": {
+            "fr": "Seconde mission consiste à creuser pour faire des bassins d'exhibition où les animaux aquatiquent peuvent être acceuillis (amphibiens, serpents,..)",
+            "en": "Second mission: digging ponds for displaying aquatic fauna (amphibians, snakes, etc.)",
+            "es": "Segunda misión: excavar estanques de exhibición para animales acuáticos (anfibios, serpientes, etc.)"
+        }
     },
     {
-        "name": "Grosse feuille",
+        "name": {
+            "fr": "Grosse feuille",
+            "en": "Giant leaf",
+            "es": "Hoja gigante"
+        },
         "coords": [
             -2.879270,
             -77.723435
         ],
         "icon": "eco",
         "image": "assets/images/ecuador/loma-leaf.jpeg",
-        "description": ""
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     },
     {
-        "name": "Dj Snake",
+        "name": {
+            "fr": "Dj Snake",
+            "en": "Dj Snake",
+            "es": "Dj Snake"
+        },
         "coords": [
             -2.866060,
             -77.717735
         ],
         "icon": "pets",
         "image": "assets/images/ecuador/loma-snake.jpeg",
-        "description": "Petit mais très joli"
+        "description": {
+            "fr": "Petit mais très joli",
+            "en": "Small but very pretty",
+            "es": "Pequeño pero muy bonito"
+        }
     }
 ]

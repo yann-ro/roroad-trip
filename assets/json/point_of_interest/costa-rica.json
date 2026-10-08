@@ -1,72 +1,128 @@
 [
     {
-        "name": "Super arbre",
+        "name": {
+            "fr": "Super arbre",
+            "en": "Awesome tree",
+            "es": "Superárbol"
+        },
         "coords": [
             9.934702,
             -84.070436
         ],
         "icon": "eco",
         "image": "assets/images/costarica/tree.jpeg",
-        "description": "Les amoureux de Truffaut en seraient fous"
+        "description": {
+            "fr": "Les amoureux de Truffaut en seraient fous",
+            "en": "Truffaut lovers would go crazy for this",
+            "es": "A los amantes de Truffaut les encantaría"
+        }
     },
     {
-        "name": "Steet Art",
+        "name": {
+            "fr": "Street Art",
+            "en": "Street Art",
+            "es": "Arte callejero"
+        },
         "coords": [
             9.935670,
             -84.067165
         ],
         "icon": "format_paint",
         "image": "assets/images/costarica/street-art.jpeg",
-        "description": "Les couleurs sont cools"
+        "description": {
+            "fr": "Les couleurs sont cools",
+            "en": "Cool colors",
+            "es": "Los colores molan"
+        }
     },
     {
-        "name": "Bernard",
+        "name": {
+            "fr": "Bernard",
+            "en": "Bernard",
+            "es": "Bernardo"
+        },
         "coords": [
             9.633720,
             -82.650511
         ],
         "icon": "pets",
         "image": "assets/images/costarica/bernard.jpeg",
-        "description": "Le plus beau de tous les bernards"
+        "description": {
+            "fr": "Le plus beau de tous les bernards",
+            "en": "The handsomest of all hermit crabs",
+            "es": "El más guapo de todos los ermitaños"
+        }
     },
     {
-        "name": "Capucino",
+        "name": {
+            "fr": "Capucin",
+            "en": "Capuchin monkey",
+            "es": "Mono capuchino"
+        },
         "coords": [
             9.748351,
             -82.816112
         ],
         "icon": "pets",
         "image": "assets/images/costarica/capucino.gif",
-        "description": "Ballerina Cappuccina"
+        "description": {
+            "fr": "Ballerina Cappuccina",
+            "en": "Ballerina Cappuccina",
+            "es": "Ballerina Cappuccina"
+        }
     },
     {
-        "name": "Pedro le rakoon",
+        "name": {
+            "fr": "Pedro le raton laveur",
+            "en": "Pedro the raccoon",
+            "es": "Pedro el mapache"
+        },
         "coords": [
             9.727839,
             -82.816730
         ],
         "icon": "pets",
         "image": "assets/images/costarica/rakoon.jpeg",
-        "description": "Pedro pedro, ce fou, s'en est allé raqueter le sac d'une petite vieille sur la plage."
+        "description": {
+            "fr": "Pedro pedro, ce fou, s'en est allé raqueter le sac d'une petite vieille sur la plage.",
+            "en": "Pedro Pedro, that crazy guy, went to raid an old lady's bag on the beach.",
+            "es": "Pedro Pedro, este loco, se fue a robar la bolsa de una anciana en la playa."
+        }
     },
     {
-        "name": "Paressado",
+        "name": {
+            "fr": "Paresseux",
+            "en": "Sloth",
+            "es": "Perezoso"
+        },
         "coords": [
             9.733042,
             -82.836609
         ],
         "icon": "pets",
         "image": "assets/images/costarica/sloth.gif",
-        "description": "Egérie de la lenteur, trop content de pouvoir les observer dans le parc national de Cahuita."
+        "description": {
+            "fr": "Egérie de la lenteur, trop content de pouvoir les observer dans le parc national de Cahuita.",
+            "en": "Icons of slowness, super happy to observe them in Cahuita National Park.",
+            "es": "Icono de la lentitud, encantado de poder observarlos en el Parque Nacional Cahuita."
+        }
     },
     {
-        "name": "Tortuga",
+        "name": {
+            "fr": "Tortue",
+            "en": "Turtle",
+            "es": "Tortuga"
+        },
         "coords": [
             9.703042,
             -82.809896
         ],
         "icon": "pets",
         "image": "assets/images/costarica/tortuga.gif",
-        "description": "Au sommet de la chaine alimentaire, prédateur féroce aux crocs assérés."
+        "description": {
+            "fr": "Au sommet de la chaîne alimentaire, prédateur féroce aux crocs acérés.",
+            "en": "At the top of the food chain, a fierce predator with razor-sharp fangs.",
+            "es": "En la cima de la cadena alimenticia, un feroz depredador con afilados colmillos."
+        }
     }
 ]

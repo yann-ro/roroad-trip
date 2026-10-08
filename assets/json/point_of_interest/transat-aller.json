@@ -1,61 +1,109 @@
 [
     {
-        "name": "Encornet",
+        "name": {
+            "fr": "Encornet",
+            "en": "Squid",
+            "es": "Calamar"
+        },
         "coords": [
             20,
             -21.8
         ],
-        "description": "Petit passager clandestin à bord du bateau.",
+        "description": {
+            "fr": "Petit passager clandestin à bord du bateau.",
+            "en": "Little stowaway onboard the sailboat.",
+            "es": "Pequeño polizón a bordo del barco."
+        },
         "icon": "pets",
         "image": "assets/images/poi/encornet.jpeg"
     },
     {
-        "name": "Cap'tain Cook",
+        "name": {
+            "fr": "Cap'tain Cook",
+            "en": "Captain Cook",
+            "es": "Capitán Cook"
+        },
         "coords": [
             16.279290,
             -61.249893
         ],
-        "description": "Arrivée sur terre",
+        "description": {
+            "fr": "Arrivée sur terre",
+            "en": "Arrival on land",
+            "es": "Llegada a tierra"
+        },
         "icon": "",
         "image": "assets/images/transat-aller/guadeloupe-selfie.jpeg"
     },
     {
-        "name": "Racoon",
+        "name": {
+            "fr": "Raton laveur",
+            "en": "Raccoon",
+            "es": "Mapache"
+        },
         "coords": [
             16.292388,
             -61.663670
         ],
-        "description": "Creuse la terre à la recherche de vers.",
+        "description": {
+            "fr": "Creuse la terre à la recherche de vers.",
+            "en": "Digging the ground looking for worms.",
+            "es": "Escavando la tierra en busca de gusanos."
+        },
         "icon": "pets",
         "image": "assets/images/transat-aller/racoon.jpeg"
     },
     {
-        "name": "Coque étanche",
+        "name": {
+            "fr": "Coque étanche",
+            "en": "Waterproof case",
+            "es": "Funda impermeable"
+        },
         "coords": [
             16.231365,
             -61.529755
         ],
-        "description": "téléphone récupéré, coque étanche achetée: fin des petites galères",
+        "description": {
+            "fr": "Téléphone récupéré, coque étanche achetée: fin des petites galères",
+            "en": "Phone recovered, waterproof case bought: end of small troubles",
+            "es": "Teléfono recuperado, funda impermeable comprada: fin de las pequeñas complicaciones"
+        },
         "icon": "",
         "image": "assets/images/transat-aller/coque-etanche.gif"
     },
     {
-        "name": "Exocet",
+        "name": {
+            "fr": "Exocet",
+            "en": "Flying Fish",
+            "es": "Pez volador"
+        },
         "coords": [
             18.162691,
             -39.104638
         ],
-        "description": "Aviateur kamikaze qui a terminé sur le ponton",
+        "description": {
+            "fr": "Aviateur kamikaze qui a terminé sur le ponton",
+            "en": "Kamikaze aviator that landed on the deck",
+            "es": "Aviador kamikaze que terminó en la cubierta"
+        },
         "icon": "pets",
         "image": "assets/images/poi/exocet.jpeg"
     },
     {
-        "name": "Dauphin",
+        "name": {
+            "fr": "Dauphin",
+            "en": "Dolphin",
+            "es": "Delfín"
+        },
         "coords": [
             16.862691,
             -49.104638
         ],
-        "description": "Surfeur originel, profitant du passage de bateau pour exhiber ses skills",
+        "description": {
+            "fr": "Surfeur originel, profitant du passage du bateau pour exhiber ses skills",
+            "en": "Original surfer, taking advantage of the boat's wake to show off skills",
+            "es": "Surfer original, aprovechando el paso del barco pour lucir sus habilidades"
+        },
         "icon": "pets",
         "image": "assets/images/poi/dauphin-at.jpeg"
     }

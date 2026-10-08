@@ -1,209 +1,379 @@
 [
     {
-        "name": "Iguana",
+        "name": {
+            "fr": "Iguane",
+            "en": "Iguana",
+            "es": "Iguana"
+        },
         "coords": [
             21.333,
             -86.797
         ],
-        "description": "Petite rencontre avec l'iguane local du spot d'Ikarus. En l'absence de vent il prend un petit bail de soleil sur les roches brûlantes.",
+        "description": {
+            "fr": "Petite rencontre avec l'iguane local du spot d'Ikarus. En l'absence de vent il prend un petit bail de soleil sur les roches brûlantes.",
+            "en": "Short encounter with the local iguana at the Ikarus spot. With no wind around, it enjoys soaking up the sun on the hot rocks.",
+            "es": "Un pequeño encuentro con la iguana local del spot de Ikarus. A falta de viento, se toma un rato al sol sobre las rocas calientes."
+        },
         "icon": "pets",
         "image": "assets/images/poi/iguana.jpeg"
     },
     {
-        "name": "Pelican",
+        "name": {
+            "fr": "Pélican",
+            "en": "Pelican",
+            "es": "Pelícano"
+        },
         "coords": [
             21.35,
             -86.791
         ],
-        "description": "Pelicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau. Son air est menaçant mais il s'avère être assez sympathique.",
+        "description": {
+            "fr": "Pélicans très présents le long des plages on peut souvent les voir pêcher ou barboter dans l'eau. Son air est menaçant mais il s'avère être assez sympathique.",
+            "en": "Pelicans are very common along the beaches, often seen fishing or splashing in the water. It looks intimidating, but turns out to be quite friendly.",
+            "es": "Pelícanos muy presentes a lo largo de las playas, se les ve a menudo pescando o chapoteando en el agua. Parece amenazante pero resulta ser bastante simpático."
+        },
         "icon": "pets",
         "image": "assets/images/poi/pelican.jpeg"
     },
     {
-        "name": "Coati",
+        "name": {
+            "fr": "Coati",
+            "en": "Coati",
+            "es": "Coatí"
+        },
         "coords": [
             21.143247,
             -86.838161
         ],
-        "description": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement dans jardin Ecológico Kabah. C'est une espèce endémique d'Amérique latinequi ressemble à un mélange entre un suricat et un raton laveur.",
+        "description": {
+            "fr": "Rencontre avec toute une famille \"los coaties\" qui se baladent librement dans jardin Ecológico Kabah. C'est une espèce endémique d'Amérique latine qui ressemble à un mélange entre un suricat et un raton laveur.",
+            "en": "Met a whole family of 'los coatíes' roaming freely in the Kabah Ecological Garden. An endemic Latin American species that looks like a mix between a meerkat and a raccoon.",
+            "es": "Encuentro con toda una familia 'los coatíes' paseando libremente por el Parque Ecológico Kabah. Una especie endémica de América Latina que parece una mezcla entre suricata y mapache."
+        },
         "icon": "pets",
         "image": "assets/images/poi/coati.jpeg"
     },
     {
-        "name": "Canard Musque",
+        "name": {
+            "fr": "Canard Musqué",
+            "en": "Muscovy Duck",
+            "es": "Pato criollo"
+        },
         "coords": [
             21.333,
             -86.795
         ],
-        "description": "Locataire de Ikarus et grand aviateur, il aime se poser sur le toit des voitures pour profiter de la vue.",
+        "description": {
+            "fr": "Locataire de Ikarus et grand aviateur, il aime se poser sur le toit des voitures pour profiter de la vue.",
+            "en": "Resident aviator at Ikarus, loves perching on car roofs to enjoy the view.",
+            "es": "Residente de Ikarus y gran aviador, le encanta posarse en el techo de los coches para disfrutar de las vistas."
+        },
         "icon": "pets",
         "image": "assets/images/poi/canard-musque.jpeg"
     },
     {
-        "name": "Mue de Limule",
+        "name": {
+            "fr": "Mue de Limule",
+            "en": "Horseshoe crab molt",
+            "es": "Muda de cacerola de mar"
+        },
         "coords": [
             21.35,
             -86.789
         ],
-        "description": "Elles jonchent le rivage du spot d'Ikarus, je n'ai jamais pu les appercevoir de leur vivant. Leur apparence assez originale évoque à la fois des périodes préhistoriques, des tableaux comme ceux de Ruedi Gigger ou des films de science fictions. Dôté d'un sang bleu aux propriétés particulières, cet animal est très prisé par le monde du biomédical.",
+        "description": {
+            "fr": "Elles jonchent le rivage du spot d'Ikarus, je n'ai jamais pu les apercevoir de leur vivant. Leur apparence assez originale évoque à la fois des périodes préhistoriques, des tableaux comme ceux de Ruedi Gigger ou des films de science-fictions. Doté d'un sang bleu aux propriétés particulières, cet animal est très prisé par le monde du biomédical.",
+            "en": "Littering the shore at the Ikarus spot, though I never saw them alive. Their unusual look evokes prehistoric times, H.R. Giger paintings, or sci-fi movies. Possessing blue blood with unique properties, this creature is highly prized in biomedical research.",
+            "es": "Mudas repartidas por la orilla del spot de Ikarus, aunque nunca las vi vivas. Su aspecto peculiar evoca épocas prehistóricas, cuadros de H.R. Giger o películas de ciencia ficción. Posee sangre azul con propiedades únicas, muy valorada en el campo biomédico."
+        },
         "icon": "pets",
         "image": "assets/images/poi/limule.jpeg"
     },
     {
-        "name": "Fedeeeerico",
+        "name": {
+            "fr": "Fedeeeerico",
+            "en": "Fedeeeerico",
+            "es": "Fedeeeerico"
+        },
         "coords": [
             21.320143,
             -86.809245
         ],
-        "description": "Globetrotter et prof de kite, c'est le mec stylé du spot! 🇮🇹 Il m'a donné de super conseils pour sauter plus haut et pas mals de tricks: Grazie Mille!!🤌",
+        "description": {
+            "fr": "Globetrotter et prof de kite, c'est le mec stylé du spot! 🇮🇹 Il m'a donné de super conseils pour sauter plus haut et pas mal de tricks: Grazie Mille!!🤌",
+            "en": "Globetrotter and kite instructor, coolest guy at the spot! 🇮🇹 Gave me awesome tips to jump higher and learn new tricks: Grazie Mille!!🤌",
+            "es": "Trotamundos y profesor de kite, ¡el chico con más estilo del lugar! 🇮🇹 Me dio superconsejos para saltar más alto y trucos varios: ¡Grazie Mille!!🤌"
+        },
         "icon": "group",
         "image": "assets/images/poi/federico.jpeg"
     },
     {
-        "name": "Mangrove",
+        "name": {
+            "fr": "Mangrove",
+            "en": "Mangrove",
+            "es": "Manglar"
+        },
         "coords": [
             21.35,
             -86.793
         ],
-        "description": "Ecosystem présent tout le long de la réserve naturelle de Chacmuchuch. L'arbre principal sont les étranges Palétuviers, dont les racines grandissent par leur branches qui forment des sortes d'échasse (similitude très forte à la forme finale d'Eren Jaeger) qui s'enracinent dans le sol. Par sa densité il forme un rempart de protections pour beaucoup d'espèces vivantes. J'ai un souvenir d'enfance d'avoir eu un jeu pour ordinateur qui donnait beaucoup d'informations sur cet écosysteme mais je n'arrive pas à me souvenir du nom (et visiblement c'est pas marine malice)L",
+        "description": {
+            "fr": "Écosystème présent tout le long de la réserve naturelle de Chacmuchuch. L'arbre principal est l'étrange palétuvier, dont les racines grandissent par leurs branches pour former des stipes qui s'enracinent dans le sol. Par sa densité, il forme un rempart de protection pour beaucoup d'espèces. J'ai un souvenir d'enfance d'un jeu PC sur cet écosystème, mais impossible de retrouver le nom!",
+            "en": "Ecosystem stretching along the Chacmuchuch natural reserve. The main tree is the strange mangrove with aerial stilt roots growing down to anchor in the mud. Its density creates a safe haven for many species. I recall an old childhood PC game about this ecosystem, but can't remember its name!",
+            "es": "Ecosistema presente a lo largo de la reserva natural Chacmuchuch. El árbol principal es el curioso mangle, con raíces aéreas que crecen desde las ramas echando raíces en el suelo. Su densidad forma un refugio protegido para muchas especies. Recuerdo un juego de PC de la infancia sobre este ecosistema, ¡pero no logro recordar el nombre!"
+        },
         "icon": "eco",
         "image": "assets/images/poi/mangrove.jpeg"
     },
     {
-        "name": "Tortue",
+        "name": {
+            "fr": "Tortue",
+            "en": "Sea Turtle",
+            "es": "Tortuga marina"
+        },
         "coords": [
             20.850263,
             -86.871296
         ],
-        "description": "Grâce incarnée, toujours très émouvant de faire sa rencontre sous l'eau, en bord de plage publique.",
+        "description": {
+            "fr": "Grâce incarnée, toujours très émouvant de faire sa rencontre sous l'eau, en bord de plage publique.",
+            "en": "Grace in motion, always a moving experience to swim past one right off a public beach.",
+            "es": "Gracia encarnada, siempre emocionante cruzarla bajo el agua al lado de la playa pública."
+        },
         "icon": "pets",
         "image": "assets/images/poi/tortue_mx.jpeg"
     },
     {
-        "name": "Raie",
+        "name": {
+            "fr": "Raie",
+            "en": "Stingray",
+            "es": "Raya"
+        },
         "coords": [
             20.845571,
             -86.869258
         ],
-        "description": "Nageur hors pair, voltigeur aerien au dard qui laisse des souvenirs. Toujours un plaisir de nager avec lui, mais désormais au courant des dommages qu'il peut infliger, je concerve mes distances.",
+        "description": {
+            "fr": "Nageur hors pair, voltigeur aérien au dard qui laisse des souvenirs. Toujours un plaisir de nager avec lui, mais désormais au courant des dommages qu'il peut infliger, je conserve mes distances.",
+            "en": "Incredible swimmer and aerial glider with a stinger that leaves a mark. Always a pleasure to swim along, though now aware of the sting's power, I keep my distance.",
+            "es": "Nadadora excepcional y voladora acuática con un aguijón memorable. Siempre un placer nadar con ella, pero sabiendo el daño que puede hacer, mantengo la distancia."
+        },
         "icon": "pets",
         "image": "assets/images/poi/raie_mx.jpeg"
     },
     {
-        "name": "Singe Araignée",
+        "name": {
+            "fr": "Singe Araignée",
+            "en": "Spider Monkey",
+            "es": "Mono araña"
+        },
         "coords": [
             20.845055,
             -86.896551
         ],
-        "description": "En direction du Jardín Botanico Dr. Alfredo Barrera Marín, cherchant à rencontrer ce primate, j'ai pu l'apperçevoir le long de la route. Ironiquement dans le parc, impossible de l'appercevoir, il devait faire la grasse mat.",
+        "description": {
+            "fr": "En direction du Jardín Botanico Dr. Alfredo Barrera Marín, cherchant à rencontrer ce primate, j'ai pu l'apercevoir le long de la route. Ironiquement dans le parc, impossible de l'apercevoir, il devait faire la grasse mat'.",
+            "en": "On the way to the Dr. Alfredo Barrera Marín Botanical Garden, looking to spot this primate, I spotted one along the roadside. Ironically inside the park itself, none were in sight—probably sleeping in.",
+            "es": "Camino al Jardín Botánico Dr. Alfredo Barrera Marín buscando ver a este primate, lo divisé junto a la carretera. Irónicamente dentro del parque fue imposible verlo, ¡estaría durmiendo hasta tarde!"
+        },
         "icon": "pets",
         "image": "assets/images/poi/singe_araignee.jpeg"
     },
     {
-        "name": "Agouti",
+        "name": {
+            "fr": "Agouti",
+            "en": "Agouti",
+            "es": "Agutí"
+        },
         "coords": [
             20.844618,
             -86.903002
         ],
-        "description": "Petit rongeur, difficile à se faire prendre en photo sans zoom, on peut le répérer assez facilement au bruit qu'il fait dans les feuilles mortes.",
+        "description": {
+            "fr": "Petit rongeur, difficile à prendre en photo sans zoom, on peut le repérer assez facilement au bruit qu'il fait dans les feuilles mortes.",
+            "en": "Small rodent, tricky to photograph without zoom, but easily spotted by the rustling noise it makes in dry leaves.",
+            "es": "Pequeño roedor, difícil de fotografiar sin zoom; se detecta fácilmente por el ruido que hace entre las hojas secas."
+        },
         "icon": "pets",
         "image": "assets/images/poi/agouti.jpeg"
     },
     {
-        "name": "Renard Gris",
+        "name": {
+            "fr": "Renard Gris",
+            "en": "Gray Fox",
+            "es": "Zorro gris"
+        },
         "coords": [
             21.306262,
             -86.813521
         ],
-        "description": "Animal discret et difficile à prendre en photo. Apperçu le long de la route en attendant le colectivo. J'ai cru dans un premier temps qu'il s'agissait du mythique coyotte mais son physique est un peu plus petit.",
+        "description": {
+            "fr": "Animal discret et difficile à prendre en photo. Aperçu le long de la route en attendant le colectivo. J'ai cru dans un premier temps qu'il s'agissait du mythique coyote mais son physique est un peu plus petit.",
+            "en": "Discreet animal, hard to capture on camera. Spotted roadside while waiting for the colectivo. At first I thought it was a mythical coyote, but it's slightly smaller.",
+            "es": "Animal discreto y difícil de fotografiar. Avistado junto a la carretera esperando el colectivo. Al principio pensé que era un coyote, pero su tamaño es algo menor."
+        },
         "icon": "pets",
         "image": "assets/images/poi/renard_gris.jpeg"
     },
     {
-        "name": "Crocodile",
+        "name": {
+            "fr": "Crocodile",
+            "en": "Crocodile",
+            "es": "Cocodrilo"
+        },
         "coords": [
             20.852450,
             -86.887696
         ],
-        "description": "Pas encore apperçu.. Le long de la route de 2km, je chercher à appercevoir ce mythique prédateur au travers des mangrove et marécage qui longent la route. Seuls les paneaux attestent de sa présence.",
+        "description": {
+            "fr": "Pas encore aperçu.. Le long de la route de 2km, je cherche à apercevoir ce mythique prédateur au travers des mangroves et marécages qui longent la route. Seuls les panneaux attestent de sa présence.",
+            "en": "Not spotted yet.. Along the 2km road, I kept scanning the roadside mangroves and swamps for this legendary predator. Only the warning signs confirm its presence.",
+            "es": "Aún no avistado.. A lo largo de la ruta de 2km intenté divisar a este depredador en los manglares y pantanos. Solo los carteles confirman su presencia."
+        },
         "icon": "pets",
         "image": "assets/images/poi/croco_mx.jpeg"
     },
     {
-        "name": "Punta Mosquito",
+        "name": {
+            "fr": "Punta Mosquito",
+            "en": "Punta Mosquito",
+            "es": "Punta Mosquito"
+        },
         "coords": [
             21.552801,
             -87.347841
         ],
-        "description": "Petite promenade matinale dans un décors proche du fond d'écran windows. Randonnée sur la plage avec des passage de longe côte sportive sur des bancs de sables un peu plus au large.",
+        "description": {
+            "fr": "Petite promenade matinale dans un décor proche du fond d'écran Windows. Randonnée sur la plage avec des passages de longe-côte sportifs sur des bancs de sable un peu plus au large.",
+            "en": "Morning walk in a setting straight out of a Windows wallpaper. Beach hike with fun wading sessions across sandbars offshore.",
+            "es": "Paseo matutino en un entorno digno de fondo de pantalla de Windows. Caminata por la playa bordeando la costa por bancos de arena mar adentro."
+        },
         "icon": "group",
         "image": "assets/images/trips/holbox/team.jpeg"
     },
     {
-        "name": "Holbox Volleyball",
+        "name": {
+            "fr": "Holbox Volleyball",
+            "en": "Holbox Volleyball",
+            "es": "Voleibol en Holbox"
+        },
         "coords": [
             21.527273,
             -87.377650
         ],
-        "description": "Je dépose le sac de courses qui me sert de sac de voyage et je rejoins ensuite le groupe de volontaires de l'hostel rencontré quelques minutes auparavant direction de terrain de volley. Le terrain est un peu le lieu social où pas mal de jeunes se rejoingnent à partir de 17h30. Grand mix que ce soit des tourristes, locaux qui travaillent pour les écoles de plongées ou volontaires des hostels.  Assis sur une barque retournée en guise de tribune, ça papote, ça regarde le coucher du soleil et ça joue. Celui qui gagne reste donc une ambiance détendue sous fond de compétition!",
+        "description": {
+            "fr": "Je dépose le sac de courses qui me sert de sac de voyage et je rejoins ensuite le groupe de volontaires de l'hostel rencontré quelques minutes auparavant direction le terrain de volley. Le terrain est le lieu social où pas mal de jeunes se rejoignent à partir de 17h30. Grand mix de touristes, locaux des écoles de plongée et volontaires. Assis sur une barque retournée en guise de tribune, ça papote, ça regarde le coucher de soleil et ça joue. Le gagnant reste, ambiance détendue mais compétitive!",
+            "en": "Dropped off my grocery bag acting as luggage and joined hostel volunteers I met minutes prior heading to the volleyball court. The court is the social hub gathering youth from 5:30pm onward. A mix of tourists, diving school locals, and volunteers. Sitting on an overturned boat like grandstands, chatting, watching sunset and playing king-of-the-court style!",
+            "es": "Dejo la bolsa de compras que hace de equipaje y me uno al grupo de voluntarios del hostel recién conocidos hacia la cancha de voleibol. Punto de reunión social a partir de las 17:30. Mezcla de turistas, gente de escuelas de buceo y voluntarios. Sentados en una barca dada vuelta como grada, charlando, viendo el atardecer y jugando. ¡El que gana se queda!"
+        },
         "icon": "group",
         "image": "assets/images/trips/holbox/volley.jpeg"
     },
     {
-        "name": "Mayan Monkey",
+        "name": {
+            "fr": "Mayan Monkey",
+            "en": "Mayan Monkey",
+            "es": "Mayan Monkey"
+        },
         "coords": [
             21.215827,
             -86.725826
         ],
-        "description": "Jour de repos: quizz de culture générale, farniente les pieds dans l'eau avec un maillot oublié à la maison.",
+        "description": {
+            "fr": "Jour de repos: quiz de culture générale, farniente les pieds dans l'eau avec un maillot oublié à la maison.",
+            "en": "Rest day: trivia quiz, relaxing with feet in the water while realizing my swimsuit was left back home.",
+            "es": "Día de descanso: trivia cultural, relax con los pies en el agua con el bañador olvidado en casa."
+        },
         "icon": "group",
         "image": "assets/images/trips/isla-mujeres/mayan-monkey.jpeg"
     },
     {
-        "name": "Nilu party",
+        "name": {
+            "fr": "Nilu party",
+            "en": "Nilu party",
+            "es": "Fiesta en Nilu"
+        },
         "coords": [
             21.259233,
             -86.747556
         ],
-        "description": "Les pieds dans le sable on profite de la musique 🎶",
+        "description": {
+            "fr": "Les pieds dans le sable on profite de la musique 🎶",
+            "en": "Feet in the sand, enjoying the music 🎶",
+            "es": "Con los pies en la arena disfrutando la música 🎶"
+        },
         "icon": "group",
         "image": "assets/images/trips/isla-mujeres/nilu.jpeg"
     },
     {
-        "name": "Tulum la street",
+        "name": {
+            "fr": "Tulum la street",
+            "en": "Tulum streets",
+            "es": "Calles de Tulum"
+        },
         "coords": [
             20.205466,
             -87.464560
         ],
-        "description": "",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "group",
         "image": "assets/images/trips/tulum/clara.jpeg"
     },
     {
-        "name": "Tortue x Raies",
+        "name": {
+            "fr": "Tortue x Raies",
+            "en": "Turtle x Rays",
+            "es": "Tortuga y Rayas"
+        },
         "coords": [
             20.219683,
             -87.410213
         ],
-        "description": "Danse avec la tortue et les raies en face des ruines maya de Tulum.<br><br>L'envers du décors c'est que le rivage est couvert d'un quantité astronomique de sargasse.",
+        "description": {
+            "fr": "Danse avec la tortue et les raies en face des ruines mayas de Tulum.<br><br>L'envers du décor c'est que le rivage est couvert d'une quantité astronomique de sargasses.",
+            "en": "Swimming with turtles and rays in front of Tulum Maya ruins.<br><br>Behind the scenes: shore covered in massive amounts of sargassum seaweed.",
+            "es": "Nadando con la tortuga y las rayas frente a las ruinas mayas de Tulum.<br><br>La otra cara de la moneda: la orilla cubierta por una cantidad enorme de sargazo."
+        },
         "icon": "pets",
         "image": "assets/images/trips/tulum/tortue-tulum.gif"
     },
     {
-        "name": "Front Roll on sunset 🤘",
+        "name": {
+            "fr": "Front Roll au coucher de soleil 🤘",
+            "en": "Sunset Front Roll 🤘",
+            "es": "Front Roll al atardecer 🤘"
+        },
         "coords": [
             21.325667,
             -86.833007
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "kitesurfing",
         "image": "assets/images/mexico/ikarus-kitesurf.gif"
     },
     {
-        "name": "Passion cailloux",
+        "name": {
+            "fr": "Passion cailloux",
+            "en": "Stone skipping passion",
+            "es": "Pasión por los ricochets"
+        },
         "coords": [
             21.321149,
             -86.812796
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "self_improvement",
         "image": "assets/images/mexico/ikarus-ricochet.gif"
     }

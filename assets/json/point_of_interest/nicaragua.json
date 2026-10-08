@@ -1,197 +1,380 @@
 [
     {
-        "name": "Canasson",
+        "name": {
+            "fr": "Canasson",
+            "en": "Horse",
+            "es": "Caballo"
+        },
         "coords": [
             12.395387,
             -87.067283
         ],
-        "description": "Première fois sur un canasson super rapdide!",
+        "description": {
+            "fr": "Première fois sur un canasson super rapide!",
+            "en": "First time riding a super fast horse!",
+            "es": "¡Primera vez en un caballo superrápido!"
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/canasson-turtle.jpeg"
     },
     {
-        "name": "La Paloma Ometepe Airport",
+        "name": {
+            "fr": "Aéroport La Paloma Ometepe",
+            "en": "La Paloma Ometepe Airport",
+            "es": "Aeropuerto La Paloma Ometepe"
+        },
         "coords": [
             11.523696,
             -85.703194
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "motorcycle",
         "image": "assets/images/nicaragua/moto-ometepe.jpeg"
     },
     {
-        "name": "Kitesurf Ometepe 🤙",
+        "name": {
+            "fr": "Kitesurf Ometepe 🤙",
+            "en": "Kitesurf Ometepe 🤙",
+            "es": "Kitesurf Ometepe 🤙"
+        },
         "coords": [
             11.497222,
             -85.546445
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "kitesurfing",
         "image": "assets/images/nicaragua/kitesurf-ometepe.jpeg"
     },
     {
-        "name": "Youp Youp",
+        "name": {
+            "fr": "Youp Youp",
+            "en": "Woop Woop",
+            "es": "Yup Yup"
+        },
         "coords": [
             11.523730,
             -85.528414
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "kitesurfing",
         "image": "assets/images/nicaragua/ometepe-kitesurf.gif"
     },
     {
-        "name": "L'envol du bird",
+        "name": {
+            "fr": "L'envol de l'oiseau",
+            "en": "Bird taking off",
+            "es": "El vuelo del ave"
+        },
         "coords": [
             11.440975,
             -85.560548
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/jump-ometepe.jpeg"
     },
     {
-        "name": "Kayak pour aller voir les caïmans",
+        "name": {
+            "fr": "Kayak pour aller voir les caïmans",
+            "en": "Kayaking to see caimans",
+            "es": "Kayak para ver caimanes"
+        },
         "coords": [
             11.479684,
             -85.561584
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "kayaking",
         "image": "assets/images/nicaragua/kayak-caiman.jpeg"
     },
     {
-        "name": "Caïmans à fleur de kayak",
+        "name": {
+            "fr": "Caïmans à fleur de kayak",
+            "en": "Caimans right next to the kayak",
+            "es": "Caimanes al ras del kayak"
+        },
         "coords": [
             11.481061,
             -85.558858
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "kayaking",
         "image": "assets/images/nicaragua/ometepe-caiman.gif"
     },
     {
-        "name": "Finca Mystica",
+        "name": {
+            "fr": "Finca Mystica",
+            "en": "Finca Mystica",
+            "es": "Finca Mystica"
+        },
         "coords": [
             11.438150,
             -85.546551
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "park",
         "image": "assets/images/nicaragua/tarzan-ometepe.jpeg"
     },
     {
-        "name": "Fourmis Porteuse de feuille",
+        "name": {
+            "fr": "Fourmis porteuses de feuilles",
+            "en": "Leafcutter ants",
+            "es": "Hormigas cortadoras de hojas"
+        },
         "coords": [
             11.432949,
             -85.520978
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/ometepe-fourmis.gif"
     },
     {
-        "name": "First time moto",
+        "name": {
+            "fr": "Première fois en moto",
+            "en": "First time riding a motorcycle",
+            "es": "Primera vez en moto"
+        },
         "coords": [
             11.512106,
             -85.714634
         ],
-        "description": "Apprentissage de passage des vitesses en moto en vue de devenir le KTM guy.",
+        "description": {
+            "fr": "Apprentissage du passage des vitesses en moto en vue de devenir le KTM guy.",
+            "en": "Learning gear shifting on a motorbike aiming to become the KTM guy.",
+            "es": "Aprendiendo a cambiar marchas en moto para convertirme en el chico KTM."
+        },
         "icon": "motorcycle",
         "image": "assets/images/nicaragua/ometepe-moto-1.gif"
     },
     {
-        "name": "Plouf",
+        "name": {
+            "fr": "Plouf",
+            "en": "Splash",
+            "es": "Chof"
+        },
         "coords": [
             11.440816,
             -85.561102
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "water",
         "image": "assets/images/nicaragua/ometepe-jump.gif"
     },
     {
-        "name": "Telica",
+        "name": {
+            "fr": "Telica",
+            "en": "Telica Volcano",
+            "es": "Volcán Telica"
+        },
         "coords": [
             12.604867,
             -86.840145
         ],
         "icon": "hiking",
-        "description": "Super rando: 22km A/R, petit bivouac en tente à 300m du sommet du cratère. La saison des pluies arrive donc il fait très chaud, rando sous 34°C donc pas facile!<br>Bonus: au matin on se retrouve entouré par un troupeau de vache avec des cornes de 50cm de long, ça fait pas les malins.",
+        "description": {
+            "fr": "Super rando: 22km A/R, petit bivouac en tente à 300m du sommet du cratère. La saison des pluies arrive donc il fait très chaud, rando sous 34°C donc pas facile!<br>Bonus: au matin on se retrouve entouré par un troupeau de vaches avec des cornes de 50cm de long, ça fait pas les malins.",
+            "en": "Awesome hike: 22km round trip, camping in a tent 300m from crater edge. Rainy season starting, super hot 34°C hike, pretty tough!<br>Bonus: woke up surrounded by a herd of cows with 50cm horns!",
+            "es": "Gran caminata: 22km ida y vuelta, acampando a 300m del cráter. Empieza la época de lluvias, caminata a 34°C muy dura.<br>Bonus: despertamos rodeados por un rebaño de vacas con cuernos de 50cm."
+        },
         "image": "assets/images/nicaragua/volcan-telica.jpeg"
     },
     {
-        "name": "Bouseux en difficultés",
+        "name": {
+            "fr": "Bousiers en difficulté",
+            "en": "Dung beetles in trouble",
+            "es": "Escarabajos peloteros en apuros"
+        },
         "coords": [
             12.605707,
             -86.834240
         ],
         "icon": "pets",
         "image": "assets/images/nicaragua/telica-bouseux.gif",
-        "description": "pierre qui roule n'amasse pas mousse: en l'occurence ils sont bloqués!"
+        "description": {
+            "fr": "Pierre qui roule n'amasse pas mousse: en l'occurrence ils sont bloqués!",
+            "en": "A rolling stone gathers no moss: in this case they are stuck!",
+            "es": "Piedra rodante no coge moho: ¡en este caso están atrapados!"
+        }
     },
     {
-        "name": "Batcave",
+        "name": {
+            "fr": "Batcave",
+            "en": "Batcave",
+            "es": "Cueva de murciélagos"
+        },
         "coords": [
             12.609560,
             -86.842737
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/telica-batcave.gif"
     },
     {
-        "name": "Giga gros crapaud en bas des escaliers",
+        "name": {
+            "fr": "Giga gros crapaud en bas des escaliers",
+            "en": "Giant toad at the bottom of the stairs",
+            "es": "Sapo gigantesco al pie de las escaleras"
+        },
         "coords": [
             12.389914,
             -87.059220
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/surfing-turtle-crapaud.jpeg"
     },
     {
-        "name": "Giga gros crabe fait un ptit coucou",
+        "name": {
+            "fr": "Giga gros crabe fait un petit coucou",
+            "en": "Giant crab saying hi",
+            "es": "Cangrejo gigante saludando"
+        },
         "coords": [
             12.391148,
             -87.059057
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "pets",
         "image": "assets/images/nicaragua/poneloya-crabe.gif"
     },
     {
-        "name": "Un des plus beaux",
+        "name": {
+            "fr": "Un des plus beaux",
+            "en": "One of the finest",
+            "es": "Uno de los más bonitos"
+        },
         "coords": [
             12.397025,
             -87.071239
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "wb_twilight",
         "image": "assets/images/nicaragua/poneloya-sunset.gif"
     },
     {
-        "name": "Petit tour de pêche avec des locaux",
+        "name": {
+            "fr": "Petit tour de pêche avec des locaux",
+            "en": "Fishing trip with locals",
+            "es": "Paseo de pesca con locales"
+        },
         "coords": [
             11.347385,
             -86.069672
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "phishing",
         "image": "assets/images/nicaragua/fishing.gif"
     },
     {
-        "name": "La pêche du jour!",
+        "name": {
+            "fr": "La pêche du jour!",
+            "en": "Catch of the day!",
+            "es": "¡La pesca del día!"
+        },
         "coords": [
             11.346333,
             -86.047553
         ],
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
         "icon": "phishing",
         "image": "assets/images/nicaragua/fish.jpeg"
     },
     {
-        "name": "El remanzo 🫶",
+        "name": {
+            "fr": "El Remanso 🫶",
+            "en": "El Remanso 🫶",
+            "es": "El Remanso 🫶"
+        },
         "coords": [
             11.220681,
             -85.848501
         ],
         "icon": "surfing",
         "image": "assets/images/nicaragua/el-remanzo.jpeg",
-        "description": "Gros coup de coeur pour ce spot! On a pu bien progresser!"
+        "description": {
+            "fr": "Gros coup de cœur pour ce spot! On a pu bien progresser!",
+            "en": "Fell in love with this spot! Made huge progress surfing here!",
+            "es": "¡Amor a primera vista con este spot! ¡Avanzamos muchísimo!"
+        }
     },
     {
-        "name": "Night Monos",
+        "name": {
+            "fr": "Night Monos",
+            "en": "Night Monos",
+            "es": "Monos nocturnos"
+        },
         "coords": [
             11.383960,
             -86.035541
         ],
         "icon": "pets",
         "image": "assets/images/nicaragua/monkey-popoyo.gif",
-        "description": "l'heure d'aller au lit"
+        "description": {
+            "fr": "L'heure d'aller au lit",
+            "en": "Time to hit the sack",
+            "es": "Hora de ir a dormir"
+        }
     }
 ]

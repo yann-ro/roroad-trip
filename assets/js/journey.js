@@ -59,9 +59,6 @@ const UI_TRANSLATIONS = {
     }
 };
 
-/**
- * Helper to safely extract text based on selected language
- */
 function getLangText(field, lang = 'fr') {
     if (!field) return '';
     if (typeof field === 'string') return field;
