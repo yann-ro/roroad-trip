@@ -3,7 +3,7 @@ title: Wild Kite Peru<br>Mancora, Peru 🇵🇪
 banner: assets/images/peru/mancora-wkp-socialsunset.jpeg
 banner_offset: 55%
 layout: markdown
-track_id: 253A2366889005
+track_id: 253A51218033
 ---
 
 <div style="position: absolute; top: 15%; right: 0; width: 30vw;">

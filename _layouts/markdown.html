@@ -211,8 +211,8 @@
 
         @media (min-aspect-ratio: 1) {
             .video-circle-container {
-                top: 30vh;
-                left: 15vw;
+                top: 25vh;
+                left: 10vw;
                 width: 15vw;
                 height: 15vw;
             }
@@ -412,15 +412,13 @@
 </body>
 
 {% if page.track_id %}
-<iframe id="sc-player"
-    style="position: fixed; left: 0%; bottom: 1.1rem; transform: translateX(-50%); z-index: 999999; width: 25vw; height: 10vh;"
+<iframe id="sc-player" style="position: fixed; left: 0%; bottom: 1.1rem; z-index: 999999; width: 25vw; height: 10vh;"
     scrolling="no" frameborder="no" allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%{{ page.track_id }}&color=%23dc860c&auto_play=true&visual=false">
 </iframe>
 {% endif %}
 
 <style>
-    /* Masquage par défaut des langues inactives */
     .lang-en,
     .lang-es {
         display: none;
