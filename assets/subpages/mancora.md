@@ -32,14 +32,14 @@ track_id: 253A2366889005
   </iframe>
 </div>
 
-Personnages principaux:
+<div class="lang-fr">Personnages principaux:</div><div class="lang-en">Main Characters:</div><div class="lang-es">Personajes principales:</div>
 * <span class="profile-trigger">Eline<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/eline.png" class="profile-pic"><span class="flag-overlay">🇳🇱</span></span></span>
 * <span class="profile-trigger">Mazzy<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/mazzy.png" class="profile-pic"><span class="flag-overlay">🇺🇸</span></span></span>
 * <span class="profile-trigger">Carl<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/carl.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>
 * <span class="profile-trigger">Bing<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/bing.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>
 
 
-# Le volontariat
+# <span class="lang-fr">Le volontariat</span> <span class="lang-en">Volunteering</span> <span class="lang-es">El voluntariado</span>
 
 <div class="carousel-container">
   <div class="carousel-slide">
@@ -57,7 +57,7 @@ Personnages principaux:
   </div>
 </div>
 
-# La vie à Mancora
+# <span class="lang-fr">La vie à Mancora</span> <span class="lang-en">Mancora's Life</span> <span class="lang-es">La vida en Mancora</span>
 
 <div class="carousel-container">
   <div class="carousel-slide">

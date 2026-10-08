@@ -10,6 +10,39 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
+        /* Sélecteur de langue interactif */
+        .lang-switch {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 10000;
+            display: flex;
+            gap: 6px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 5px 10px;
+            border-radius: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+            backdrop-filter: blur(5px);
+        }
+
+        .lang-btn {
+            border: none;
+            background: transparent;
+            color: #666;
+            font-weight: bold;
+            font-size: 13px;
+            padding: 4px 10px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .lang-btn.active,
+        .lang-btn:hover {
+            color: #fff;
+            background: #333;
+        }
+
         .title {
             text-align: center;
             font-family: 'Permanent Marker', system-ui;
@@ -112,7 +145,6 @@
             left: 20px;
             top: 50%;
             z-index: 1000;
-
         }
 
         .back-link-sidebar a {
@@ -132,36 +164,6 @@
                 transform: translateY(-50%);
                 margin-top: 0;
             }
-        }
-
-        .banner-overlay {
-            position: absolute;
-            top: 10vh;
-            left: 0;
-            right: 0;
-            text-align: center;
-            padding: 0 20px;
-            z-index: 10;
-        }
-
-        .banner-title {
-            display: inline;
-            background-color: white;
-            color: black;
-            padding: 5px 15px;
-            font-size: 2.5em;
-            line-height: 1.6;
-            box-decoration-break: clone;
-            -webkit-box-decoration-break: clone;
-            border-radius: 4px;
-        }
-
-        .page-banner img {
-            width: 100%;
-            height: 35vh;
-            object-fit: cover;
-            object-position: center var(--offset);
-            display: block;
         }
 
         .bug-report-button {
@@ -197,42 +199,20 @@
         .bug-report-button:hover svg {
             fill: #ea4335;
         }
-
-
-        .prev,
-        .next {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            background: rgba(0, 0, 0, 0.4);
-            color: white;
-            border: none;
-            padding: 12px 15px;
-            cursor: pointer;
-            z-index: 10;
-            border-radius: 50%;
-            transition: background 0.3s;
-        }
-
-        .prev {
-            left: 10px;
-        }
-
-        .next {
-            right: 10px;
-        }
-
-        .prev:hover,
-        .next:hover {
-            background: rgba(0, 0, 0, 0.8);
-        }
     </style>
 </head>
 
 <body>
 
+    <!-- Sélecteur de langue en boutons JS -->
+    <div class="lang-switch">
+        <button type="button" class="lang-btn active" data-lang="fr">FR 🇫🇷</button>
+        <button type="button" class="lang-btn" data-lang="en">EN 🇬🇧</button>
+        <button type="button" class="lang-btn" data-lang="es">ES 🇪🇸</button>
+    </div>
+
     <div class="back-link-sidebar">
-        <a href="javascript:history.back()">← Retour à la carte</a>
+        <a href="javascript:history.back()" id="back-link">← Retour à la carte</a>
     </div>
 
     <div class="backpack-wrapper" style="--total: {{ page.items.size }};">
@@ -246,9 +226,19 @@
 
         {% for item in page.items %}
         <div class="gear-node" style="--i: {{ forloop.index0 }};">
-            <img src="{{ item.img }}" alt="{{ item.name }}">
+            <img src="{{ item.img }}" alt="{{ item.name.fr | default: item.name }}">
             <div class="info-card">
-                <strong>{{ item.name }}</strong><br>{{ item.desc }}
+                <strong class="item-name" data-fr="{{ item.name.fr | default: item.name | escape }}"
+                    data-en="{{ item.name.en | default: item.name | escape }}"
+                    data-es="{{ item.name.es | default: item.name | escape }}">
+                    {{ item.name.fr | default: item.name }}
+                </strong>
+                <br>
+                <span class="item-desc" data-fr="{{ item.desc.fr | default: item.desc | escape }}"
+                    data-en="{{ item.desc.en | default: item.desc | escape }}"
+                    data-es="{{ item.desc.es | default: item.desc | escape }}">
+                    {{ item.desc.fr | default: item.desc }}
+                </span>
             </div>
         </div>
         {% endfor %}
@@ -261,6 +251,47 @@
                 d="M480-80q-106 0-186-68.5T197-322l-77 77-57-56 87-87q-13-26-21.5-54.5T120-423h-80v-80h80q0-25 5-51.5t16-52.5l-95-94 57-57 101 101q41-55 101-89t128-40v-95h80v95q68 6 128 40t101 89l101-101 57 57-95 94q11 26 16 52.5t5 51.5h80v80h-80q0 28-8.5 56.5T836-332l87 87-57 56-77-77q-17 104-97 172.5T480-80Zm0-120q75 0 127.5-52.5T660-380v-100H300v100q0 75 52.5 127.5T480-200Zm-100-260h200v-120q0-42-29-71t-71-29q-42 0-71 29t-29 71v120Z" />
         </svg>
     </a>
+
+    <!-- Script de changement dynamique de langue -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const buttons = document.querySelectorAll('.lang-btn');
+            const backLink = document.getElementById('back-link');
+
+            const backTexts = {
+                fr: '← Retour à la carte',
+                en: '← Back to map',
+                es: '← Volver al mapa'
+            };
+
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const lang = btn.getAttribute('data-lang');
+
+                    // Active le bon bouton
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+
+                    // Met à jour le texte du bouton de retour
+                    if (backLink && backTexts[lang]) {
+                        backLink.textContent = backTexts[lang];
+                    }
+
+                    // Met à jour les noms des items
+                    document.querySelectorAll('.item-name').forEach(el => {
+                        const val = el.getAttribute(`data-${lang}`);
+                        if (val) el.textContent = val;
+                    });
+
+                    // Met à jour les descriptions des items
+                    document.querySelectorAll('.item-desc').forEach(el => {
+                        const val = el.getAttribute(`data-${lang}`);
+                        if (val) el.textContent = val;
+                    });
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>

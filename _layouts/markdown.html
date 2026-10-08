@@ -8,6 +8,43 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
     <style>
+        /* === Sélecteur de langue === */
+        .lang-selector-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 10000;
+            display: flex;
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(5px);
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            padding: 3px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        }
+
+        .lang-btn {
+            background: transparent;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 16px;
+            font-size: 13px;
+            font-weight: 600;
+            color: #555;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .lang-btn:hover {
+            color: #000;
+        }
+
+        .lang-btn.active {
+            background-color: #2d3436;
+            color: #ffffff;
+        }
+
+        /* === Styles existants === */
         .back-link-sidebar {
             position: static;
             transform: none;
@@ -16,7 +53,6 @@
             left: 20px;
             top: 50%;
             z-index: 1000;
-
         }
 
         .back-link-sidebar a {
@@ -163,7 +199,6 @@
             border-radius: 50%;
             overflow: hidden;
             border: 3px solid white;
-            overflow: hidden;
             z-index: 999;
         }
 
@@ -273,6 +308,13 @@
 </head>
 
 <body>
+    <!-- Sélecteur de langue -->
+    <div class="lang-selector-container">
+        <button class="lang-btn" data-lang="fr">FR 🇫🇷</button>
+        <button class="lang-btn" data-lang="en">EN 🇬🇧</button>
+        <button class="lang-btn" data-lang="es">ES 🇪🇸</button>
+    </div>
+
     {% if page.banner %}
     <div class="page-banner" style="--offset: {{ page.banner_offset | default: '50%' }};">
         <img src="{{ page.banner | relative_url }}">
@@ -283,7 +325,7 @@
     {% endif %}
 
     <div class="back-link-sidebar">
-        <a href="javascript:history.back()">← Retour à la carte</a>
+        <a href="javascript:history.back()" id="back-link-text">← Retour à la carte</a>
     </div>
 
     <article class="post" style="padding: 20px; max-width: 800px; margin: 0 auto;">
@@ -304,7 +346,45 @@
                 d="M480-80q-106 0-186-68.5T197-322l-77 77-57-56 87-87q-13-26-21.5-54.5T120-423h-80v-80h80q0-25 5-51.5t16-52.5l-95-94 57-57 101 101q41-55 101-89t128-40v-95h80v95q68 6 128 40t101 89l101-101 57 57-95 94q11 26 16 52.5t5 51.5h80v80h-80q0 28-8.5 56.5T836-332l87 87-57 56-77-77q-17 104-97 172.5T480-80Zm0-120q75 0 127.5-52.5T660-380v-100H300v100q0 75 52.5 127.5T480-200Zm-100-260h200v-120q0-42-29-71t-71-29q-42 0-71 29t-29 71v120Z" />
         </svg>
     </a>
+
     <script>
+        // === Gestion de la langue ===
+        const BACK_LINK_TEXTS = {
+            fr: "← Retour à la carte",
+            en: "← Back to map",
+            es: "← Volver al mapa"
+        };
+
+        function setAppLanguage(lang) {
+            localStorage.setItem('user-lang', lang);
+
+            // Mise à jour de l'état visuel des boutons
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.lang === lang);
+            });
+
+            // Mise à jour du lien de retour
+            const backLink = document.getElementById('back-link-text');
+            if (backLink) {
+                backLink.textContent = BACK_LINK_TEXTS[lang] || BACK_LINK_TEXTS.fr;
+            }
+
+            // Émission de l'événement global écouté par JourneyManager & POIManager
+            window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const savedLang = localStorage.getItem('user-lang') || 'fr';
+            setAppLanguage(savedLang);
+
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    setAppLanguage(btn.dataset.lang);
+                });
+            });
+        });
+
+        // === Gestion du carrousel ===
         function updateCarousel(container, newIndex) {
             const slides = container.querySelectorAll('.carousel-slide img');
             const dots = container.querySelectorAll('.dot');
@@ -333,10 +413,93 @@
 
 {% if page.track_id %}
 <iframe id="sc-player"
-    style="position: fixed; left: 15%; bottom: 1.1rem; transform: translateX(-50%); z-index: 999999; width: 25vw; height: 10vh;"
+    style="position: fixed; left: 0%; bottom: 1.1rem; transform: translateX(-50%); z-index: 999999; width: 25vw; height: 10vh;"
     scrolling="no" frameborder="no" allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%{{ page.track_id }}&color=%23dc860c&auto_play=true&visual=false">
 </iframe>
 {% endif %}
+
+<style>
+    /* Masquage par défaut des langues inactives */
+    .lang-en,
+    .lang-es {
+        display: none;
+    }
+
+    body[data-lang="en"] .lang-fr,
+    body[data-lang="en"] .lang-es {
+        display: none !important;
+    }
+
+    body[data-lang="en"] .lang-en {
+        display: block !important;
+    }
+
+    body[data-lang="es"] .lang-fr,
+    body[data-lang="es"] .lang-en {
+        display: none !important;
+    }
+
+    body[data-lang="es"] .lang-es {
+        display: block !important;
+    }
+
+    body[data-lang="fr"] .lang-en,
+    body[data-lang="fr"] .lang-es {
+        display: none !important;
+    }
+
+    body[data-lang="fr"] .lang-fr {
+        display: block !important;
+    }
+
+    /* Pour les éléments inline (ex: titres) */
+    span.lang-en,
+    span.lang-es {
+        display: none;
+    }
+
+    body[data-lang="en"] span.lang-fr,
+    body[data-lang="en"] span.lang-es {
+        display: none !important;
+    }
+
+    body[data-lang="en"] span.lang-en {
+        display: inline !important;
+    }
+
+    body[data-lang="es"] span.lang-fr,
+    body[data-lang="es"] span.lang-en {
+        display: none !important;
+    }
+
+    body[data-lang="es"] span.lang-es {
+        display: inline !important;
+    }
+
+    body[data-lang="fr"] span.lang-en,
+    body[data-lang="fr"] span.lang-es {
+        display: none !important;
+    }
+
+    body[data-lang="fr"] span.lang-fr {
+        display: inline !important;
+    }
+</style>
+
+<script>
+    function applyLanguage(lang) {
+        document.body.setAttribute('data-lang', lang);
+    }
+
+    window.addEventListener('languageChanged', (e) => {
+        applyLanguage(e.detail?.lang || 'fr');
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const savedLang = localStorage.getItem('user-lang') || 'fr';
+        applyLanguage(savedLang);
+    });
+</script>
 
 </html>

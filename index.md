@@ -11,7 +11,7 @@ layout: none
 />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Life+Savers:wght@400;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
 
 <!-- Import local CSS -->
 <link rel="stylesheet" href="assets/css/style.css">
@@ -55,9 +55,9 @@ layout: none
     <span class="lang-arrow">▾</span>
   </button>
   <ul class="lang-dropdown" id="lang-dropdown">
-    <li data-lang="fr"><span class="flag">🇫🇷</span> Français</li>
-    <li data-lang="en"><span class="flag">🇬🇧</span> English</li>
-    <li data-lang="es"><span class="flag">🇪🇸</span> Español</li>
+    <li data-lang="fr"><span class="flag">🇫🇷</span> FR</li>
+    <li data-lang="en"><span class="flag">🇬🇧</span> EN</li>
+    <li data-lang="es"><span class="flag">🇪🇸</span> ES</li>
   </ul>
 </div>
 </header>
