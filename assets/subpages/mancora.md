@@ -75,6 +75,10 @@ track_id: 253A51218033
 
 ### Le Kite
 
+<div style="text-align: center;">
+<img src="/roroad-trip/assets/images/peru/mancora-windguru.png" alt="Description of image" width="800">
+</div>
+
 <div class="lang-fr" markdown="1">
 
 </div>
@@ -96,6 +100,29 @@ track_id: 253A51218033
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
   </div>
 </div>
+
+<div class="lang-fr" markdown="1">
+  **Prévisions :**
+</div>
+<div class="lang-es" markdown="1">
+  **Previsión:**
+</div>
+<div class="lang-en" markdown="1">
+  **Forecast:**
+</div>
+
+<script id="wg_fwdg_52624_100_1791538341790">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=52624" ,"m=100","uid=wg_fwdg_52624_100_1791538341790" ,"wj=knots" ,"tj=c" ,"waj=m" ,"tij=cm" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=3" ,"vt=forecasts" ,"lng=en" ,"idbs=1" ,"p=WINDSPD,GUST,SMER,TMPE,APCP1s,RATING"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
 
 ### La Maison
 
