@@ -15,7 +15,7 @@
             "es": "Un pequeño encuentro con la iguana local del spot de Ikarus. A falta de viento, se toma un rato al sol sobre las rocas calientes."
         },
         "icon": "pets",
-        "image": "assets/images/poi/iguana.jpeg"
+        "image": "assets/images/mexico/iguana.jpeg"
     },
     {
         "name": {
@@ -33,7 +33,7 @@
             "es": "Pelícanos muy presentes a lo largo de las playas, se les ve a menudo pescando o chapoteando en el agua. Parece amenazante pero resulta ser bastante simpático."
         },
         "icon": "pets",
-        "image": "assets/images/poi/pelican.jpeg"
+        "image": "assets/images/mexico/pelican.jpeg"
     },
     {
         "name": {
@@ -51,7 +51,7 @@
             "es": "Encuentro con toda una familia 'los coatíes' paseando libremente por el Parque Ecológico Kabah. Una especie endémica de América Latina que parece una mezcla entre suricata y mapache."
         },
         "icon": "pets",
-        "image": "assets/images/poi/coati.jpeg"
+        "image": "assets/images/mexico/coati.jpeg"
     },
     {
         "name": {
@@ -69,7 +69,7 @@
             "es": "Residente de Ikarus y gran aviador, le encanta posarse en el techo de los coches para disfrutar de las vistas."
         },
         "icon": "pets",
-        "image": "assets/images/poi/canard-musque.jpeg"
+        "image": "assets/images/mexico/canard-musque.jpeg"
     },
     {
         "name": {
@@ -87,7 +87,7 @@
             "es": "Mudas repartidas por la orilla del spot de Ikarus, aunque nunca las vi vivas. Su aspecto peculiar evoca épocas prehistóricas, cuadros de H.R. Giger o películas de ciencia ficción. Posee sangre azul con propiedades únicas, muy valorada en el campo biomédico."
         },
         "icon": "pets",
-        "image": "assets/images/poi/limule.jpeg"
+        "image": "assets/images/mexico/limule.jpeg"
     },
     {
         "name": {
@@ -105,7 +105,7 @@
             "es": "Trotamundos y profesor de kite, ¡el chico con más estilo del lugar! 🇮🇹 Me dio superconsejos para saltar más alto y trucos varios: ¡Grazie Mille!!🤌"
         },
         "icon": "group",
-        "image": "assets/images/poi/federico.jpeg"
+        "image": "assets/images/mexico/federico.jpeg"
     },
     {
         "name": {
@@ -123,7 +123,7 @@
             "es": "Ecosistema presente a lo largo de la reserva natural Chacmuchuch. El árbol principal es el curioso mangle, con raíces aéreas que crecen desde las ramas echando raíces en el suelo. Su densidad forma un refugio protegido para muchas especies. Recuerdo un juego de PC de la infancia sobre este ecosistema, ¡pero no logro recordar el nombre!"
         },
         "icon": "eco",
-        "image": "assets/images/poi/mangrove.jpeg"
+        "image": "assets/images/mexico/mangrove.jpeg"
     },
     {
         "name": {
@@ -141,7 +141,7 @@
             "es": "Gracia encarnada, siempre emocionante cruzarla bajo el agua al lado de la playa pública."
         },
         "icon": "pets",
-        "image": "assets/images/poi/tortue_mx.jpeg"
+        "image": "assets/images/mexico/tortue_mx.jpeg"
     },
     {
         "name": {
@@ -159,7 +159,7 @@
             "es": "Nadadora excepcional y voladora acuática con un aguijón memorable. Siempre un placer nadar con ella, pero sabiendo el daño que puede hacer, mantengo la distancia."
         },
         "icon": "pets",
-        "image": "assets/images/poi/raie_mx.jpeg"
+        "image": "assets/images/mexico/raie_mx.jpeg"
     },
     {
         "name": {
@@ -177,7 +177,7 @@
             "es": "Camino al Jardín Botánico Dr. Alfredo Barrera Marín buscando ver a este primate, lo divisé junto a la carretera. Irónicamente dentro del parque fue imposible verlo, ¡estaría durmiendo hasta tarde!"
         },
         "icon": "pets",
-        "image": "assets/images/poi/singe_araignee.jpeg"
+        "image": "assets/images/mexico/singe_araignee.jpeg"
     },
     {
         "name": {
@@ -195,7 +195,7 @@
             "es": "Pequeño roedor, difícil de fotografiar sin zoom; se detecta fácilmente por el ruido que hace entre las hojas secas."
         },
         "icon": "pets",
-        "image": "assets/images/poi/agouti.jpeg"
+        "image": "assets/images/mexico/agouti.jpeg"
     },
     {
         "name": {
@@ -213,7 +213,7 @@
             "es": "Animal discreto y difícil de fotografiar. Avistado junto a la carretera esperando el colectivo. Al principio pensé que era un coyote, pero su tamaño es algo menor."
         },
         "icon": "pets",
-        "image": "assets/images/poi/renard_gris.jpeg"
+        "image": "assets/images/mexico/renard_gris.jpeg"
     },
     {
         "name": {
@@ -231,7 +231,7 @@
             "es": "Aún no avistado.. A lo largo de la ruta de 2km intenté divisar a este depredador en los manglares y pantanos. Solo los carteles confirman su presencia."
         },
         "icon": "pets",
-        "image": "assets/images/poi/croco_mx.jpeg"
+        "image": "assets/images/mexico/croco_mx.jpeg"
     },
     {
         "name": {
@@ -249,7 +249,7 @@
             "es": "Paseo matutino en un entorno digno de fondo de pantalla de Windows. Caminata por la playa bordeando la costa por bancos de arena mar adentro."
         },
         "icon": "group",
-        "image": "assets/images/trips/holbox/team.jpeg"
+        "image": "assets/images/mexico/holbox-team.jpeg"
     },
     {
         "name": {
@@ -267,7 +267,7 @@
             "es": "Dejo la bolsa de compras que hace de equipaje y me uno al grupo de voluntarios del hostel recién conocidos hacia la cancha de voleibol. Punto de reunión social a partir de las 17:30. Mezcla de turistas, gente de escuelas de buceo y voluntarios. Sentados en una barca dada vuelta como grada, charlando, viendo el atardecer y jugando. ¡El que gana se queda!"
         },
         "icon": "group",
-        "image": "assets/images/trips/holbox/volley.jpeg"
+        "image": "assets/images/mexico/holbox-volley.jpeg"
     },
     {
         "name": {
@@ -285,7 +285,7 @@
             "es": "Día de descanso: trivia cultural, relax con los pies en el agua con el bañador olvidado en casa."
         },
         "icon": "group",
-        "image": "assets/images/trips/isla-mujeres/mayan-monkey.jpeg"
+        "image": "assets/images/mexico/isla-mujeres-mayan-monkey.jpeg"
     },
     {
         "name": {
@@ -303,7 +303,7 @@
             "es": "Con los pies en la arena disfrutando la música 🎶"
         },
         "icon": "group",
-        "image": "assets/images/trips/isla-mujeres/nilu.jpeg"
+        "image": "assets/images/mexico/isla-mujeres-nilu.jpeg"
     },
     {
         "name": {
@@ -321,7 +321,7 @@
             "es": ""
         },
         "icon": "group",
-        "image": "assets/images/trips/tulum/clara.jpeg"
+        "image": "assets/images/mexico/tulum-clara.jpeg"
     },
     {
         "name": {
@@ -339,7 +339,7 @@
             "es": "Nadando con la tortuga y las rayas frente a las ruinas mayas de Tulum.<br><br>La otra cara de la moneda: la orilla cubierta por una cantidad enorme de sargazo."
         },
         "icon": "pets",
-        "image": "assets/images/trips/tulum/tortue-tulum.gif"
+        "image": "assets/images/mexico/tulum-tortue.gif"
     },
     {
         "name": {
