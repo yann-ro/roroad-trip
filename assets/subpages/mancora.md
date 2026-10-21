@@ -32,11 +32,32 @@ track_id: 253A51218033
   </iframe>
 </div>
 
-<span class="lang-fr">Personnages principaux:</span><span class="lang-en">Main Characters:</span><span class="lang-es">Personajes principales:</span>
-* <span class="profile-trigger">Eline<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/eline.png" class="profile-pic"><span class="flag-overlay">🇳🇱</span></span></span>: <span class="lang-fr">Binôme à l'école</span><span class="lang-es">Compañera de equipo en la escuela</span><span class="lang-en">Teammate at the school</span>👯
-* <span class="profile-trigger">Mazzy<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/mazzy.png" class="profile-pic"><span class="flag-overlay">🇺🇸</span></span></span>: <span class="lang-fr">Volontaire à La Maison (endroit où on habite)</span><span class="lang-es">Voluntario en La Maison (el lugar donde vivimos)</span><span class="lang-en">Volunteer at La Maison (the place where we live)</span>
-* <span class="profile-trigger">Carl<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/carl.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>: <span class="lang-fr">Importateur de good vibes</span><span class="lang-es">Importador de buenas vibras</span><span class="lang-en">Importer of good vibes</span>
-* <span class="profile-trigger">Bing<span class="profile-card"><img src="/roroad-trip/assets/images/peru/people/bing.png" class="profile-pic"><span class="flag-overlay">🐱</span></span></span>: <span class="lang-fr">Chapardeur de la nuit</span><span class="lang-es">Merodeador de la noche</span><span class="lang-en">Night snatcher</span>
+<div class="lang-fr" markdown="1">
+  Personnages principaux:
+  * {{ site.profiles.wkp_eline }}: Binôme à l'école 👯
+  * {{ site.profiles.wkp_mazzy }}: Volontaire à La Maison (endroit où on habite)
+  * {{ site.profiles.wkp_martin }}: Joyeux kiteur, arrivé en seconde partie
+  * {{ site.profiles.wkp_carl }}: Importateur de good vibes
+  * {{ site.profiles.wkp_bing }}: Chapardeur de la nuit
+</div>
+
+<div class="lang-en" markdown="1">
+  Main Characters:
+  * {{ site.profiles.wkp_eline }}: Teammate at the school 👯
+  * {{ site.profiles.wkp_mazzy }}: Volunteer at La Maison (the place where we live)
+  * {{ site.profiles.wkp_martin }}: Happy kiter who joined in the second half
+  * {{ site.profiles.wkp_carl }}: Importer of good vibes
+  * {{ site.profiles.wkp_bing }}: Night snatcher
+</div>
+
+<div class="lang-es" markdown="1">
+  Personajes principales:
+  * {{ site.profiles.wkp_eline }}: Compañera de equipo en la escuela 👯
+  * {{ site.profiles.wkp_mazzy }}: Voluntario en La Maison (el lugar donde vivimos)
+  * {{ site.profiles.wkp_martin }}: Kiter alegre, llegó en la segunda mitads
+  * {{ site.profiles.wkp_carl }}: Importador de buenas vibras
+  * {{ site.profiles.wkp_bing }}: Merodeador de la noche
+</div>
 
 
 # <span class="lang-fr">Le volontariat</span><span class="lang-en">Volunteering</span><span class="lang-es">El voluntariado</span>
@@ -75,18 +96,30 @@ track_id: 253A51218033
 
 ### Le Kite
 
-<div style="text-align: center;">
-<img src="/roroad-trip/assets/images/peru/mancora-windguru.png" alt="Description of image" width="800">
-</div>
 
 <div class="lang-fr" markdown="1">
+L'équipe de kite:
+* Le chef {{ site.profiles.wkp_axel }}
+* Les instructeurs: {{ site.profiles.wkp_valentin }}, {{ site.profiles.wkp_humberto }}, {{ site.profiles.wkp_guillaume }}, {{ site.profiles.wkp_fredo }}
+* le tchatcheur de la plage {{ site.profiles.wkp_carlos }}
 
 </div>
 <div class="lang-es" markdown="1">
+El equipo de kite:
+* El jefe: {{ site.profiles.wkp_axel }}
+* Los instructores: {{ site.profiles.wkp_valentin }}, {{ site.profiles.wkp_humberto }}, {{ site.profiles.wkp_guillaume }}, {{ site.profiles.wkp_fredo }}
+* El floro de la playa: {{ site.profiles.wkp_carlos }}
 
 </div>
 <div class="lang-en" markdown="1">
-    
+The kite team:
+* The manager: {{ site.profiles.wkp_axel }}
+* The instructors: {{ site.profiles.wkp_valentin }}, {{ site.profiles.wkp_humberto }}, {{ site.profiles.wkp_guillaume }}, {{ site.profiles.wkp_fredo }}
+* The beach smooth-talker guy on the beach: {{ site.profiles.wkp_carlos }}
+</div>
+
+<div style="text-align: center;">
+<img src="/roroad-trip/assets/images/peru/mancora-windguru.png" alt="Description of image" width="800">
 </div>
 
 <div class="carousel-container">
@@ -156,25 +189,28 @@ track_id: 253A51218033
 <div class="lang-fr" markdown="1">
   Grand concours de cocktails & autres dégustations (incluant les fameux coquishots 🐚):
   1. Coquishot 🐚
-  2. Pisco Sour 🇵🇪
-  3. Pisco Sour 🇵🇪
-  4&5. Mazzy recette spéciale
+  2. Pisco Sour 🇵🇪 (yann)
+  3. Chicha Morada 🇵🇪 (eline)
+  4. Lava Cocktail 🌋 (Mazzy recette spéciale)
+  5. bis
   6. Degustation de vin avec Yannadelrey
 </div>
 <div class="lang-es" markdown="1">
   Gran concurso de cócteles y otras degustaciones (incluyendo los famosos coquishots 🐚):
   1. Coquishot 🐚
-  2. Pisco Sour 🇵🇪
-  3. Pisco Sour 🇵🇪
-  4&5. Receta especial de Mazzy
+  2. Pisco Sour 🇵🇪 (yann)
+  3. Chicha Morada 🇵🇪 (eline)
+  4. Lava Cocktail 🌋 (Receta especial de Mazzy)
+  5. bis
   6. Cata de vinos con Yannadelrey
 </div>
 <div class="lang-en" markdown="1">
   Big cocktail competition & other tastings (including the famous coquishots 🐚):
   1. Coquishot 🐚
-  2. Pisco Sour 🇵🇪
-  3. Pisco Sour 🇵🇪
-  4&5. Mazzy's special recipe
+  2. Pisco Sour 🇵🇪 (yann)
+  3. Chicha Morada 🇵🇪 (eline)
+  4. Lava Cocktail 🌋 (Mazzy's special)
+  5. bis
   6. Wine tasting with Yannadelrey
 </div>
 
@@ -274,27 +310,30 @@ track_id: 253A51218033
 
 <div class="lang-fr" markdown="1">
   Les semaines et les évènements à Mancora sont très rythmés: 
-  * Tous les soirs c'est jeu libre en beachvolley à partir de 18h30
-  * Mardi et Jeudi matin à 7h00 c'est entraînement de beachvolley
-  * Les jeudis soirs c'est soirée Salsa au Psygon 💃
-  * Samedi soirée au Qema
-  * Tous les 15j le vendredi: tournois de volley et djset house au Papa Mo's
+  * 🏐 Tous les soirs c'est jeu libre en beachvolley à partir de 18h30
+  * ⚽️ Lundi et Mercredi c'est five au terrain de mancora 
+  * 🏐 Mardi et Jeudi matin à 7h00 c'est entraînement de beachvolley
+  * 💃 Les jeudis soirs c'est soirée Salsa au Psygon 
+  * 🪩 Samedi soirée au Qema 
+  * 🛖 Tous les 15j le vendredi: tournois de volley et djset house au Papa Mo's 
 </div>
 <div class="lang-es" markdown="1">
   Las semanas y los eventos en Máncora tienen mucho ritmo:
-  * Todas las tardes/noches hay vóley playa libre a partir de las 18:30 h
-  * Los martes y jueves por la mañana a las 7:00 h hay entrenamiento de vóley playa
+  * 🏐 Todas las tardes/noches hay vóley playa libre a partir de las 18:30
+  * ⚽️ Los lunes y miércoles hay pichanga de 5 en la cancha de Máncora
+  * 🏐 Los martes y jueves por la mañana a las 7:00 h hay entrenamiento de vóley playa
   * Los jueves por la noche hay noche de salsa en el Psygon 💃
   * Los sabados por la noche hay fiesta en el Qema
-  * Cada 15 días, los viernes: torneo de vóley y sesión de DJ house al Papa Mo's
+  * 🛖 Cada 15 días, los viernes: torneo de vóley y sesión de DJ house al Papa Mo's
 </div>
 <div class="lang-en" markdown="1">
   Weeks and events in Mancora have a great rhythm:
-  * Every evening starting at 6:30 PM there is casual beach volleyball
-  * Tuesday and Thursday mornings at 7:00 AM there is beach volleyball training
-  * Thursday nights it's Salsa night at Psygon 💃
-  * Saturday night it's party time at Qema
-  * Every two weeks on Friday: volleyball tournament and house DJ set at Papa Mo's
+  * 🏐 Every evening starting at 6:30 PM there is casual beach volleyball
+  * ⚽️ Mondays and Wednesdays it's 5-a-side at the Mancora pitch
+  * 🏐 Tuesday and Thursday mornings at 7:00 AM there is beach volleyball training
+  * 💃 Thursday nights it's Salsa night at Psygon 💃
+  * 🪩 Saturday night it's party time at Qema
+  * 🛖 Every two weeks on Friday: volleyball tournament and house DJ set at Papa Mo's
 </div>
 
 <div class="carousel-container">
