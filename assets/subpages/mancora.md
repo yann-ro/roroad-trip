@@ -103,6 +103,8 @@ L'équipe de kite:
 * Les instructeurs: {{ site.profiles.wkp_valentin }}, {{ site.profiles.wkp_humberto }}, {{ site.profiles.wkp_guillaume }}, {{ site.profiles.wkp_fredo }}
 * le tchatcheur de la plage {{ site.profiles.wkp_carlos }}
 
+
+
 </div>
 <div class="lang-es" markdown="1">
 El equipo de kite:
@@ -350,4 +352,16 @@ The kite team:
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
+</div>
+
+### El Niño
+
+<div class="lang-fr" markdown="1">
+
+</div>
+<div class="lang-es" markdown="1">
+
+</div>
+<div class="lang-en" markdown="1">
+
 </div>

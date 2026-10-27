@@ -17,6 +17,44 @@
         },
         "subpage_path": "assets/subpages/mancora",
         "transport": "bus",
+        "distance": 950
+    },
+    {
+        "name": {
+            "fr": "Huaraz 🇵🇪",
+            "en": "Huaraz 🇵🇪",
+            "es": "Huaraz 🇵🇪"
+        },
+        "coords": [
+            -9.526424,
+            -77.526342
+        ],
+        "image": "assets/images/peru/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 300
+    },
+    {
+        "name": {
+            "fr": "Lima 🇵🇪",
+            "en": "Lima 🇵🇪",
+            "es": "Lima 🇵🇪"
+        },
+        "coords": [
+            -12.081534,
+            -77.020830
+        ],
+        "image": "assets/images/peru/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
         "distance": 0
     }
 ]

@@ -46,6 +46,7 @@ myTrek.load([
     'assets/gpx/trek/angureal.gpx',
     'assets/gpx/trek/iliniza-norte.gpx',
     'assets/gpx/trek/cajeras.gpx',
+    'assets/gpx/trek/laguna-llaca.gpx',
 ],);
 
 const myPara = new GpxManager(myMap.map);
