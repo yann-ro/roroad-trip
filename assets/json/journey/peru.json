@@ -55,6 +55,63 @@
             "es": ""
         },
         "transport": "bus",
+        "distance": 310
+    },
+    {
+        "name": {
+            "fr": "Ica 🇵🇪",
+            "en": "Ica 🇵🇪",
+            "es": "Ica 🇵🇪"
+        },
+        "coords": [
+            -14.071355,
+            -75.728392
+        ],
+        "image": "assets/images/peru/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 700
+    },
+    {
+        "name": {
+            "fr": "Arequipa 🇵🇪",
+            "en": "Arequipa 🇵🇪",
+            "es": "Arequipa 🇵🇪"
+        },
+        "coords": [
+            -16.406685,
+            -71.540730
+        ],
+        "image": "assets/images/peru/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 280
+    },
+    {
+        "name": {
+            "fr": "Puno 🇵🇪",
+            "en": "Puno 🇵🇪",
+            "es": "Puno 🇵🇪"
+        },
+        "coords": [
+            -15.840423,
+            -70.021985
+        ],
+        "image": "assets/images/peru/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
         "distance": 0
     }
 ]
