@@ -80,12 +80,18 @@ track_id: 253A51218033
     <img src="/roroad-trip/assets/images/peru/mancora-wkp-selfie.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-safari.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-wkp-duo.jpeg">
+    <img src="/roroad-trip/assets/images/peru/wkp-frriends.jpeg">
+    <img src="/roroad-trip/assets/images/peru/wkp-team.jpeg">
+    <img src="/roroad-trip/assets/images/peru/wkp-despedida.jpeg">
   </div>
 
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
@@ -127,12 +133,14 @@ The kite team:
 <div class="carousel-container">
   <div class="carousel-slide">
     <img src="/roroad-trip/assets/images/peru/mancora-kite.gif" class="active">
+    <img src="/roroad-trip/assets/images/peru/wkp-fixing.jpeg" class="active">
   </div>
 
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot active" onclick="jumpSlide(this, 1)"></span>
   </div>
 </div>
 
@@ -177,12 +185,19 @@ The kite team:
     <img src="/roroad-trip/assets/images/peru/mancora-crepes.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-pancake.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-pancakes.jpeg">
+    <img src="/roroad-trip/assets/images/peru/mancora-lamaison.jpeg">
+    <img src="/roroad-trip/assets/images/peru/mancora-erinpainting.jpeg">
+    <img src="/roroad-trip/assets/images/peru/wkp-friends.jpeg">
   </div>
 
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
@@ -267,13 +282,15 @@ The kite team:
     <img src="/roroad-trip/assets/images/peru/mancora-ceviceria.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-ceviceria-2.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-market.jpeg">
-    <img src="/roroad-trip/assets/images/peru/mancora-market.jpeg">
+    <img src="/roroad-trip/assets/images/peru/mancora-casamare.jpeg">
   </div>
 
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
@@ -297,12 +314,14 @@ The kite team:
     <img src="/roroad-trip/assets/images/peru/mancora-ballenas.gif" class="active">
     <img src="/roroad-trip/assets/images/peru/mancora-turtle.gif">
     <img src="/roroad-trip/assets/images/peru/mancora-turtle.jpeg">
+    <img src="/roroad-trip/assets/images/peru/mancora-strange.jpeg">
   </div>
 
   <button class="prev" onclick="moveSlide(this, -1)">&#10094;</button>
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
@@ -342,6 +361,7 @@ The kite team:
   <div class="carousel-slide">
     <img src="/roroad-trip/assets/images/peru/mancora-volleyball-team.jpeg" class="active">
     <img src="/roroad-trip/assets/images/peru/mancora-volleyball.jpeg">
+    <img src="/roroad-trip/assets/images/peru/mancora-foot.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-zaigon.jpeg">
     <img src="/roroad-trip/assets/images/peru/mancora-zaigon.gif">
   </div>
@@ -350,6 +370,9 @@ The kite team:
   <button class="next" onclick="moveSlide(this, 1)">&#10095;</button>
   <div class="dots-container">
     <span class="dot active" onclick="jumpSlide(this, 0)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
+    <span class="dot" onclick="jumpSlide(this, 1)"></span>
     <span class="dot" onclick="jumpSlide(this, 1)"></span>
   </div>
 </div>
