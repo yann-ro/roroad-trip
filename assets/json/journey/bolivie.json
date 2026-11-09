@@ -1,0 +1,40 @@
+[
+    {
+        "name": {
+            "fr": "Copacabana 🇧🇴",
+            "en": "Copacabana 🇧🇴",
+            "es": "Copacabana 🇧🇴"
+        },
+        "coords": [
+            -16.165555,
+            -69.087579
+        ],
+        "image": "assets/images/bolivie/copacabana.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 160
+    },
+    {
+        "name": {
+            "fr": "La Paz 🇧🇴",
+            "en": "La Paz 🇧🇴",
+            "es": "La Paz 🇧🇴"
+        },
+        "coords": [
+            -16.493850,
+            -68.124081
+        ],
+        "image": "assets/images/bolivie/",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "transport": "bus",
+        "distance": 0
+    }
+]

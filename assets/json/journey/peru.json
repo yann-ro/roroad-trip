@@ -29,7 +29,7 @@
             -9.526424,
             -77.526342
         ],
-        "image": "assets/images/peru/",
+        "image": "assets/images/peru/huaraz.jpeg",
         "description": {
             "fr": "",
             "en": "",
@@ -48,13 +48,14 @@
             -12.081534,
             -77.020830
         ],
-        "image": "assets/images/peru/",
+        "image": "assets/images/peru/lima.jpeg",
         "description": {
             "fr": "",
             "en": "",
             "es": ""
         },
         "transport": "bus",
+        "transport_image": "assets/images/peru/bus-lima.jpeg",
         "distance": 310
     },
     {
@@ -67,7 +68,7 @@
             -14.071355,
             -75.728392
         ],
-        "image": "assets/images/peru/",
+        "image": "assets/images/peru/ica-huacachina.jpeg",
         "description": {
             "fr": "",
             "en": "",
@@ -86,7 +87,7 @@
             -16.406685,
             -71.540730
         ],
-        "image": "assets/images/peru/",
+        "image": "assets/images/peru/arequipa.jpeg",
         "description": {
             "fr": "",
             "en": "",
@@ -112,6 +113,6 @@
             "es": ""
         },
         "transport": "bus",
-        "distance": 0
+        "distance": 150
     }
 ]

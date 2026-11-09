@@ -214,5 +214,293 @@
             "en": "Daily evening gathering for beach volleyball",
             "es": "Quedada todas las tardes para jugar al vóley playa"
         }
+    },
+    {
+        "name": {
+            "fr": "Churritos",
+            "en": "Churritos",
+            "es": "Churritos"
+        },
+        "coords": [
+            -16.397862,
+            -71.534669
+        ],
+        "icon": "cookie",
+        "image": "assets/images/peru/arequipa-churritos.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Climbing Rooftop",
+            "en": "Climbing Rooftop",
+            "es": "Climbing Rooftop"
+        },
+        "coords": [
+            -16.386117588564293,
+            -71.52769244971766
+        ],
+        "icon": "",
+        "image": "assets/images/peru/arequipa-climbing.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Queso Helado",
+            "en": "Queso Helado",
+            "es": "Queso Helado"
+        },
+        "coords": [
+            -16.397313,
+            -71.536992
+        ],
+        "icon": "cookie",
+        "image": "assets/images/peru/arequipa-helado-de-queso.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Mundo Alpaca",
+            "en": "Mundo Alpaca",
+            "es": "Mundo Alpaca"
+        },
+        "coords": [
+            -16.39208578559793,
+            -71.5354064072046
+        ],
+        "icon": "",
+        "image": "assets/images/peru/arequipa-laine.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Mercado San Camilo",
+            "en": "Mercado San Camilo",
+            "es": "Mercado San Camilo"
+        },
+        "coords": [
+            -16.402486940087073,
+            -71.53532095964755
+        ],
+        "icon": "",
+        "image": "assets/images/peru/arequipa-market.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -9.481752,
+            -77.460996
+        ],
+        "icon": "hiking",
+        "image": "assets/images/peru/huaraz-friends.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Laguna Llaca",
+            "en": "Laguna Llaca",
+            "es": "Laguna Llaca"
+        },
+        "coords": [
+            -9.454607,
+            -77.458746
+        ],
+        "icon": "hiking",
+        "image": "assets/images/peru/huaraz-lago-2.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Laguna Llaca",
+            "en": "Laguna Llaca",
+            "es": "Laguna Llaca"
+        },
+        "coords": [
+            -9.438235,
+            -77.446233
+        ],
+        "icon": "hiking",
+        "image": "assets/images/peru/huaraz-lago.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Tacama",
+            "en": "Tacama",
+            "es": "Tacama"
+        },
+        "coords": [
+            -14.000773,
+            -75.716677
+        ],
+        "icon": "eco",
+        "image": "assets/images/peru/ica-tacama-flowers.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Cine Caleta",
+            "en": "Cine Caleta",
+            "es": "Cine Caleta"
+        },
+        "coords": [
+            -12.138713,
+            -77.015996
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/peru/lima-cine.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -12.144570,
+            -77.025205
+        ],
+        "icon": "group",
+        "image": "assets/images/peru/lima-reunion.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -4.106376,
+            -81.059909
+        ],
+        "icon": "group",
+        "image": "assets/images/peru/mancora-date.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -4.109396,
+            -81.063295
+        ],
+        "icon": "sports_soccer",
+        "image": "assets/images/peru/mancora-foot.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -14.092567,
+            -75.767582
+        ],
+        "icon": "surfing",
+        "image": "assets/images/peru/sand-ski.gif",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Degustation",
+            "en": "Degustation",
+            "es": "Degustation"
+        },
+        "coords": [
+            -14.000363,
+            -75.715529
+        ],
+        "icon": "group",
+        "image": "assets/images/peru/tacama-degustation.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Tacama",
+            "en": "Tacama",
+            "es": "Tacama"
+        },
+        "coords": [
+            -14.002385,
+            -75.719559
+        ],
+        "icon": "eco",
+        "image": "assets/images/peru/tacama.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
     }
 ]

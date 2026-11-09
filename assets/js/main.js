@@ -17,6 +17,7 @@ poiManager.load([
     "assets/json/point_of_interest/colombie.json",
     "assets/json/point_of_interest/equateur.json",
     "assets/json/point_of_interest/peru.json",
+    "assets/json/point_of_interest/bolivie.json",
 ]);
 
 const journey = new JourneyManager(myMap.map);
@@ -31,6 +32,7 @@ journey.load([
     "assets/json/journey/colombie.json",
     "assets/json/journey/equateur.json",
     "assets/json/journey/peru.json",
+    "assets/json/journey/bolivie.json",
 ]);
 
 const myTrek = new GpxManager(myMap.map);

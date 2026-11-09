@@ -1,0 +1,74 @@
+[
+    {
+        "name": {
+            "fr": "Grumpy walker",
+            "en": "Grumpy walker",
+            "es": "Grumpy walker"
+        },
+        "coords": [
+            -16.019829,
+            -69.174260
+        ],
+        "icon": "hiking",
+        "image": "assets/images/bolivie/copacabana-isla-walking.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Coool view",
+            "en": "Coool view",
+            "es": "Coool view"
+        },
+        "coords": [
+            -16.018982,
+            -69.157370
+        ],
+        "icon": "hiking",
+        "image": "assets/images/bolivie/copacabana-isla.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "Joli tag",
+            "en": "",
+            "es": ""
+        },
+        "coords": [
+            -15.993718,
+            -69.188792
+        ],
+        "icon": "format_paint",
+        "image": "assets/images/bolivie/copacabana-tag.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    },
+    {
+        "name": {
+            "fr": "First night in la Paz 💃🕺",
+            "en": "First night in la Paz 💃🕺",
+            "es": "Primera noche en la Paz 💃🕺"
+        },
+        "coords": [
+            -16.509236,
+            -68.128274
+        ],
+        "icon": "group",
+        "image": "assets/images/bolivie/lapaz-night.jpeg",
+        "description": {
+            "fr": "",
+            "en": "",
+            "es": ""
+        }
+    }
+]
