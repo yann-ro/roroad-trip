@@ -243,12 +243,12 @@
             -16.386117588564293,
             -71.52769244971766
         ],
-        "icon": "",
+        "icon": "landscape",
         "image": "assets/images/peru/arequipa-climbing.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Cours d'escalade by Eline",
+            "en": "Climbing class by Eline",
+            "es": "Clase de escalada de Eline"
         }
     },
     {
@@ -264,9 +264,9 @@
         "icon": "cookie",
         "image": "assets/images/peru/arequipa-helado-de-queso.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Vraiment très bon",
+            "en": "Seriously delicious!",
+            "es": "¡De verdad muy bueno!"
         }
     },
     {
@@ -307,9 +307,9 @@
     },
     {
         "name": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Copains de Rando",
+            "en": "Hiking friends",
+            "es": "Amigos de senderismo"
         },
         "coords": [
             -9.481752,
@@ -318,9 +318,9 @@
         "icon": "hiking",
         "image": "assets/images/peru/huaraz-friends.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Après avoir couru tout le long de la rando pour avoir une chance d'avoir le dernier colectivo pour retourner à Huaraz l'heure. J'attends finalement 1h avec les amigos. Super cool jeune couple originaire de Lima et super curieux d'en savoir plus sur la vie en Europe et réciproquement. On planifie de revoir à Lima vu que l'on prend le meme bus de nuit.",
+            "en": "After running the entire trail just to catch the last colectivo back to Huaraz on time, I ended up waiting an hour anyway with my new friends. A super cool young couple from Lima, super curious to learn about life in Europe, and vice versa! We're planning to meet up again in Lima since we're taking the same night bus.",
+            "es": "Después de correr durante toda la caminata para alcanzar a tiempo el último colectivo de regreso a Huaraz, al final terminé esperando una hora con los amigos. Una pareja joven supermaja de Lima, muy curiosa por saber más sobre la vida en Europa y viceversa. Hemos quedado en volver a vernos en Lima, ya que cogemos el mismo autobús nocturno."
         }
     },
     {
@@ -390,16 +390,16 @@
         "icon": "format_paint",
         "image": "assets/images/peru/lima-cine.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Cinéma en plein air super coolos",
+            "en": "Super cool outdoor cinema",
+            "es": "Cine al aire libre superchulo"
         }
     },
     {
         "name": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "La reunion 🫶",
+            "en": "The reunion 🫶",
+            "es": "La reunión 🫶"
         },
         "coords": [
             -12.144570,
@@ -408,16 +408,16 @@
         "icon": "group",
         "image": "assets/images/peru/lima-reunion.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Après 20 jours loin de Máncora, c'est le moment pour les 3 mousquetaires de se dire un dernier au revoir à Lima.",
+            "en": "After 20 days away from Máncora, it is time for the 3 Musketeers to say a final goodbye in Lima.",
+            "es": "Después de 20 días fuera de Máncora, ha llegado el momento de que los 3 mosqueteros se despidan por última vez en Lima."
         }
     },
     {
         "name": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Dating cabane sur la plage",
+            "en": "Dating cabin on the beach",
+            "es": "Dating cabaña en la playa"
         },
         "coords": [
             -4.106376,
@@ -426,16 +426,16 @@
         "icon": "group",
         "image": "assets/images/peru/mancora-date.jpeg",
         "description": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Mignonne petite cabane improvisée pour un date, c'est cute",
+            "en": "A cute little improvised cabin for a date, that's adorable",
+            "es": "Una pequeña cabaña improvisada y mona para una cita, es adorable"
         }
     },
     {
         "name": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Le foot",
+            "en": "Foooooooooootball",
+            "es": "Fuuuuuuuuuuutbal"
         },
         "coords": [
             -4.109396,
@@ -451,9 +451,9 @@
     },
     {
         "name": {
-            "fr": "",
-            "en": "",
-            "es": ""
+            "fr": "Sand Skiing",
+            "en": "Sand Skiing",
+            "es": "Sand Skiing"
         },
         "coords": [
             -14.092567,
@@ -469,9 +469,9 @@
     },
     {
         "name": {
-            "fr": "Degustation",
-            "en": "Degustation",
-            "es": "Degustation"
+            "fr": "Degustation 🍷",
+            "en": "Degustation 🍷",
+            "es": "Degustation 🍷"
         },
         "coords": [
             -14.000363,
